@@ -1,0 +1,4 @@
+# Do not distribute mods
+*.jar
+# Except mods not on CF
+
