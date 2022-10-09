@@ -222,6 +222,11 @@ hash = "0cb1859becba06e139f96d2f99d6a6840d4bf20818753ec6b28f495f1716a4b3"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-fabric-1902.6.0-build.77.pw.toml"
+hash = "121b19bbdab37104827d54f2dcf97c436f2cc98a257b80cd901e994f9ae49520"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "0d66d77d7354d3b8d4b89983c3a576895e9d3e74250a8797897ccf6e0291e6e2"
 metafile = true
@@ -324,6 +329,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.pw.toml"
+hash = "f78ab8ef99f227e8e0278a4b1c235518e27c0eda3c35359127cd615d34b01b9e"
 metafile = true
 
 [[files]]
