@@ -2,3 +2,6 @@
 *.jar
 # Except mods not on CF
 
+# packwiz binary
+packwiz
+!packwiz/

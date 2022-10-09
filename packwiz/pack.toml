@@ -1,0 +1,13 @@
+name = "MeowcorpSMP G2"
+author = "Meowcorp Group"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6741b1fee37bbb073ebbbea30266e96fee8b45c833ebf8d94656b0966a9ffb0e"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.19.2"
