@@ -4,6 +4,15 @@
 private server modpack
 
 ## Development
+
+### Windows users (Read before cloning!)
+This repository uses symlinks. In order to use symlinks on Windows, you must enable Developer Mode
+
+Windows 10: Settings > Update & Security > For developers > Developer Mode
+
+Windows 11: Settings > Privacy and Security > For developers >Developer Mode
+
+### Directory structure
 ```
 .
 ├── common
@@ -23,6 +32,6 @@ If you need to create new folders, create it in the packwiz directory and symlin
 | Mac/Linux | `ln -s ../packwiz/fileOrFolderName .` |
 | Windows File | `mklink fileName ..\packwiz\fileName` |
 | Windows Folder | `mklink /D folderName ..\packwiz\folderName` |
-> Note: You need administrator permissions to create symlinks in Windows.
+> Note: Developer mode has to be enabled to create symlinks. See above for details.
 
 Please run `packwiz curseforge detect` every time you add a CF mod.
