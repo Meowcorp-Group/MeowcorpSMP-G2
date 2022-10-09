@@ -1,9 +1,0 @@
-name = "KubeJS Fabric"
-fillename = "kubejs-fabric-1902.6.0-build.77.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/812822210354872351/1028615999357976597/kubejs-fabric-1902.6.0-build.77.jar"
-
-hash-format = "sha256"
-hash = "067369ed51f0ab6ee5147644aed702cac9415acdc2b7cd1c3fe95027fac10281"

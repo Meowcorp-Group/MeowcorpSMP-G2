@@ -97,6 +97,10 @@ file = "config/yosbr/options.txt"
 hash = "fac2b7b20eaa1b22340ff7afca7daf12e800cc9c520f632f9a0c1b4730211d2c"
 
 [[files]]
+file = "kubejs/server_scripts.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "e6ee4e0303ca4666aa8f53f1920d1abf23c00a2c197edac0ad246812cb329493"
 metafile = true
@@ -112,6 +116,21 @@ hash = "e8de5feaf8b78bd44e38d9502937ea49cfc6679ebc82e2d45eb36d2340115c93"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "8f66157890b20a142ec4aeba1032873abea943ccefc119d18484ac86e54417ad"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "758d94a85f3cb06bdacbb16e695d40079b89b442a3fb3627edc5ab0394993c86"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "bd44363ed309b231bc0ef7bb199c020325bd29637b4a02382b9e1ae91d8ff544"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "fe0fb406a9ba81b2e501d41db4606ed512687045e5c515481edc12b00119940e"
 metafile = true
@@ -122,8 +141,18 @@ hash = "e0f6cbba2f655e4d7906d95d5c9e00837a72fa6a0c52ddadcd35de33c160f017"
 metafile = true
 
 [[files]]
+file = "mods/botania-snapshot.pw.toml"
+hash = "23b915be2162d4627444c45510635430e34b807785f8e6f2258496735257ccbc"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "87d49809ebd20474d7d96511a11c187a86d5efb284117dd0d393004d1ce2dbe3"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "071d3136a96f205bc989c5bcb9b7ec74057f2f0f2a9f1500c18835f07b2a8cbc"
 metafile = true
 
 [[files]]
@@ -212,6 +241,11 @@ hash = "7c3e839ecd643c10c6f905e193b6edc18c978e4be202a031cffd0b3a45266ece"
 metafile = true
 
 [[files]]
+file = "mods/industrial-revolution.pw.toml"
+hash = "fb7a3cd21ae04e61e5166622dbad8b0f5f85510ff7d2f09f12d5264a0539065d"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "6406da143a731e34967124831d4af5a59bf8230bd34b16b7aa79927f41d58e50"
 metafile = true
@@ -222,8 +256,8 @@ hash = "0cb1859becba06e139f96d2f99d6a6840d4bf20818753ec6b28f495f1716a4b3"
 metafile = true
 
 [[files]]
-file = "mods/kubejs-fabric-1902.6.0-build.77.pw.toml"
-hash = "f0aa8f9c55959c0ad12c8e1642cca93f23da04573d64d6df494e78e6f9f46baa"
+file = "mods/kubejs.pw.toml"
+hash = "ae507dd7b0cbd808bfa72479708970b06027e79f3442536e0109ce0337d47572"
 metafile = true
 
 [[files]]
@@ -257,6 +291,11 @@ hash = "198084fae4ff7ee526c4d1b82b82f36585445d2c07b5f1c82e4121724c81400f"
 metafile = true
 
 [[files]]
+file = "mods/megane.pw.toml"
+hash = "6810b9366ae8b05c2046e3f8ae4c12769efeed7393ed2dd8b991136d3c2eb3f2"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "98b6983ca2bd063b9f4f980bcf14ade7c25a5cefe36ffacb3ac8bc557147dd4e"
 metafile = true
@@ -274,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "f8e54f3e87b69e392bd1bb4a41a4aa2f3fb60334773ab84da04a45b46f1d8ff6"
 metafile = true
 
 [[files]]
@@ -302,6 +346,11 @@ hash = "932ec1df27e1a8559007ffdec5f02a1b93c0e0f0baeac3869fbfd6a606a32fa5"
 metafile = true
 
 [[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "8d37f266375e1a0eb9767862325d0aaf65e5508abf15ba4981444eabb28c9756"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "4d5f84481c08f43d7dd35bae05f815a5b1fa39dc7220a62d6226b229f7062569"
 metafile = true
@@ -309,6 +358,16 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "14382dc7503db6e6e02eff91f0935b3aa8b37466fa6d2e949f3c66b8c611f5df"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "7c760da47a3133f22087dcdc48c127f8eb99dc572092f32e2196fa2bf070ec71"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "8d81eeec3000c9f1471a47552c9acf0a389de66f8ccc36fe227c7438950e3cd7"
 metafile = true
 
 [[files]]
@@ -334,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/techreborn.pw.toml"
 hash = "f78ab8ef99f227e8e0278a4b1c235518e27c0eda3c35359127cd615d34b01b9e"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "d6a986ac762750a57ac729adb92a5cd305025960a84e7763234d89014b210ef2"
 metafile = true
 
 [[files]]

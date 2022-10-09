@@ -1,0 +1,13 @@
+name = "WTHIT"
+filename = "wthit-fabric-5.12.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7d8359a74aae1c9942b1914d1887571f12facdc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3965572
+project-id = 440979
