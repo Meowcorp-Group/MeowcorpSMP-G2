@@ -223,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-fabric-1902.6.0-build.77.pw.toml"
-hash = "121b19bbdab37104827d54f2dcf97c436f2cc98a257b80cd901e994f9ae49520"
+hash = "f0aa8f9c55959c0ad12c8e1642cca93f23da04573d64d6df494e78e6f9f46baa"
 metafile = true
 
 [[files]]
