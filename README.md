@@ -5,7 +5,10 @@ private server modpack
 
 ## Development
 
-### Windows users (Read before cloning!)
+### Notice (!!!)
+Please run `./packwiz refresh` after editing files to update the packwiz index !!!
+
+### Windows users (!!!)
 This repository uses symlinks. In order to use symlinks on Windows, you must enable Developer Mode
 
 Windows 10: Settings > Update & Security > For developers > Developer Mode
@@ -34,4 +37,16 @@ If you need to create new folders, create it in the packwiz directory and symlin
 | Windows Folder | `mklink /D folderName ..\packwiz\folderName` |
 > Note: Developer mode has to be enabled to create symlinks. See above for details.
 
-Please run `packwiz curseforge detect` every time you add a CF mod.
+### Adding mods
+If you want to add a CurseForge or Modrinth mod, please use packwiz. Examples:
+- `./packwiz curseforge install https://www.curseforge.com/minecraft/mc-mods/techreborn`
+- `./packwiz curseforge install https://www.curseforge.com/minecraft/mc-mods/techreborn/files/3958646`
+- `./packwiz modrinth install https://modrinth.com/mod/sodium`
+- `./packwiz modrinth install https://modrinth.com/mod/sodium/version/mc1.19.2-0.4.4`
+
+If you are manually adding a mod from CurseForge or Modrinth, please run:
+- `./packwiz curseforge detect`
+or
+- `./packwiz modrinth detect`
+
+If you are adding a mod not available in CurseForge or Modrinth, please make sure the mod's license allows it, and message me or create an issue to add it.
