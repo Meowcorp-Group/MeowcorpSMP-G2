@@ -1,0 +1,1029 @@
+To refresh this file, delete it and run /reload command again! Last updated: Oct 12, 2022, 9:13:25 AM
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand (from Default)
+- minecraft:soul_soil (from Default)
+
+#c:foods
+- minecraft:apple (from Fabric Convention Tags)
+- minecraft:mushroom_stew (from Fabric Convention Tags)
+- minecraft:bread (from Fabric Convention Tags)
+- minecraft:porkchop (from Fabric Convention Tags)
+- minecraft:cooked_porkchop (from Fabric Convention Tags)
+- minecraft:golden_apple (from Fabric Convention Tags)
+- minecraft:enchanted_golden_apple (from Fabric Convention Tags)
+- minecraft:cod (from Fabric Convention Tags)
+- minecraft:salmon (from Fabric Convention Tags)
+- minecraft:tropical_fish (from Fabric Convention Tags)
+- minecraft:pufferfish (from Fabric Convention Tags)
+- minecraft:cooked_cod (from Fabric Convention Tags)
+- minecraft:cooked_salmon (from Fabric Convention Tags)
+- minecraft:cookie (from Fabric Convention Tags)
+- minecraft:melon_slice (from Fabric Convention Tags)
+- minecraft:dried_kelp (from Fabric Convention Tags)
+- minecraft:beef (from Fabric Convention Tags)
+- minecraft:cooked_beef (from Fabric Convention Tags)
+- minecraft:chicken (from Fabric Convention Tags)
+- minecraft:cooked_chicken (from Fabric Convention Tags)
+- minecraft:rotten_flesh (from Fabric Convention Tags)
+- minecraft:spider_eye (from Fabric Convention Tags)
+- minecraft:carrot (from Fabric Convention Tags)
+- minecraft:potato (from Fabric Convention Tags)
+- minecraft:baked_potato (from Fabric Convention Tags)
+- minecraft:poisonous_potato (from Fabric Convention Tags)
+- minecraft:golden_carrot (from Fabric Convention Tags)
+- minecraft:pumpkin_pie (from Fabric Convention Tags)
+- minecraft:rabbit (from Fabric Convention Tags)
+- minecraft:cooked_rabbit (from Fabric Convention Tags)
+- minecraft:rabbit_stew (from Fabric Convention Tags)
+- minecraft:mutton (from Fabric Convention Tags)
+- minecraft:cooked_mutton (from Fabric Convention Tags)
+- minecraft:chorus_fruit (from Fabric Convention Tags)
+- minecraft:beetroot (from Fabric Convention Tags)
+- minecraft:beetroot_soup (from Fabric Convention Tags)
+- minecraft:suspicious_stew (from Fabric Convention Tags)
+- minecraft:sweet_berries (from Fabric Convention Tags)
+- minecraft:glow_berries (from Fabric Convention Tags)
+- minecraft:honey_bottle (from Fabric Convention Tags)
+
+#c:lava_buckets
+- minecraft:lava_bucket (from Fabric Convention Tags)
+
+#minecraft:beacon_payment_items
+- minecraft:netherite_ingot (from Default)
+- minecraft:emerald (from Default)
+- minecraft:diamond (from Default)
+- minecraft:gold_ingot (from Default)
+- minecraft:iron_ingot (from Default)
+
+#c:raw_iron_ores
+- minecraft:raw_iron (from Fabric Convention Tags)
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab (from Default)
+- minecraft:spruce_slab (from Default)
+- minecraft:birch_slab (from Default)
+- minecraft:jungle_slab (from Default)
+- minecraft:acacia_slab (from Default)
+- minecraft:dark_oak_slab (from Default)
+- minecraft:crimson_slab (from Default)
+- minecraft:warped_slab (from Default)
+- minecraft:mangrove_slab (from Default)
+
+#c:magenta_dyes
+- minecraft:magenta_dye (from Fabric Convention Tags)
+
+#minecraft:coal_ores
+- minecraft:coal_ore (from Default)
+- minecraft:deepslate_coal_ore (from Default)
+
+#minecraft:small_flowers
+- minecraft:dandelion (from Default)
+- minecraft:poppy (from Default)
+- minecraft:blue_orchid (from Default)
+- minecraft:allium (from Default)
+- minecraft:azure_bluet (from Default)
+- minecraft:red_tulip (from Default)
+- minecraft:orange_tulip (from Default)
+- minecraft:white_tulip (from Default)
+- minecraft:pink_tulip (from Default)
+- minecraft:oxeye_daisy (from Default)
+- minecraft:cornflower (from Default)
+- minecraft:lily_of_the_valley (from Default)
+- minecraft:wither_rose (from Default)
+
+#c:axes
+- #fabric:axes? (from Fabric Convention Tags)
+- minecraft:diamond_axe (from Fabric Convention Tags)
+- minecraft:golden_axe (from Fabric Convention Tags)
+- minecraft:wooden_axe (from Fabric Convention Tags)
+- minecraft:stone_axe (from Fabric Convention Tags)
+- minecraft:iron_axe (from Fabric Convention Tags)
+- minecraft:netherite_axe (from Fabric Convention Tags)
+
+#c:raw_iron_blocks
+- minecraft:raw_iron_block (from Fabric Convention Tags)
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor (from Default)
+- minecraft:birch_trapdoor (from Default)
+- minecraft:dark_oak_trapdoor (from Default)
+- minecraft:jungle_trapdoor (from Default)
+- minecraft:oak_trapdoor (from Default)
+- minecraft:spruce_trapdoor (from Default)
+- minecraft:crimson_trapdoor (from Default)
+- minecraft:warped_trapdoor (from Default)
+- minecraft:mangrove_trapdoor (from Default)
+
+#c:pink_dyes
+- minecraft:pink_dye (from Fabric Convention Tags)
+
+#c:shovels
+- #fabric:shovels? (from Fabric Convention Tags)
+- minecraft:diamond_shovel (from Fabric Convention Tags)
+- minecraft:golden_shovel (from Fabric Convention Tags)
+- minecraft:wooden_shovel (from Fabric Convention Tags)
+- minecraft:stone_shovel (from Fabric Convention Tags)
+- minecraft:iron_shovel (from Fabric Convention Tags)
+- minecraft:netherite_shovel (from Fabric Convention Tags)
+
+#c:black_dyes
+- minecraft:black_dye (from Fabric Convention Tags)
+
+#c:lapis
+- minecraft:lapis_lazuli (from Fabric Convention Tags)
+
+#c:netherite_ingots
+- minecraft:netherite_ingot (from Fabric Convention Tags)
+
+#minecraft:axolotl_tempt_items
+- minecraft:tropical_fish_bucket (from Default)
+
+#c:spears
+- minecraft:trident (from Fabric Convention Tags)
+
+#minecraft:wool
+- minecraft:white_wool (from Default)
+- minecraft:orange_wool (from Default)
+- minecraft:magenta_wool (from Default)
+- minecraft:light_blue_wool (from Default)
+- minecraft:yellow_wool (from Default)
+- minecraft:lime_wool (from Default)
+- minecraft:pink_wool (from Default)
+- minecraft:gray_wool (from Default)
+- minecraft:light_gray_wool (from Default)
+- minecraft:cyan_wool (from Default)
+- minecraft:purple_wool (from Default)
+- minecraft:blue_wool (from Default)
+- minecraft:brown_wool (from Default)
+- minecraft:green_wool (from Default)
+- minecraft:red_wool (from Default)
+- minecraft:black_wool (from Default)
+
+#minecraft:stairs
+- #minecraft:wooden_stairs (from Default)
+- minecraft:cobblestone_stairs (from Default)
+- minecraft:sandstone_stairs (from Default)
+- minecraft:nether_brick_stairs (from Default)
+- minecraft:stone_brick_stairs (from Default)
+- minecraft:brick_stairs (from Default)
+- minecraft:purpur_stairs (from Default)
+- minecraft:quartz_stairs (from Default)
+- minecraft:red_sandstone_stairs (from Default)
+- minecraft:prismarine_brick_stairs (from Default)
+- minecraft:prismarine_stairs (from Default)
+- minecraft:dark_prismarine_stairs (from Default)
+- minecraft:polished_granite_stairs (from Default)
+- minecraft:smooth_red_sandstone_stairs (from Default)
+- minecraft:mossy_stone_brick_stairs (from Default)
+- minecraft:polished_diorite_stairs (from Default)
+- minecraft:mossy_cobblestone_stairs (from Default)
+- minecraft:end_stone_brick_stairs (from Default)
+- minecraft:stone_stairs (from Default)
+- minecraft:smooth_sandstone_stairs (from Default)
+- minecraft:smooth_quartz_stairs (from Default)
+- minecraft:granite_stairs (from Default)
+- minecraft:andesite_stairs (from Default)
+- minecraft:red_nether_brick_stairs (from Default)
+- minecraft:polished_andesite_stairs (from Default)
+- minecraft:diorite_stairs (from Default)
+- minecraft:blackstone_stairs (from Default)
+- minecraft:polished_blackstone_brick_stairs (from Default)
+- minecraft:polished_blackstone_stairs (from Default)
+- minecraft:cobbled_deepslate_stairs (from Default)
+- minecraft:polished_deepslate_stairs (from Default)
+- minecraft:deepslate_tile_stairs (from Default)
+- minecraft:deepslate_brick_stairs (from Default)
+- minecraft:oxidized_cut_copper_stairs (from Default)
+- minecraft:weathered_cut_copper_stairs (from Default)
+- minecraft:exposed_cut_copper_stairs (from Default)
+- minecraft:cut_copper_stairs (from Default)
+- minecraft:waxed_weathered_cut_copper_stairs (from Default)
+- minecraft:waxed_exposed_cut_copper_stairs (from Default)
+- minecraft:waxed_cut_copper_stairs (from Default)
+- minecraft:waxed_oxidized_cut_copper_stairs (from Default)
+- minecraft:mud_brick_stairs (from Default)
+
+#c:purple_dyes
+- minecraft:purple_dye (from Fabric Convention Tags)
+
+#minecraft:logs
+- #minecraft:logs_that_burn (from Default)
+- #minecraft:crimson_stems (from Default)
+- #minecraft:warped_stems (from Default)
+
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13 (from Default)
+- minecraft:music_disc_cat (from Default)
+- minecraft:music_disc_blocks (from Default)
+- minecraft:music_disc_chirp (from Default)
+- minecraft:music_disc_far (from Default)
+- minecraft:music_disc_mall (from Default)
+- minecraft:music_disc_mellohi (from Default)
+- minecraft:music_disc_stal (from Default)
+- minecraft:music_disc_strad (from Default)
+- minecraft:music_disc_ward (from Default)
+- minecraft:music_disc_11 (from Default)
+- minecraft:music_disc_wait (from Default)
+
+#minecraft:wool_carpets
+- minecraft:white_carpet (from Default)
+- minecraft:orange_carpet (from Default)
+- minecraft:magenta_carpet (from Default)
+- minecraft:light_blue_carpet (from Default)
+- minecraft:yellow_carpet (from Default)
+- minecraft:lime_carpet (from Default)
+- minecraft:pink_carpet (from Default)
+- minecraft:gray_carpet (from Default)
+- minecraft:light_gray_carpet (from Default)
+- minecraft:cyan_carpet (from Default)
+- minecraft:purple_carpet (from Default)
+- minecraft:blue_carpet (from Default)
+- minecraft:brown_carpet (from Default)
+- minecraft:green_carpet (from Default)
+- minecraft:red_carpet (from Default)
+- minecraft:black_carpet (from Default)
+
+#c:lime_dyes
+- minecraft:lime_dye (from Fabric Convention Tags)
+
+#minecraft:compasses
+- minecraft:compass (from Default)
+- minecraft:recovery_compass (from Default)
+
+#minecraft:arrows
+- minecraft:arrow (from Default)
+- minecraft:tipped_arrow (from Default)
+- minecraft:spectral_arrow (from Default)
+
+#c:dyes
+- #c:black_dyes? (from Fabric Convention Tags)
+- #c:blue_dyes? (from Fabric Convention Tags)
+- #c:brown_dyes? (from Fabric Convention Tags)
+- #c:green_dyes? (from Fabric Convention Tags)
+- #c:red_dyes? (from Fabric Convention Tags)
+- #c:white_dyes? (from Fabric Convention Tags)
+- #c:yellow_dyes? (from Fabric Convention Tags)
+- #c:light_gray_dyes? (from Fabric Convention Tags)
+- #c:light_blue_dyes? (from Fabric Convention Tags)
+- #c:lime_dyes? (from Fabric Convention Tags)
+- #c:magenta_dyes? (from Fabric Convention Tags)
+- #c:orange_dyes? (from Fabric Convention Tags)
+- #c:pink_dyes? (from Fabric Convention Tags)
+- #c:cyan_dyes? (from Fabric Convention Tags)
+- #c:gray_dyes? (from Fabric Convention Tags)
+- #c:purple_dyes? (from Fabric Convention Tags)
+
+#c:pickaxes
+- #fabric:pickaxes? (from Fabric Convention Tags)
+- minecraft:diamond_pickaxe (from Fabric Convention Tags)
+- minecraft:golden_pickaxe (from Fabric Convention Tags)
+- minecraft:wooden_pickaxe (from Fabric Convention Tags)
+- minecraft:stone_pickaxe (from Fabric Convention Tags)
+- minecraft:iron_pickaxe (from Fabric Convention Tags)
+- minecraft:netherite_pickaxe (from Fabric Convention Tags)
+
+#c:white_dyes
+- minecraft:white_dye (from Fabric Convention Tags)
+
+#c:brown_dyes
+- minecraft:brown_dye (from Fabric Convention Tags)
+
+#minecraft:wooden_doors
+- minecraft:oak_door (from Default)
+- minecraft:spruce_door (from Default)
+- minecraft:birch_door (from Default)
+- minecraft:jungle_door (from Default)
+- minecraft:acacia_door (from Default)
+- minecraft:dark_oak_door (from Default)
+- minecraft:crimson_door (from Default)
+- minecraft:warped_door (from Default)
+- minecraft:mangrove_door (from Default)
+
+#minecraft:warped_stems
+- minecraft:warped_stem (from Default)
+- minecraft:stripped_warped_stem (from Default)
+- minecraft:warped_hyphae (from Default)
+- minecraft:stripped_warped_hyphae (from Default)
+
+#minecraft:emerald_ores
+- minecraft:emerald_ore (from Default)
+- minecraft:deepslate_emerald_ore (from Default)
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem (from Default)
+- minecraft:stripped_crimson_stem (from Default)
+- minecraft:crimson_hyphae (from Default)
+- minecraft:stripped_crimson_hyphae (from Default)
+
+#c:gold_ingots
+- minecraft:gold_ingot (from Fabric Convention Tags)
+
+#minecraft:ignored_by_piglin_babies
+- minecraft:leather (from Default)
+
+#minecraft:stone_tool_materials
+- minecraft:cobblestone (from Default)
+- minecraft:blackstone (from Default)
+- minecraft:cobbled_deepslate (from Default)
+
+#minecraft:wart_blocks
+- minecraft:nether_wart_block (from Default)
+- minecraft:warped_wart_block (from Default)
+
+#minecraft:terracotta
+- minecraft:terracotta (from Default)
+- minecraft:white_terracotta (from Default)
+- minecraft:orange_terracotta (from Default)
+- minecraft:magenta_terracotta (from Default)
+- minecraft:light_blue_terracotta (from Default)
+- minecraft:yellow_terracotta (from Default)
+- minecraft:lime_terracotta (from Default)
+- minecraft:pink_terracotta (from Default)
+- minecraft:gray_terracotta (from Default)
+- minecraft:light_gray_terracotta (from Default)
+- minecraft:cyan_terracotta (from Default)
+- minecraft:purple_terracotta (from Default)
+- minecraft:blue_terracotta (from Default)
+- minecraft:brown_terracotta (from Default)
+- minecraft:green_terracotta (from Default)
+- minecraft:red_terracotta (from Default)
+- minecraft:black_terracotta (from Default)
+
+#c:light_gray_dyes
+- minecraft:light_gray_dye (from Fabric Convention Tags)
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log (from Default)
+- minecraft:dark_oak_wood (from Default)
+- minecraft:stripped_dark_oak_log (from Default)
+- minecraft:stripped_dark_oak_wood (from Default)
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem (from Default)
+- minecraft:stripped_warped_stem (from Default)
+- minecraft:warped_hyphae (from Default)
+- minecraft:stripped_warped_hyphae (from Default)
+- minecraft:crimson_stem (from Default)
+- minecraft:stripped_crimson_stem (from Default)
+- minecraft:crimson_hyphae (from Default)
+- minecraft:stripped_crimson_hyphae (from Default)
+- minecraft:crimson_planks (from Default)
+- minecraft:warped_planks (from Default)
+- minecraft:crimson_slab (from Default)
+- minecraft:warped_slab (from Default)
+- minecraft:crimson_pressure_plate (from Default)
+- minecraft:warped_pressure_plate (from Default)
+- minecraft:crimson_fence (from Default)
+- minecraft:warped_fence (from Default)
+- minecraft:crimson_trapdoor (from Default)
+- minecraft:warped_trapdoor (from Default)
+- minecraft:crimson_fence_gate (from Default)
+- minecraft:warped_fence_gate (from Default)
+- minecraft:crimson_stairs (from Default)
+- minecraft:warped_stairs (from Default)
+- minecraft:crimson_button (from Default)
+- minecraft:warped_button (from Default)
+- minecraft:crimson_door (from Default)
+- minecraft:warped_door (from Default)
+- minecraft:crimson_sign (from Default)
+- minecraft:warped_sign (from Default)
+
+#minecraft:coals
+- minecraft:coal (from Default)
+- minecraft:charcoal (from Default)
+
+#minecraft:piglin_food
+- minecraft:porkchop (from Default)
+- minecraft:cooked_porkchop (from Default)
+
+#c:quartz_ores
+- minecraft:nether_quartz_ore (from Fabric Convention Tags)
+
+#minecraft:anvil
+- minecraft:anvil (from Default)
+- minecraft:chipped_anvil (from Default)
+- minecraft:damaged_anvil (from Default)
+
+#minecraft:birch_logs
+- minecraft:birch_log (from Default)
+- minecraft:birch_wood (from Default)
+- minecraft:stripped_birch_log (from Default)
+- minecraft:stripped_birch_wood (from Default)
+
+#minecraft:lapis_ores
+- minecraft:lapis_ore (from Default)
+- minecraft:deepslate_lapis_ore (from Default)
+
+#c:emeralds
+- minecraft:emerald (from Fabric Convention Tags)
+
+#c:green_dyes
+- minecraft:green_dye (from Fabric Convention Tags)
+
+#c:raw_gold_ores
+- minecraft:raw_gold (from Fabric Convention Tags)
+
+#c:glass_panes
+- minecraft:glass_pane (from Fabric Convention Tags)
+- minecraft:gray_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:black_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:orange_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:blue_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:brown_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:cyan_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:green_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:light_blue_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:light_gray_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:lime_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:magenta_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:pink_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:purple_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:red_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:white_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:yellow_stained_glass_pane (from Fabric Convention Tags)
+
+#minecraft:fences
+- #minecraft:wooden_fences (from Default)
+- minecraft:nether_brick_fence (from Default)
+
+#minecraft:saplings
+- minecraft:oak_sapling (from Default)
+- minecraft:spruce_sapling (from Default)
+- minecraft:birch_sapling (from Default)
+- minecraft:jungle_sapling (from Default)
+- minecraft:acacia_sapling (from Default)
+- minecraft:dark_oak_sapling (from Default)
+- minecraft:azalea (from Default)
+- minecraft:flowering_azalea (from Default)
+- minecraft:mangrove_propagule (from Default)
+
+#minecraft:beds
+- minecraft:red_bed (from Default)
+- minecraft:black_bed (from Default)
+- minecraft:blue_bed (from Default)
+- minecraft:brown_bed (from Default)
+- minecraft:cyan_bed (from Default)
+- minecraft:gray_bed (from Default)
+- minecraft:green_bed (from Default)
+- minecraft:light_blue_bed (from Default)
+- minecraft:light_gray_bed (from Default)
+- minecraft:lime_bed (from Default)
+- minecraft:magenta_bed (from Default)
+- minecraft:orange_bed (from Default)
+- minecraft:pink_bed (from Default)
+- minecraft:purple_bed (from Default)
+- minecraft:white_bed (from Default)
+- minecraft:yellow_bed (from Default)
+
+#minecraft:iron_ores
+- minecraft:iron_ore (from Default)
+- minecraft:deepslate_iron_ore (from Default)
+
+#minecraft:oak_logs
+- minecraft:oak_log (from Default)
+- minecraft:oak_wood (from Default)
+- minecraft:stripped_oak_log (from Default)
+- minecraft:stripped_oak_wood (from Default)
+
+#minecraft:doors
+- #minecraft:wooden_doors (from Default)
+- minecraft:iron_door (from Default)
+
+#c:raw_copper_ores
+- minecraft:raw_copper (from Fabric Convention Tags)
+
+#minecraft:banners
+- minecraft:white_banner (from Default)
+- minecraft:orange_banner (from Default)
+- minecraft:magenta_banner (from Default)
+- minecraft:light_blue_banner (from Default)
+- minecraft:yellow_banner (from Default)
+- minecraft:lime_banner (from Default)
+- minecraft:pink_banner (from Default)
+- minecraft:gray_banner (from Default)
+- minecraft:light_gray_banner (from Default)
+- minecraft:cyan_banner (from Default)
+- minecraft:purple_banner (from Default)
+- minecraft:blue_banner (from Default)
+- minecraft:brown_banner (from Default)
+- minecraft:green_banner (from Default)
+- minecraft:red_banner (from Default)
+- minecraft:black_banner (from Default)
+
+#c:diamonds
+- minecraft:diamond (from Fabric Convention Tags)
+
+#c:orange_dyes
+- minecraft:orange_dye (from Fabric Convention Tags)
+
+#minecraft:stone_crafting_materials
+- minecraft:cobblestone (from Default)
+- minecraft:blackstone (from Default)
+- minecraft:cobbled_deepslate (from Default)
+
+#minecraft:wooden_fences
+- minecraft:oak_fence (from Default)
+- minecraft:acacia_fence (from Default)
+- minecraft:dark_oak_fence (from Default)
+- minecraft:spruce_fence (from Default)
+- minecraft:birch_fence (from Default)
+- minecraft:jungle_fence (from Default)
+- minecraft:crimson_fence (from Default)
+- minecraft:warped_fence (from Default)
+- minecraft:mangrove_fence (from Default)
+
+#minecraft:piglin_repellents
+- minecraft:soul_torch (from Default)
+- minecraft:soul_lantern (from Default)
+- minecraft:soul_campfire (from Default)
+
+#c:redstone_dusts
+- minecraft:redstone (from Fabric Convention Tags)
+
+#c:shears
+- #fabric:shears? (from Fabric Convention Tags)
+- minecraft:shears (from Fabric Convention Tags)
+
+#c:potions
+- minecraft:lingering_potion (from Fabric Convention Tags)
+- minecraft:splash_potion (from Fabric Convention Tags)
+- minecraft:potion (from Fabric Convention Tags)
+
+#minecraft:dampens_vibrations
+- #minecraft:wool (from Default)
+- #minecraft:wool_carpets (from Default)
+
+#minecraft:mangrove_logs
+- minecraft:mangrove_log (from Default)
+- minecraft:mangrove_wood (from Default)
+- minecraft:stripped_mangrove_log (from Default)
+- minecraft:stripped_mangrove_wood (from Default)
+
+#minecraft:jungle_logs
+- minecraft:jungle_log (from Default)
+- minecraft:jungle_wood (from Default)
+- minecraft:stripped_jungle_log (from Default)
+- minecraft:stripped_jungle_wood (from Default)
+
+#minecraft:lectern_books
+- minecraft:written_book (from Default)
+- minecraft:writable_book (from Default)
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs (from Default)
+- minecraft:spruce_stairs (from Default)
+- minecraft:birch_stairs (from Default)
+- minecraft:jungle_stairs (from Default)
+- minecraft:acacia_stairs (from Default)
+- minecraft:dark_oak_stairs (from Default)
+- minecraft:crimson_stairs (from Default)
+- minecraft:warped_stairs (from Default)
+- minecraft:mangrove_stairs (from Default)
+
+#minecraft:spruce_logs
+- minecraft:spruce_log (from Default)
+- minecraft:spruce_wood (from Default)
+- minecraft:stripped_spruce_log (from Default)
+- minecraft:stripped_spruce_wood (from Default)
+
+#minecraft:signs
+- minecraft:oak_sign (from Default)
+- minecraft:spruce_sign (from Default)
+- minecraft:birch_sign (from Default)
+- minecraft:acacia_sign (from Default)
+- minecraft:jungle_sign (from Default)
+- minecraft:dark_oak_sign (from Default)
+- minecraft:crimson_sign (from Default)
+- minecraft:warped_sign (from Default)
+- minecraft:mangrove_sign (from Default)
+
+#minecraft:wooden_buttons
+- minecraft:oak_button (from Default)
+- minecraft:spruce_button (from Default)
+- minecraft:birch_button (from Default)
+- minecraft:jungle_button (from Default)
+- minecraft:acacia_button (from Default)
+- minecraft:dark_oak_button (from Default)
+- minecraft:crimson_button (from Default)
+- minecraft:warped_button (from Default)
+- minecraft:mangrove_button (from Default)
+
+#minecraft:fishes
+- minecraft:cod (from Default)
+- minecraft:cooked_cod (from Default)
+- minecraft:salmon (from Default)
+- minecraft:cooked_salmon (from Default)
+- minecraft:pufferfish (from Default)
+- minecraft:tropical_fish (from Default)
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks (from Default)
+- minecraft:mossy_stone_bricks (from Default)
+- minecraft:cracked_stone_bricks (from Default)
+- minecraft:chiseled_stone_bricks (from Default)
+
+#c:milk_buckets
+- minecraft:milk_bucket (from Fabric Convention Tags)
+
+#c:light_blue_dyes
+- minecraft:light_blue_dye (from Fabric Convention Tags)
+
+#c:iron_ingots
+- minecraft:iron_ingot (from Fabric Convention Tags)
+
+#minecraft:chest_boats
+- minecraft:oak_chest_boat (from Default)
+- minecraft:spruce_chest_boat (from Default)
+- minecraft:birch_chest_boat (from Default)
+- minecraft:jungle_chest_boat (from Default)
+- minecraft:acacia_chest_boat (from Default)
+- minecraft:dark_oak_chest_boat (from Default)
+- minecraft:mangrove_chest_boat (from Default)
+
+#c:gray_dyes
+- minecraft:gray_dye (from Fabric Convention Tags)
+
+#minecraft:slabs
+- #minecraft:wooden_slabs (from Default)
+- minecraft:stone_slab (from Default)
+- minecraft:smooth_stone_slab (from Default)
+- minecraft:stone_brick_slab (from Default)
+- minecraft:sandstone_slab (from Default)
+- minecraft:purpur_slab (from Default)
+- minecraft:quartz_slab (from Default)
+- minecraft:red_sandstone_slab (from Default)
+- minecraft:brick_slab (from Default)
+- minecraft:cobblestone_slab (from Default)
+- minecraft:nether_brick_slab (from Default)
+- minecraft:petrified_oak_slab (from Default)
+- minecraft:prismarine_slab (from Default)
+- minecraft:prismarine_brick_slab (from Default)
+- minecraft:dark_prismarine_slab (from Default)
+- minecraft:polished_granite_slab (from Default)
+- minecraft:smooth_red_sandstone_slab (from Default)
+- minecraft:mossy_stone_brick_slab (from Default)
+- minecraft:polished_diorite_slab (from Default)
+- minecraft:mossy_cobblestone_slab (from Default)
+- minecraft:end_stone_brick_slab (from Default)
+- minecraft:smooth_sandstone_slab (from Default)
+- minecraft:smooth_quartz_slab (from Default)
+- minecraft:granite_slab (from Default)
+- minecraft:andesite_slab (from Default)
+- minecraft:red_nether_brick_slab (from Default)
+- minecraft:polished_andesite_slab (from Default)
+- minecraft:diorite_slab (from Default)
+- minecraft:cut_sandstone_slab (from Default)
+- minecraft:cut_red_sandstone_slab (from Default)
+- minecraft:blackstone_slab (from Default)
+- minecraft:polished_blackstone_brick_slab (from Default)
+- minecraft:polished_blackstone_slab (from Default)
+- minecraft:cobbled_deepslate_slab (from Default)
+- minecraft:polished_deepslate_slab (from Default)
+- minecraft:deepslate_tile_slab (from Default)
+- minecraft:deepslate_brick_slab (from Default)
+- minecraft:waxed_weathered_cut_copper_slab (from Default)
+- minecraft:waxed_exposed_cut_copper_slab (from Default)
+- minecraft:waxed_cut_copper_slab (from Default)
+- minecraft:oxidized_cut_copper_slab (from Default)
+- minecraft:weathered_cut_copper_slab (from Default)
+- minecraft:exposed_cut_copper_slab (from Default)
+- minecraft:cut_copper_slab (from Default)
+- minecraft:waxed_oxidized_cut_copper_slab (from Default)
+- minecraft:mud_brick_slab (from Default)
+
+#c:coal
+- #minecraft:coals? (from Fabric Convention Tags)
+
+#c:raw_copper_blocks
+- minecraft:raw_copper_block (from Fabric Convention Tags)
+
+#c:raw_gold_blocks
+- minecraft:raw_gold_block (from Fabric Convention Tags)
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors (from Default)
+- minecraft:iron_trapdoor (from Default)
+
+#minecraft:redstone_ores
+- minecraft:redstone_ore (from Default)
+- minecraft:deepslate_redstone_ore (from Default)
+
+#c:hoes
+- #fabric:hoes? (from Fabric Convention Tags)
+- minecraft:diamond_hoe (from Fabric Convention Tags)
+- minecraft:golden_hoe (from Fabric Convention Tags)
+- minecraft:wooden_hoe (from Fabric Convention Tags)
+- minecraft:stone_hoe (from Fabric Convention Tags)
+- minecraft:iron_hoe (from Fabric Convention Tags)
+- minecraft:netherite_hoe (from Fabric Convention Tags)
+
+#c:red_dyes
+- minecraft:red_dye (from Fabric Convention Tags)
+
+#minecraft:flowers
+- #minecraft:small_flowers (from Default)
+- #minecraft:tall_flowers (from Default)
+- minecraft:flowering_azalea_leaves (from Default)
+- minecraft:flowering_azalea (from Default)
+- minecraft:mangrove_propagule (from Default)
+
+#minecraft:buttons
+- #minecraft:wooden_buttons (from Default)
+- minecraft:stone_button (from Default)
+- minecraft:polished_blackstone_button (from Default)
+
+#c:bows
+- minecraft:crossbow (from Fabric Convention Tags)
+- minecraft:bow (from Fabric Convention Tags)
+
+#minecraft:planks
+- minecraft:oak_planks (from Default)
+- minecraft:spruce_planks (from Default)
+- minecraft:birch_planks (from Default)
+- minecraft:jungle_planks (from Default)
+- minecraft:acacia_planks (from Default)
+- minecraft:dark_oak_planks (from Default)
+- minecraft:crimson_planks (from Default)
+- minecraft:warped_planks (from Default)
+- minecraft:mangrove_planks (from Default)
+
+#minecraft:fox_food
+- minecraft:sweet_berries (from Default)
+- minecraft:glow_berries (from Default)
+
+#minecraft:boats
+- minecraft:oak_boat (from Default)
+- minecraft:spruce_boat (from Default)
+- minecraft:birch_boat (from Default)
+- minecraft:jungle_boat (from Default)
+- minecraft:acacia_boat (from Default)
+- minecraft:dark_oak_boat (from Default)
+- minecraft:mangrove_boat (from Default)
+- #minecraft:chest_boats (from Default)
+
+#minecraft:rails
+- minecraft:rail (from Default)
+- minecraft:powered_rail (from Default)
+- minecraft:detector_rail (from Default)
+- minecraft:activator_rail (from Default)
+
+#minecraft:diamond_ores
+- minecraft:diamond_ore (from Default)
+- minecraft:deepslate_diamond_ore (from Default)
+
+#c:water_buckets
+- minecraft:axolotl_bucket (from Fabric Convention Tags)
+- minecraft:cod_bucket (from Fabric Convention Tags)
+- minecraft:pufferfish_bucket (from Fabric Convention Tags)
+- minecraft:tropical_fish_bucket (from Fabric Convention Tags)
+- minecraft:salmon_bucket (from Fabric Convention Tags)
+- minecraft:tadpole_bucket (from Fabric Convention Tags)
+- minecraft:water_bucket (from Fabric Convention Tags)
+
+#c:yellow_dyes
+- minecraft:yellow_dye (from Fabric Convention Tags)
+
+#minecraft:overworld_natural_logs
+- minecraft:acacia_log (from Default)
+- minecraft:birch_log (from Default)
+- minecraft:oak_log (from Default)
+- minecraft:jungle_log (from Default)
+- minecraft:spruce_log (from Default)
+- minecraft:dark_oak_log (from Default)
+- minecraft:mangrove_log (from Default)
+
+#c:empty_buckets
+- minecraft:bucket (from Fabric Convention Tags)
+
+#c:shulker_boxes
+- minecraft:shulker_box (from Fabric Convention Tags)
+- minecraft:blue_shulker_box (from Fabric Convention Tags)
+- minecraft:brown_shulker_box (from Fabric Convention Tags)
+- minecraft:cyan_shulker_box (from Fabric Convention Tags)
+- minecraft:gray_shulker_box (from Fabric Convention Tags)
+- minecraft:green_shulker_box (from Fabric Convention Tags)
+- minecraft:light_blue_shulker_box (from Fabric Convention Tags)
+- minecraft:light_gray_shulker_box (from Fabric Convention Tags)
+- minecraft:lime_shulker_box (from Fabric Convention Tags)
+- minecraft:magenta_shulker_box (from Fabric Convention Tags)
+- minecraft:orange_shulker_box (from Fabric Convention Tags)
+- minecraft:pink_shulker_box (from Fabric Convention Tags)
+- minecraft:purple_shulker_box (from Fabric Convention Tags)
+- minecraft:red_shulker_box (from Fabric Convention Tags)
+- minecraft:white_shulker_box (from Fabric Convention Tags)
+- minecraft:yellow_shulker_box (from Fabric Convention Tags)
+- minecraft:black_shulker_box (from Fabric Convention Tags)
+
+#minecraft:leaves
+- minecraft:jungle_leaves (from Default)
+- minecraft:oak_leaves (from Default)
+- minecraft:spruce_leaves (from Default)
+- minecraft:dark_oak_leaves (from Default)
+- minecraft:acacia_leaves (from Default)
+- minecraft:birch_leaves (from Default)
+- minecraft:azalea_leaves (from Default)
+- minecraft:flowering_azalea_leaves (from Default)
+- minecraft:mangrove_leaves (from Default)
+
+#minecraft:walls
+- minecraft:cobblestone_wall (from Default)
+- minecraft:mossy_cobblestone_wall (from Default)
+- minecraft:brick_wall (from Default)
+- minecraft:prismarine_wall (from Default)
+- minecraft:red_sandstone_wall (from Default)
+- minecraft:mossy_stone_brick_wall (from Default)
+- minecraft:granite_wall (from Default)
+- minecraft:stone_brick_wall (from Default)
+- minecraft:nether_brick_wall (from Default)
+- minecraft:andesite_wall (from Default)
+- minecraft:red_nether_brick_wall (from Default)
+- minecraft:sandstone_wall (from Default)
+- minecraft:end_stone_brick_wall (from Default)
+- minecraft:diorite_wall (from Default)
+- minecraft:blackstone_wall (from Default)
+- minecraft:polished_blackstone_brick_wall (from Default)
+- minecraft:polished_blackstone_wall (from Default)
+- minecraft:cobbled_deepslate_wall (from Default)
+- minecraft:polished_deepslate_wall (from Default)
+- minecraft:deepslate_tile_wall (from Default)
+- minecraft:deepslate_brick_wall (from Default)
+- minecraft:mud_brick_wall (from Default)
+
+#c:glass_blocks
+- minecraft:glass (from Fabric Convention Tags)
+- minecraft:gray_stained_glass (from Fabric Convention Tags)
+- minecraft:black_stained_glass (from Fabric Convention Tags)
+- minecraft:orange_stained_glass (from Fabric Convention Tags)
+- minecraft:blue_stained_glass (from Fabric Convention Tags)
+- minecraft:brown_stained_glass (from Fabric Convention Tags)
+- minecraft:cyan_stained_glass (from Fabric Convention Tags)
+- minecraft:green_stained_glass (from Fabric Convention Tags)
+- minecraft:light_blue_stained_glass (from Fabric Convention Tags)
+- minecraft:light_gray_stained_glass (from Fabric Convention Tags)
+- minecraft:lime_stained_glass (from Fabric Convention Tags)
+- minecraft:magenta_stained_glass (from Fabric Convention Tags)
+- minecraft:pink_stained_glass (from Fabric Convention Tags)
+- minecraft:purple_stained_glass (from Fabric Convention Tags)
+- minecraft:red_stained_glass (from Fabric Convention Tags)
+- minecraft:tinted_glass (from Fabric Convention Tags)
+- minecraft:white_stained_glass (from Fabric Convention Tags)
+- minecraft:yellow_stained_glass (from Fabric Convention Tags)
+
+#c:cyan_dyes
+- minecraft:cyan_dye (from Fabric Convention Tags)
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate (from Default)
+- minecraft:spruce_pressure_plate (from Default)
+- minecraft:birch_pressure_plate (from Default)
+- minecraft:jungle_pressure_plate (from Default)
+- minecraft:acacia_pressure_plate (from Default)
+- minecraft:dark_oak_pressure_plate (from Default)
+- minecraft:crimson_pressure_plate (from Default)
+- minecraft:warped_pressure_plate (from Default)
+- minecraft:mangrove_pressure_plate (from Default)
+
+#minecraft:acacia_logs
+- minecraft:acacia_log (from Default)
+- minecraft:acacia_wood (from Default)
+- minecraft:stripped_acacia_log (from Default)
+- minecraft:stripped_acacia_wood (from Default)
+
+#minecraft:piglin_loved
+- #minecraft:gold_ores (from Default)
+- minecraft:gold_block (from Default)
+- minecraft:gilded_blackstone (from Default)
+- minecraft:light_weighted_pressure_plate (from Default)
+- minecraft:gold_ingot (from Default)
+- minecraft:bell (from Default)
+- minecraft:clock (from Default)
+- minecraft:golden_carrot (from Default)
+- minecraft:glistering_melon_slice (from Default)
+- minecraft:golden_apple (from Default)
+- minecraft:enchanted_golden_apple (from Default)
+- minecraft:golden_helmet (from Default)
+- minecraft:golden_chestplate (from Default)
+- minecraft:golden_leggings (from Default)
+- minecraft:golden_boots (from Default)
+- minecraft:golden_horse_armor (from Default)
+- minecraft:golden_sword (from Default)
+- minecraft:golden_pickaxe (from Default)
+- minecraft:golden_shovel (from Default)
+- minecraft:golden_axe (from Default)
+- minecraft:golden_hoe (from Default)
+- minecraft:raw_gold (from Default)
+- minecraft:raw_gold_block (from Default)
+
+#minecraft:music_discs
+- #minecraft:creeper_drop_music_discs (from Default)
+- minecraft:music_disc_pigstep (from Default)
+- minecraft:music_disc_otherside (from Default)
+- minecraft:music_disc_5 (from Default)
+
+#minecraft:candles
+- minecraft:candle (from Default)
+- minecraft:white_candle (from Default)
+- minecraft:orange_candle (from Default)
+- minecraft:magenta_candle (from Default)
+- minecraft:light_blue_candle (from Default)
+- minecraft:yellow_candle (from Default)
+- minecraft:lime_candle (from Default)
+- minecraft:pink_candle (from Default)
+- minecraft:gray_candle (from Default)
+- minecraft:light_gray_candle (from Default)
+- minecraft:cyan_candle (from Default)
+- minecraft:purple_candle (from Default)
+- minecraft:blue_candle (from Default)
+- minecraft:brown_candle (from Default)
+- minecraft:green_candle (from Default)
+- minecraft:red_candle (from Default)
+- minecraft:black_candle (from Default)
+
+#minecraft:tall_flowers
+- minecraft:sunflower (from Default)
+- minecraft:lilac (from Default)
+- minecraft:peony (from Default)
+- minecraft:rose_bush (from Default)
+
+#c:quartz
+- minecraft:quartz (from Fabric Convention Tags)
+
+#c:blue_dyes
+- minecraft:blue_dye (from Fabric Convention Tags)
+
+#c:copper_ingots
+- minecraft:copper_ingot (from Fabric Convention Tags)
+
+#c:swords
+- #fabric:swords? (from Fabric Convention Tags)
+- minecraft:diamond_sword (from Fabric Convention Tags)
+- minecraft:golden_sword (from Fabric Convention Tags)
+- minecraft:wooden_sword (from Fabric Convention Tags)
+- minecraft:stone_sword (from Fabric Convention Tags)
+- minecraft:iron_sword (from Fabric Convention Tags)
+- minecraft:netherite_sword (from Fabric Convention Tags)
+
+#minecraft:sand
+- minecraft:sand (from Default)
+- minecraft:red_sand (from Default)
+
+#minecraft:copper_ores
+- minecraft:copper_ore (from Default)
+- minecraft:deepslate_copper_ore (from Default)
+
+#minecraft:gold_ores
+- minecraft:gold_ore (from Default)
+- minecraft:nether_gold_ore (from Default)
+- minecraft:deepslate_gold_ore (from Default)
+
+#minecraft:freeze_immune_wearables
+- minecraft:leather_boots (from Default)
+- minecraft:leather_leggings (from Default)
+- minecraft:leather_chestplate (from Default)
+- minecraft:leather_helmet (from Default)
+- minecraft:leather_horse_armor (from Default)
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs (from Default)
+- #minecraft:oak_logs (from Default)
+- #minecraft:acacia_logs (from Default)
+- #minecraft:birch_logs (from Default)
+- #minecraft:jungle_logs (from Default)
+- #minecraft:spruce_logs (from Default)
+- #minecraft:mangrove_logs (from Default)
+
+#minecraft:completes_find_tree_tutorial
+- #minecraft:logs (from Default)
+- #minecraft:leaves (from Default)
+- #minecraft:wart_blocks (from Default)
+
+#c:ores
+- #minecraft:iron_ores? (from Fabric Convention Tags)
+- #minecraft:copper_ores? (from Fabric Convention Tags)
+- #minecraft:redstone_ores? (from Fabric Convention Tags)
+- #minecraft:gold_ores? (from Fabric Convention Tags)
+- #minecraft:coal_ores? (from Fabric Convention Tags)
+- #minecraft:diamond_ores? (from Fabric Convention Tags)
+- #minecraft:lapis_ores? (from Fabric Convention Tags)
+- #c:quartz_ores? (from Fabric Convention Tags)
+- #minecraft:emerald_ores? (from Fabric Convention Tags)
+
+#minecraft:dirt
+- minecraft:dirt (from Default)
+- minecraft:grass_block (from Default)
+- minecraft:podzol (from Default)
+- minecraft:coarse_dirt (from Default)
+- minecraft:mycelium (from Default)
+- minecraft:rooted_dirt (from Default)
+- minecraft:moss_block (from Default)
+- minecraft:mud (from Default)
+- minecraft:muddy_mangrove_roots (from Default)
+
+#minecraft:cluster_max_harvestables
+- minecraft:diamond_pickaxe (from Default)
+- minecraft:golden_pickaxe (from Default)
+- minecraft:iron_pickaxe (from Default)
+- minecraft:netherite_pickaxe (from Default)
+- minecraft:stone_pickaxe (from Default)
+- minecraft:wooden_pickaxe (from Default)
