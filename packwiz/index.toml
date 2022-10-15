@@ -545,11 +545,6 @@ hash = "0db89b28d9d11cd967580baed30d7ba8930b3c3a9b9e7426a92664a1f48ef24c"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "ba2fb168876f10d3c036ed91e78610d8e50554a87623f7c9469f83567b6e5b78"
-metafile = true
-
-[[files]]
 file = "mods/enhanced-block-entities.pw.toml"
 hash = "07f493206b01ebeb4064854f473e947b7d175229f5e2a1b46e74964ff240e2f0"
 metafile = true
@@ -720,8 +715,9 @@ hash = "7c760da47a3133f22087dcdc48c127f8eb99dc572092f32e2196fa2bf070ec71"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.pw.tomldisabled"
+file = "mods/roughly-enough-items.pw.toml"
 hash = "8d81eeec3000c9f1471a47552c9acf0a389de66f8ccc36fe227c7438950e3cd7"
+metafile = true
 
 [[files]]
 file = "mods/smooth-boot.pw.toml"
