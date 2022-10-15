@@ -460,6 +460,11 @@ hash = "e8de5feaf8b78bd44e38d9502937ea49cfc6679ebc82e2d45eb36d2340115c93"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "8fb3a2375531693a1fc0ac755bba4599e9c8331a399f51e1b1e1b9976109c22d"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "8f66157890b20a142ec4aeba1032873abea943ccefc119d18484ac86e54417ad"
 metafile = true
