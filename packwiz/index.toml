@@ -595,6 +595,11 @@ hash = "fb7a3cd21ae04e61e5166622dbad8b0f5f85510ff7d2f09f12d5264a0539065d"
 metafile = true
 
 [[files]]
+file = "mods/ingredient-extension-api.pw.toml"
+hash = "6caa25ec7a4a3c35b4f9a0963056db42ccd524aa6e69954ac8fc52f5fd48b886"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "6406da143a731e34967124831d4af5a59bf8230bd34b16b7aa79927f41d58e50"
 metafile = true
