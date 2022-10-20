@@ -437,7 +437,7 @@ file = "kubejs/exported/tags/minecraft/worldgen/world_preset.txt"
 hash = "3ee8b88e5601c0b6e29926964353ab4a8d38382c55cbf2aa6ae1bea2b6f2f8e7"
 
 [[files]]
-file = "kubejs/server_scripts/script.js"
+file = "kubejs/server_scripts/script.disabled"
 hash = "5488e115aeae2e9eab8882f3c3f9e59f2fb650decc1ca5230dfa24ff98357779"
 
 [[files]]
@@ -610,9 +610,8 @@ hash = "0cb1859becba06e139f96d2f99d6a6840d4bf20818753ec6b28f495f1716a4b3"
 metafile = true
 
 [[files]]
-file = "mods/kubejs.pw.toml"
+file = "mods/kubejs.pw.tomldisabled"
 hash = "cceb15ee85d9d9bba66ece80fea3e63d224d1a4c618440d23440ff906b914c6a"
-metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
@@ -650,9 +649,8 @@ hash = "6810b9366ae8b05c2046e3f8ae4c12769efeed7393ed2dd8b991136d3c2eb3f2"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "1abc45ec5aedf9af2ac6e1a1a5bfb8f92ccafa6395a4c77c20e32adb47ee4426"
-metafile = true
+file = "mods/memoryleakfix.pw.tomldisabled"
+hash = "98b6983ca2bd063b9f4f980bcf14ade7c25a5cefe36ffacb3ac8bc557147dd4e"
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
@@ -670,9 +668,8 @@ hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
 metafile = true
 
 [[files]]
-file = "mods/modern-industrialization.pw.toml"
+file = "mods/modern-industrialization.pw.tomldisabled"
 hash = "f8e54f3e87b69e392bd1bb4a41a4aa2f3fb60334773ab84da04a45b46f1d8ff6"
-metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -715,9 +712,8 @@ hash = "14382dc7503db6e6e02eff91f0935b3aa8b37466fa6d2e949f3c66b8c611f5df"
 metafile = true
 
 [[files]]
-file = "mods/rhino.pw.toml"
+file = "mods/rhino.pw.tomldisabled"
 hash = "7c760da47a3133f22087dcdc48c127f8eb99dc572092f32e2196fa2bf070ec71"
-metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
@@ -745,9 +741,8 @@ hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
 metafile = true
 
 [[files]]
-file = "mods/techreborn.pw.toml"
+file = "mods/techreborn.pw.tomldisabled"
 hash = "f78ab8ef99f227e8e0278a4b1c235518e27c0eda3c35359127cd615d34b01b9e"
-metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
