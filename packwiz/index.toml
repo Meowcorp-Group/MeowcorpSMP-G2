@@ -437,7 +437,11 @@ file = "kubejs/exported/tags/minecraft/worldgen/world_preset.txt"
 hash = "3ee8b88e5601c0b6e29926964353ab4a8d38382c55cbf2aa6ae1bea2b6f2f8e7"
 
 [[files]]
-file = "kubejs/server_scripts/script.disabled"
+file = "kubejs/server_scripts/script.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/server_scripts/script.jsbak"
 hash = "5488e115aeae2e9eab8882f3c3f9e59f2fb650decc1ca5230dfa24ff98357779"
 
 [[files]]
@@ -668,8 +672,9 @@ hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
 metafile = true
 
 [[files]]
-file = "mods/modern-industrialization.pw.tomldisabled"
+file = "mods/modern-industrialization.pw.toml"
 hash = "f8e54f3e87b69e392bd1bb4a41a4aa2f3fb60334773ab84da04a45b46f1d8ff6"
+metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -699,6 +704,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli-fabric.pw.toml"
 hash = "8d37f266375e1a0eb9767862325d0aaf65e5508abf15ba4981444eabb28c9756"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "bee3d7866e141b2bb54fed634029e0fa36c46b518dec6a2b7a5b63d1da6ae998"
 metafile = true
 
 [[files]]
@@ -741,8 +751,9 @@ hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
 metafile = true
 
 [[files]]
-file = "mods/techreborn.pw.tomldisabled"
+file = "mods/techreborn.pw.toml"
 hash = "f78ab8ef99f227e8e0278a4b1c235518e27c0eda3c35359127cd615d34b01b9e"
+metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
