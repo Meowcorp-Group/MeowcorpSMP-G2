@@ -438,7 +438,7 @@ hash = "3ee8b88e5601c0b6e29926964353ab4a8d38382c55cbf2aa6ae1bea2b6f2f8e7"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "2be5f833cb22bb23961dfc35803bcbfbea0bea6b497197768eb8ab00e2177ec1"
 
 [[files]]
 file = "kubejs/server_scripts/script.jsbak"
@@ -653,8 +653,9 @@ hash = "6810b9366ae8b05c2046e3f8ae4c12769efeed7393ed2dd8b991136d3c2eb3f2"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.tomldisabled"
+file = "mods/memoryleakfix.pw.toml"
 hash = "98b6983ca2bd063b9f4f980bcf14ade7c25a5cefe36ffacb3ac8bc557147dd4e"
+metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"

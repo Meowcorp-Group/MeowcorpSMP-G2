@@ -1,0 +1,1 @@
+// beta 1.19 kubejs doesn't work with MI and TR :I
