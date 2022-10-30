@@ -1,1 +1,6 @@
-{"allowIllegalTexturePaths":true,"skinFeaturesEnabled":false,"skinFeaturesEnableTransparency":false,"hideConfigButton": true}
+{
+	"allowIllegalTexturePaths": true,
+	"skinFeaturesEnabled": false,
+	"skinFeaturesEnableTransparency": false,
+	"hideConfigButton": true
+}

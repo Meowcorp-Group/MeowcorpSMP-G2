@@ -3,3 +3,5 @@ README.md
 *.exe
 *.bat
 *.jar
+*.disabled
+*.tomldisabled

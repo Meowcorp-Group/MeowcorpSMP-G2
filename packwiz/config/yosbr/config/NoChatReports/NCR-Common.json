@@ -1,1 +1,6 @@
-{"demandOnClient":false,"enableDebugLog":false,"convertToGameMessage":true,"addQueryData":false}
+{
+	"demandOnClient": false,
+	"enableDebugLog": false,
+	"convertToGameMessage": true,
+	"addQueryData": false
+}
