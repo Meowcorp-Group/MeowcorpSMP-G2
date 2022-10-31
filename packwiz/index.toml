@@ -122,7 +122,7 @@ hash = "1fa2e580d1c815add6381c70ca89ab955c5e3ff218a7662067578a8551ad163c"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "33e20c51d268aacf63fab2fae6ee5245eefce19695e2bf21728aad9ee7f801ac"
+hash = "42122323ae20bb213c2c78186a2ffdf4aa29515e9d9a227cb9c6af9dcd9b9b85"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
@@ -201,11 +201,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
-metafile = true
-
-[[files]]
-file = "mods/colormatic.pw.toml"
-hash = "7aa8ced63d137481245c7ea9a15b5486193dc2ff944a15ca92479f093da0dc85"
 metafile = true
 
 [[files]]
@@ -309,6 +304,11 @@ hash = "0cb1859becba06e139f96d2f99d6a6840d4bf20818753ec6b28f495f1716a4b3"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "93a2d0842c40b4ddb2c795c664fb33e2a276c5ae8e28dfdbdf11904b63531074"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "0d66d77d7354d3b8d4b89983c3a576895e9d3e74250a8797897ccf6e0291e6e2"
 metafile = true
@@ -341,11 +341,6 @@ metafile = true
 [[files]]
 file = "mods/megane.pw.toml"
 hash = "6810b9366ae8b05c2046e3f8ae4c12769efeed7393ed2dd8b991136d3c2eb3f2"
-metafile = true
-
-[[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "98b6983ca2bd063b9f4f980bcf14ade7c25a5cefe36ffacb3ac8bc557147dd4e"
 metafile = true
 
 [[files]]
