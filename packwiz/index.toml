@@ -110,7 +110,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/script.js"
-hash = "f7534f18e0e6a728766a0f7464a58198c8995a2f330d8767737f71575da38693"
+hash = "97a2af47b745ba2881e83ece32c0fa242f6fa3abf9f028f35fd6062fb470660c"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -122,7 +122,7 @@ hash = "1fa2e580d1c815add6381c70ca89ab955c5e3ff218a7662067578a8551ad163c"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "42122323ae20bb213c2c78186a2ffdf4aa29515e9d9a227cb9c6af9dcd9b9b85"
+hash = "33a4f72a97cb7a352c36af0b119f7c4c39e3a6eeaf64793733647a8306b45878"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
@@ -341,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/megane.pw.toml"
 hash = "6810b9366ae8b05c2046e3f8ae4c12769efeed7393ed2dd8b991136d3c2eb3f2"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "98b6983ca2bd063b9f4f980bcf14ade7c25a5cefe36ffacb3ac8bc557147dd4e"
 metafile = true
 
 [[files]]
