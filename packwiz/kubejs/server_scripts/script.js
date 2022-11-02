@@ -36,13 +36,13 @@ ServerEvents.recipes((event) => {
       },
       {
         item: "ae2:singularity",
-        amount: 32,
+        amount: 64,
       },
     ],
 
     fluid_inputs: {
       fluid: "modern_industrialization:uu_matter",
-      amount: 50,
+      amount: 64,
     },
     item_outputs: [
       {
