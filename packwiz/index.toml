@@ -109,8 +109,8 @@ file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
-file = "kubejs/client_scripts/script.js"
-hash = "c0eed6517d01cd4683efac1ad8ed9106879bd817fa003de713303644f4335f85"
+file = "kubejs/client_scripts/hide.js"
+hash = "a565b3e1db3c343ecf9a088b10a4bdf474a04e3ae97d3debf759bc38af6e4e1d"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -121,16 +121,16 @@ file = "kubejs/config/common.properties"
 hash = "1fa2e580d1c815add6381c70ca89ab955c5e3ff218a7662067578a8551ad163c"
 
 [[files]]
-file = "kubejs/server_scripts/recipe.js"
-hash = "ebe1ea11ed1e4f3900ee29800456e6e5320ededbb3306f9df98927349e985a50"
+file = "kubejs/server_scripts/recipes.js"
+hash = "332e8249b8af3fd6cc7dcb8565b1f6df1ddb25ec9114db39adb2d0aac03917fa"
 
 [[files]]
-file = "kubejs/server_scripts/script.js"
-hash = "61ed07999cdb9a2c536178cfa0c2fee10e39a15be458f9309968cca9cd043d72"
+file = "kubejs/server_scripts/tags.js"
+hash = "da3992aedeaf0cfeaf115e00440dc3dfd10b2e4e6c98ce7d1a918209943aefa8"
 
 [[files]]
-file = "kubejs/startup_scripts/script.js"
-hash = "69a0c97276f7c50dab7e9f6e701f565425eb7f32319eb5e9a639fefb30a4254d"
+file = "kubejs/startup_scripts/registry.js"
+hash = "53acc8c84dbee09011e55dfe966d9b537ef448862f1f0101d4ef3311c1cf7c1d"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
