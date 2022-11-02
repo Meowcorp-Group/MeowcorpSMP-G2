@@ -2,9 +2,20 @@
 
 console.info('Hello, World! (You will see this line every time client resources reload)')
 
-JEIEvents.hideItems(event => {
-	// Hide items in JEI here
+const blacklist = [
+	// ores
+	// tech reborn
+	'techreborn:tin_ore',
+	// industrial revolution
+	'indrev:tin_ore',
+];
+
+REIEvents.hide('item', event => {
+	// Hide items in REI here
 	// event.hide('minecraft:cobblestone')
-	event.hide('techreborn:tin_ore')
-	event.hide('indrev:tin_ore')
-})
+	event.hide(blacklist);
+});
+
+JEIEvents.hideItems(event => {
+	event.hide(blacklist);
+});

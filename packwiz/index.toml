@@ -110,7 +110,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/script.js"
-hash = "43217e79bec136aa2bfbf18cbcbcb1b3a1e1c34b8178e9fa391d716b56b55a03"
+hash = "b2ad29dd5dacdc1ae1e0bb67abc638053f520b9dc38d574e200b4d9f006d1100"
 
 [[files]]
 file = "kubejs/config/client.properties"
