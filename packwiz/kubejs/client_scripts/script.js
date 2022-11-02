@@ -2,8 +2,9 @@
 
 console.info('Hello, World! (You will see this line every time client resources reload)')
 
-JEIEvents.hideItems(event => {
-	// Hide items in JEI here
+REIEvents.hideItems(event => {
+	// Hide items in REI here
 	// event.hide('minecraft:cobblestone')
 	event.hide('techreborn:tin_ore')
+	event.hide('indrev:tin_ore')
 })
