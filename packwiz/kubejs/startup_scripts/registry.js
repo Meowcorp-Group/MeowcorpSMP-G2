@@ -1,6 +1,6 @@
 // priority: 0
 
-console.info('Hello, World! (You will only see this line once in console, during startup)')
+console.info('Hello from startup_scripts/registry.js')
 
 StartupEvents.registry('item', event => {
 	// Register new items here
