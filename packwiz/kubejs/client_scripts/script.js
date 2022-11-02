@@ -17,7 +17,13 @@ const blacklist = [
     'techreborn:deepslate_silver_ore',	
 	// industrial revolution
 	'indrev:tin_ore',
-	'indrev:deepslate_tin_ore'
+	'indrev:deepslate_tin_ore',
+    'indrev:lead_ore',
+    'indrev:deepslate_lead_ore',
+    'indrev:silver_ore',
+    'indrev:deepslate_silver_ore',
+    'indrev:tungsten_ore',
+    'indrev:deepslate_tungsten_ore',	
 ];
 
 REIEvents.hide('item', event => {
