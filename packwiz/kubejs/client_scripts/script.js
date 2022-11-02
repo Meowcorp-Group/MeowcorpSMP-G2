@@ -6,8 +6,10 @@ const blacklist = [
 	// ores
 	// tech reborn
 	'techreborn:tin_ore',
+	'techreborn:deepslate_tin_ore',
 	// industrial revolution
 	'indrev:tin_ore',
+	'indrev:deepslate_tin_ore'
 ];
 
 REIEvents.hide('item', event => {

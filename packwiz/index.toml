@@ -110,7 +110,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/script.js"
-hash = "b2ad29dd5dacdc1ae1e0bb67abc638053f520b9dc38d574e200b4d9f006d1100"
+hash = "bcae5ec563443bc4230560dbfbe0a7eab0e0f154cdacdede4fcc93354e4110a8"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -119,6 +119,10 @@ hash = "7d8d5c9883de4f36553bc360ee7dbb9bc9690e9971bf7b0b7b56b2995e2d4ea2"
 [[files]]
 file = "kubejs/config/common.properties"
 hash = "1fa2e580d1c815add6381c70ca89ab955c5e3ff218a7662067578a8551ad163c"
+
+[[files]]
+file = "kubejs/server_scripts/recipe.js"
+hash = "ebe1ea11ed1e4f3900ee29800456e6e5320ededbb3306f9df98927349e985a50"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
@@ -251,6 +255,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+metafile = true
+
+[[files]]
+file = "mods/essential.pw.toml"
+hash = "4186ffe50072d248b2d2f778f01bef46a8065cc54d872889ced9c32c0123b310"
 metafile = true
 
 [[files]]

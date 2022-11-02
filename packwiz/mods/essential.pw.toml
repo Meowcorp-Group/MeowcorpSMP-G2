@@ -1,0 +1,9 @@
+name = "Essential Fabric"
+filename = "Essential-fabric_1-19-2.jar"
+side = "client"
+
+[download]
+url = "https://firebasestorage.googleapis.com/v0/b/meowcorp-packs.appspot.com/o/meowcorpsmp-extramods%2FEssential-fabric_1-19-2.jar?alt=media&token=33aa40bc-be36-4982-8fae-a1608ac1ab91"
+
+hash-format = "sha256"
+hash = "255b3b4733ff0412d59c24e586f3ce811dc4292abb57a9ce3bd6ecbd6871f1ed"

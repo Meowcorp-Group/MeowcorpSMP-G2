@@ -1,0 +1,13 @@
+name = "KubeJS"
+filename = "kubejs-forge-1902.6.0-build.79.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "69e723e2905b3dcccceb7cb0702c82121f74d5f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4023153
+project-id = 238086
