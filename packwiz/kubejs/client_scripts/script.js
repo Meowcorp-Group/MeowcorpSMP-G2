@@ -7,6 +7,14 @@ const blacklist = [
 	// tech reborn
 	'techreborn:tin_ore',
 	'techreborn:deepslate_tin_ore',
+    'techreborn:bauxite_ore',
+    'techreborn:deepslate_bauxite_ore',	
+    'techreborn:iridium_ore',
+    'techreborn:deepslate_iridium_ore',
+    'techreborn:lead_ore',
+    'techreborn:deepslate_lead_ore',
+    'techreborn:silver_ore',
+    'techreborn:deepslate_silver_ore',	
 	// industrial revolution
 	'indrev:tin_ore',
 	'indrev:deepslate_tin_ore'
