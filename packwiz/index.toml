@@ -110,7 +110,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/hide.js"
-hash = "a565b3e1db3c343ecf9a088b10a4bdf474a04e3ae97d3debf759bc38af6e4e1d"
+hash = "2ca62bdcc7c32c6c6437e012fd9ef7f03cc0f61af965c698fd332beca2d8cac0"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -122,7 +122,7 @@ hash = "1fa2e580d1c815add6381c70ca89ab955c5e3ff218a7662067578a8551ad163c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "332e8249b8af3fd6cc7dcb8565b1f6df1ddb25ec9114db39adb2d0aac03917fa"
+hash = "700cdb3b17db732d91e416eb8ee0b8d2b787d5ccb2ceaa4d596b671552d58850"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
@@ -283,6 +283,11 @@ hash = "ed45534139fd5fdea57ffc8ed92346aada23ac71d13dbd3fdc4d24ee741ac884"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu-fabric.pw.toml"
+hash = "96fa716c06ed8eddcc1cfa0ec40ac0e0d8bf6e5a114531cd64f6e653b412c566"
+metafile = true
+
+[[files]]
 file = "mods/farsight-fabric.pw.toml"
 hash = "571c28f3e4ecb7cc99834df642e9a09f1307a8eb5ef76e5f97c332334c96bd9e"
 metafile = true
@@ -315,6 +320,11 @@ metafile = true
 [[files]]
 file = "mods/item-model-fix.pw.toml"
 hash = "0cb1859becba06e139f96d2f99d6a6840d4bf20818753ec6b28f495f1716a4b3"
+metafile = true
+
+[[files]]
+file = "mods/konkrete-fabric.pw.toml"
+hash = "44b4a8f68281daab2f894cefb04350a204b8904700652993f3d39ba0ab9eab3f"
 metafile = true
 
 [[files]]
@@ -405,6 +415,11 @@ metafile = true
 [[files]]
 file = "mods/no-fade.pw.toml"
 hash = "c91a0e5e41ca1131346bec3429a5b54dd46ca826a228620b52333de9184a864a"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "7e7a9fc6a8457d8b2c1ed8332cec6dadba305a25191a5aa0cb34ddd1623c8f72"
 metafile = true
 
 [[files]]

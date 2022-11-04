@@ -76,6 +76,9 @@ let initBlacklist = (event) => {
 				if (type == "ores") {
 					event.hide(`${modid}:${item}_ore`);
 					event.hide(`${modid}:deepslate_${item}_ore`);
+					event.hide(`${modid}:raw_${item}`);
+					event.hide(`${modid}:raw_${item}_storage_block`);
+					event.hide(`${modid}:raw_${item}_block`)
 				}
 
 				if (type == "materials") {
@@ -91,15 +94,15 @@ let initBlacklist = (event) => {
 						 * {item}_plate
 						 * {item}_storage_block
 						*/
-						// event.hide(`${modid}:raw_${item}`);
-						// event.hide(`${modid}:raw_${item}_storage_block`);
 						event.hide(`${modid}:${item}_small_dust`);
 						event.hide(`${modid}:${item}_dust`);
+						event.hide(`${modid}:${item}`)
 						event.hide(`${modid}:${item}_ingot`);
 						event.hide(`${modid}:${item}_nugget`);
-						event.hide(`${modid}:${item}_plate`);
-						event.hide(`${modid}:${item}_storage_block`);
+						event.hide(`${modid}:${item}_block`)
+						event.hide(`${modid}:raw_${item}`)
 					}
+
 					if (modid == "indrev") {
 						/**
 						 * Industrial Revolution identifier format:
@@ -111,8 +114,6 @@ let initBlacklist = (event) => {
 						 * {item}_plate
 						 * {item}_block
 						 */
-						// event.hide(`${modid}:raw_${item}`);
-						// event.hide(`${modid}:raw_${item}_block`);
 						event.hide(`${modid}:${item}_dust`);
 						event.hide(`${modid}:${item}_ingot`);
 						event.hide(`${modid}:${item}_nugget`);
@@ -125,8 +126,9 @@ let initBlacklist = (event) => {
 
 REIEvents.hide('item', (event) => {
 	// Hide items in REI here
-	initBlacklist(event);
-});
+	initBlacklist(event)
+    event.hide('modern_industrialization:redstone_tiny_dust')
+})
 
 JEIEvents.hideItems((event) => {
 	// Hide items in JEI here
