@@ -658,7 +658,7 @@ ServerEvents.recipes((event) => {
 				amount: 1,
 			},
 			{
-				item: 'modern_industrializationn:carbon_plate',
+				item: 'modern_industrialization:carbon_plate',
 				amount: 2,
 			},
 			{
@@ -672,6 +672,11 @@ ServerEvents.recipes((event) => {
 			{
 				item: 'techreborn:industrial_circuit',
 				amount: 2,
+			}
+		],
+		item_outputs: [
+			{
+				item: 'techreborn:nanosaber'
 			}
 		]
 	});
