@@ -13,6 +13,46 @@ file = "config/fabric_loader_dependencies.json"
 hash = "9b2f51bc848b8c5b6f6d5c20fabbd0f148d423819cb456bc05713b3467ff0a75"
 
 [[files]]
+file = "config/fancymenu/config.txt"
+hash = "c9dc7716249ad88ef9869c6f3e5b144ae19423e96fd2f0e79900e63606ae7fb2"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
+file = "config/fancymenu/customization/gaming2.txt"
+hash = "90f9bfd0cb202aac5c8736fa7d141250cbf10bda145f935fef0debde2b0dbc45"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "c658ee05d87b33c341bdc4a88a89a601d6387885f806ae10c96ab0700adf571f"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "3f227bcac9597195de9ba6515d389496c8ba7fd2ab7e6543571cf0195f17d03f"
 
@@ -23,6 +63,22 @@ hash = "0666db351d756548f783e12448b85cb33ffd52d215b9c44285eb006b3fbc96de"
 [[files]]
 file = "config/modmenu.json"
 hash = "916fbd8cc38e7b2ace16c1e764f58f55767d3f9a68df4269029b3b510844ad94"
+
+[[files]]
+file = "config/openloader/advanced_options.json"
+hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/2022-10-01_17.19.37.png"
+hash = "7c5bbab5d1666f731017b5ca2a0183e96b6771a5695604a4e12c3d452cdaf36f"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/smp-withicons-trim-25p.png"
+hash = "1904c5e3e14743b30054c4aadd4fc4fe473e347018f8d637da46402835308aae"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/title.png"
+hash = "e3c901b749128d3eacb41de64b7a692ad6843a4fccfa34782f88525dd122b525"
 
 [[files]]
 file = "config/puzzle.json"

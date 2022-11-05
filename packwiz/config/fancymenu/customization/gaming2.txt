@@ -1,0 +1,107 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = openloader/2022-10-01_17.19.37.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = f474bfd1-a123-4590-aef3-25fc62bedcdc1667650874342
+  y = 361
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 429
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 1d72e693-01cf-43ea-9f12-dc5b5afd1efd1667650874350
+  y = 193
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 189
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = dcf91c3a-5848-402f-8b8d-8b8db85db89f1667650874351
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = top-left
+  splash_color = #ffff00
+  hidden = true
+  x = 434
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 8af5380c-a632-43ba-b656-d79312b1940e1667650874351
+  y = 107
+  height = 30
+}
+
+customization {
+  path = openloader/title.png
+  orientation = top-centered
+  x = -135
+  width = 270
+  action = addtexture
+  actionid = 470c707c-47f1-4f42-af65-4bb67c4ce1291667650901127
+  y = 0
+  height = 120
+}
+
+customization {
+  orientation = top-right
+  basecolor = #ffff00
+  shadow = true
+  rotation = -15.0
+  scale = 1.0
+  refresh = false
+  bouncing = true
+  vanilla-like = false
+  x = -263
+  actionid = cc3767e5-427f-4af0-a36c-472d244869261667651785286
+  action = addsplash
+  y = 85
+  text = game
+}
+
+customization {
+  showname = true
+  orientation = mid-left
+  crouching = false
+  x = 117
+  slim = false
+  actionid = 5d85faa4-1c06-424f-987f-7227a8271fd01667651899828
+  action = addentity
+  y = 53
+  scale = 50
+  playername = %playername%
+  parrot = false
+}
+
