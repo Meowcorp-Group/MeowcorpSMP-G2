@@ -3,6 +3,9 @@
 
 private server modpack
 
+## Credits
+Thanks to Team AOF for the unification scripts. Our team is too small to create one ourselves, especially with a tight deadline.
+
 ## Development
 
 ### Notice (!!!)

@@ -129,6 +129,10 @@ file = "kubejs/server_scripts/tags.js"
 hash = "da3992aedeaf0cfeaf115e00440dc3dfd10b2e4e6c98ce7d1a918209943aefa8"
 
 [[files]]
+file = "kubejs/server_scripts/unification/materials.js"
+hash = "015e6608fbec85cc5a280ec6d4266916bef469a1f6150446b29b6bf7109f58dd"
+
+[[files]]
 file = "kubejs/startup_scripts/registry.js"
 hash = "53acc8c84dbee09011e55dfe966d9b537ef448862f1f0101d4ef3311c1cf7c1d"
 
