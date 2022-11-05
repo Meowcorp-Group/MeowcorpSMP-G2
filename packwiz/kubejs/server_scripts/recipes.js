@@ -181,6 +181,55 @@ ServerEvents.recipes((event) => {
 		]
 	});
 
+	// Quantum Sword
+    
+	event.remove({output: 'modern_industrialization:quantum_sword'})
+	event.custom({
+		type: 'modern_industrialization:assembler',
+		eu: 32,
+		duration: 1000,
+		item_inputs: [
+			{
+				item: 'modern_industrialization:quantum_upgrade',
+				amount: 1,
+			},
+			{
+				item: 'minecraft:netherite_sword',
+				amount: 1,
+			},
+			{
+				item: 'botania:star_sword',
+				amount: 1,
+			},
+			{
+				item: 'botania:thunder_sword',
+				amount: 1,
+			},
+			{
+				item: 'techreborn:nanosaber',
+				amount: 1,
+			},
+			{
+				item: 'indrev:gamer_axe',
+				amount: 1,
+			},
+			{
+				item: 'modern_industrialization:quantum_circuit',
+				amount: 4,
+			},
+			{
+				item: 'modern_industrialization:singularity',
+				amount: 16,
+			}
+		],
+		item_outputs: [
+			{
+				item: 'modern_industrialization:quantum_sword',
+				amount: 1,
+		    }
+		]
+	});
+
     // Quantum Upgrade
 
 	event.remove({ output: 'modern_industrialization:quantum_upgrade' });
@@ -213,6 +262,14 @@ ServerEvents.recipes((event) => {
 				item: 'ae2:singularity',
 				amount: 64,
 			},
+			{
+				item: 'indrev:circuit_mk4',
+				amount: 16,
+			},
+            {
+				item: 'techreborn:industrial_circuit',
+				amount: 16,
+			}
 		],
 
 		fluid_inputs: {
@@ -370,6 +427,254 @@ ServerEvents.recipes((event) => {
 		M: 'botania:mana_diamond',
 	});
 
+	// Indrev Modular Suit 
+
+	event.remove({output: 'indrev:modular_armor_helmet'});
+	event.custom({
+		type: 'modern_industrialization:assembler',
+		eu: 24,
+		duration: 800,
+		item_inputs:[
+			{
+				item: 'minecraft:netherite_ingot',
+				amount: 4,
+			},
+			{
+				item: 'indrev:circuit_mk4',
+				amount: 1,
+			},
+			{
+				item: 'techreborn:industrial_circuit',
+				amount: 2,
+			},
+			{
+				item: 'indrev:enriched_nikolite_ingot',
+				amount: 2,
+			},
+			{
+				item: 'indrev:steel_helmet',
+				amount: 1,
+			},
+			{
+				item: 'indrev:battery',
+				amount: 2,
+			},
+			{
+				item: 'indrev:modular_core_activated',
+				amount: 1,
+			},
+		],
+		item_outputs: [
+			{
+				item: 'indrev:modular_armor_helmet',
+				amount: 1,
+			}
+		],
+	});
+
+	event.remove({output: 'indrev:modular_armor_chest'});
+	event.custom({
+		type: 'modern_industrialization:assembler',
+		eu: 24,
+		duration: 800,
+		item_inputs:[
+			{
+				item: 'minecraft:netherite_ingot',
+				amount: 8,
+			},
+			{
+				item: 'indrev:circuit_mk4',
+				amount: 1,
+			},
+			{
+				item: 'techreborn:industrial_circuit',
+				amount: 2,
+			},
+			{
+				item: 'indrev:enriched_nikolite_ingot',
+				amount: 2,
+			},
+			{
+				item: 'indrev:steel_chestplate',
+				amount: 1,
+			},
+			{
+				item: 'indrev:battery',
+				amount: 2,
+			},
+			{
+				item: 'indrev:modular_core_activated',
+				amount: 1,
+			},
+		],
+		item_outputs: [
+			{
+				item: 'indrev:modular_armor_chest',
+				amount: 1,
+			}
+		],
+	});
+
+	event.remove({output: 'indrev:modular_armor_legs'});
+	event.custom({
+		type: 'modern_industrialization:assembler',
+		eu: 24,
+		duration: 800,
+		item_inputs:[
+			{
+				item: 'minecraft:netherite_ingot',
+				amount: 7,
+			},
+			{
+				item: 'indrev:circuit_mk4',
+				amount: 1,
+			},
+			{
+				item: 'techreborn:industrial_circuit',
+				amount: 2,
+			},
+			{
+				item: 'indrev:enriched_nikolite_ingot',
+				amount: 2,
+			},
+			{
+				item: 'indrev:steel_leggings',
+				amount: 1,
+			},
+			{
+				item: 'indrev:battery',
+				amount: 2,
+			},
+			{
+				item: 'indrev:modular_core_activated',
+				amount: 1,
+			},
+		],
+		item_outputs: [
+			{
+				item: 'indrev:modular_armor_legs',
+				amount: 1,
+			}
+		],
+	});
+
+	event.remove({output: 'indrev:modular_armor_boots'});
+	event.custom({
+		type: 'modern_industrialization:assembler',
+		eu: 24,
+		duration: 800,
+		item_inputs:[
+			{
+				item: 'minecraft:netherite_ingot',
+				amount: 4,
+			},
+			{
+				item: 'indrev:circuit_mk4',
+				amount: 1,
+			},
+			{
+				item: 'techreborn:industrial_circuit',
+				amount: 2,
+			},
+			{
+				item: 'indrev:enriched_nikolite_ingot',
+				amount: 2,
+			},
+			{
+				item: 'indrev:steel_boots',
+				amount: 1,
+			},
+			{
+				item: 'indrev:battery',
+				amount: 2,
+			},
+			{
+				item: 'indrev:modular_core_activated',
+				amount: 1,
+			},
+		],
+		item_outputs: [
+			{
+				item: 'indrev:modular_armor_boots',
+				amount: 1,
+			}
+		],
+	});
+
+    // Gamer Axe
+	event.remove({output: 'indrev:gamer_axe'});
+	event.custom({
+		type: 'modern_industrialization:assembler',
+		eu: 24,
+		duration: 800,
+		item_inputs:[
+			{
+				item: 'minecraft:netherite_ingot',
+				amount: 4,
+			},
+			{
+                item: 'modern_industrialization:steel_plate',
+				amount: 6,
+			},
+			{
+				item: 'indrev:circuit_mk4',
+				amount: 2,
+			},
+			{
+				item: 'techreborn:industrial_circuit',
+				amount: 2,
+			},
+			{
+				item: 'indrev:enriched_nikolite_ingot',
+				amount: 2,
+			},
+			{
+				item: 'indrev:netherite_axe',
+				amount: 1,
+			},
+			{
+				item: 'indrev:battery',
+				amount: 1,
+			},
+		],
+		item_outputs: [
+			{
+				item: 'indrev:gamer_axe',
+				amount: 1,
+			}
+		],
+	});
+
+	// Tech Reborn Tools
+
+	event.remove({output: 'techreborn:nanosaber'})
+	event.custom({
+		type: 'modern_industrialization:assembler',
+		eu: 24,
+		duration: 800,
+		item_inputs: [
+			{
+				item: 'techreborn:lapotron_crystal',
+				amount: 1,
+			},
+			{
+				item: 'modern_industrializationn:carbon_plate',
+				amount: 2,
+			},
+			{
+				item: 'modern_industrialization:diamond_plate',
+				amount: 4,
+			},
+			{
+				item: 'indrev:circuit_mk4',
+				amount: 1,
+			},
+			{
+				item: 'techreborn:industrial_circuit',
+				amount: 2,
+			}
+		]
+	});
 	// Remove recipes here
 
 	event.remove({output: 'modern_industrialization:redstone_tiny_dust' });
