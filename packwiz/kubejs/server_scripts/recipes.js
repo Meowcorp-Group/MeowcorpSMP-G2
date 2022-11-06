@@ -283,7 +283,225 @@ ServerEvents.recipes((event) => {
 			},
 		],
 	});
+
+	// Quantum Processor
+
+	event.remove({output: 'modern_industrialization:quantum_circuit'});
+	event.custom({
+		type: 'modern_industrialization:assembler',
+		eu: 32,
+		duration: 1000,
+		item_inputs: [
+			{
+				item: 'modern_industrialization:processing_unit',
+				amount: 8,
+			},
+			{
+				item: 'modern_industrialization:cooling_cell',
+				amount: 4,
+			},
+			{
+				item: 'modern_industrialization:qbit',
+				amount: 4,
+			},
+			{
+				item: 'modern_industrialization:quantum_circuit_board',
+				amount: 1,
+			},
+			{
+				item: 'modern_industrialization:plutonium_nugget',
+				amount: 4,
+			},
+		],
+		item_outputs: [
+			{
+				item: 'modern_industrialization:quantum_circuit',
+				amount: 1,
+			},
+		],
+	});
+
+	// Tech Reborn Industrial Circuit
+	event.remove({output: 'techreborn:industrial_circuit'});
+	event.custom({
+		type: 'modern_industrialization:assembler',
+		eu: 16,
+		duration: 500,
+		item_inputs: [
+			{
+				item: 'techreborn:advanced_circuit',
+				amount: 2,
+			},
+			{
+				item: 'modern_industrialization:platinum_plate',
+				amount: 4,
+			},
+			{
+				item: 'indrev:circuit_mk3',
+				amount: 2,
+			},
+		],
+		item_outputs: [
+			{
+				item: 'techreborn:industrial_circuit',
+				amount: 1,
+			}
+		]
+	});
 	
+	// Processing Boards
+
+	// Electronic Circuit Board
+	event.remove({output: 'modern_industrialization:electronic_circuit_board'});
+	event.custom({
+		type: 'modern_industrialization:assembler',
+		eu: 8,
+		duration: 200,
+		item_inputs: [
+			{
+				item: 'modern_industrialization:aluminum_plate',
+				amount: 4,
+			},
+			{
+				item: 'modern_industrialization:electrum_cable',
+				amount: 6,
+			},
+			{
+				item: 'modern_industrialization:analog_circuit_board',
+				amount: 1,
+			},
+			{
+				item: 'modern_industrialization:redstone_battery',
+				amount: 1,
+			},
+		],
+		item_outputs: [
+			{
+				item: 'modern_industrialization:electronic_circuit_board',
+				amount: 1,
+			}
+		],
+	});
+    
+    event.remove({output: 'modern_industrialization:digital_circuit_board'});
+	event.custom({
+		type: 'modern_industrialization:assembler',
+		eu: 16,
+		duration: 500,
+		item_inputs: [
+			{
+				item: 'modern_industrialization:stainless_steel_plate',
+				amount: 8,
+			},
+			{
+				item: 'modern_industrialization:aluminum_cable',
+				amount: 8,
+			},
+			{
+				item: 'modern_industrialization:electronic_circuit_board',
+				amount: 1,
+			},
+			{
+				item: 'modern_industrialization:silicon_battery',
+				amount: 1,
+			},
+		],
+		fluid_inputs: [
+			{
+				fluid: 'modern_industrialization:polyethylene',
+				amount: 750,
+			}
+		],
+		item_outputs: [
+			{
+				item: 'modern_industrialization:digital_circuit_board',
+				amount: 1,
+			}
+		],
+	});
+
+	event.remove({output: 'modern_industrialization:processing_unit_board'});
+	event.custom({
+		type: 'modern_industrialization:assembler',
+		eu: 32,
+		duration: 1200,
+		item_inputs: [
+			{
+				item: 'modern_industrialization:platinum_plate',
+				amount: 4,
+			},
+			{
+				item: 'modern_industrialization:annealed_copper_cable',
+				amount: 16,
+			},
+			{
+				item: 'modern_industrialization:digital_circuit_board',
+				amount: 1,
+			},
+			{
+				item: 'modern_industrialization:cadmium_battery',
+				amount: 2,
+			},
+			{
+				item: 'botania:terrasteel_nugget',
+				amount: 4,
+			}
+		],
+		fluid_inputs:[
+			{
+				fluid: 'modern_industrialization:polyvinyl_chloride',
+				amount: 1500,
+			}
+		],
+		item_outputs: [
+			{
+				item: 'modern_industrialization:processing_unit_board',
+				amount: 1,
+			}
+		],
+	});
+    
+	event.remove({output: 'modern_industrialization:quantum_circuit_board'});
+	event.custom({
+		type: 'modern_industrialization:assembler',
+		eu: 64,
+		duration: 1200,
+		item_inputs: [
+			{
+				item: 'modern_industrialization:iridium_plate',
+				amount: 16,
+			},
+			{
+				item: 'modern_industrialization:superconductor_cable',
+				amount: 16,
+			},
+			{
+				item: 'modern_industrialization:processing_unit_board',
+				amount: 1,
+			},
+			{
+				item: 'modern_industrialization:plutonium_battery',
+				amount: 2,
+			},
+			{
+				item: 'botania:life_essence',
+				amount: 2,
+			},
+		],
+		fluid_inputs: [
+			{
+				fluid: 'modern_industrialization:helium_3',
+				amount: 50,
+			}
+		],
+		item_outputs: [
+			{
+				item: 'modern_industrialization:quantum_circuit_board',
+				amount: 1,
+			}
+		],
+	});
+
 	// Tech Reborn Quantum Suit
 
 	event.remove({output: 'techreborn:quantum_helmet'});
