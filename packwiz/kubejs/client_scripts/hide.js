@@ -50,6 +50,7 @@ const hiddenItems = {
 			'nickel',
 			'platinum',
 			'carbon',
+			'iridium',
 		],
 	},
 	// Industrial Revolution (modid indrev)

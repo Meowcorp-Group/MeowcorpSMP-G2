@@ -166,7 +166,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/hide.js"
-hash = "e0e58c14ecc63ee4b7b94873f04ada7c135b5cac41564cab1e76e85314f7ed7f"
+hash = "77d482e07e63ca8dd7050259a268929507c50aab1040df286f3184762c360115"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -335,6 +335,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "33151ae64304b2b7fdb3d4243cf7d6a0dd6d17a700318080b5b3f2ea8e6fa326"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "2fb428a754d9874a688c120ee557dcfd67891fb1da11adae60e0cc8e8b293872"
 metafile = true
 
 [[files]]
