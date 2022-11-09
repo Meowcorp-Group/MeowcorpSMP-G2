@@ -17,6 +17,10 @@ const hiddenItems = {
 			// 'deepslate_lead',
 			'silver',
 			// 'deepslate_silver',
+			'titanium',
+			// 'deepslate_titanium',
+			'nickel',
+			// 'deepslate_nickel'
 		],
 		// materials (blocks, ingots, nuggets, dusts, fluids)
 		materials: [
@@ -36,7 +40,16 @@ const hiddenItems = {
 			'nickel',
 			'ruby',
 			'bronze',
-			'chromium',
+			'chrome',
+			'aluminum',
+			'titanium',
+		    'bronze',
+			'electrum',
+			'invar',
+			'lead',
+			'nickel',
+			'platinum',
+			'carbon',
 		],
 	},
 	// Industrial Revolution (modid indrev)
@@ -94,9 +107,10 @@ let initBlacklist = (event) => {
 						 * {item}_plate
 						 * {item}_storage_block
 						*/
+						event.hide(`${modid}:${item}_plate`)
 						event.hide(`${modid}:${item}_small_dust`);
 						event.hide(`${modid}:${item}_dust`);
-						event.hide(`${modid}:${item}`)
+						event.hide(`${modid}:${item}_storage_block`)
 						event.hide(`${modid}:${item}_ingot`);
 						event.hide(`${modid}:${item}_nugget`);
 						event.hide(`${modid}:${item}_block`)

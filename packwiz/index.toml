@@ -166,7 +166,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/hide.js"
-hash = "2ca62bdcc7c32c6c6437e012fd9ef7f03cc0f61af965c698fd332beca2d8cac0"
+hash = "e0e58c14ecc63ee4b7b94873f04ada7c135b5cac41564cab1e76e85314f7ed7f"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -178,7 +178,7 @@ hash = "1fa2e580d1c815add6381c70ca89ab955c5e3ff218a7662067578a8551ad163c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "d3c276ce7f579802906b0ea696d7c9f81c1b3987951c50726dab24fb3a707a5a"
+hash = "9ba148eff423f318b42fb5d7d7e097e60744bbe0238cb8edbcf4cb5532759a45"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"

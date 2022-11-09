@@ -262,14 +262,6 @@ ServerEvents.recipes((event) => {
 				item: 'ae2:singularity',
 				amount: 64,
 			},
-			{
-				item: 'indrev:circuit_mk4',
-				amount: 16,
-			},
-            {
-				item: 'techreborn:industrial_circuit',
-				amount: 16,
-			}
 		],
 
 		fluid_inputs: {
@@ -311,6 +303,14 @@ ServerEvents.recipes((event) => {
 			{
 				item: 'modern_industrialization:plutonium_nugget',
 				amount: 4,
+			},
+			{
+				item: 'indrev:circuit_mk4',
+				amount: 16,
+			},
+            {
+				item: 'techreborn:industrial_circuit',
+				amount: 16,
 			},
 		],
 		item_outputs: [
@@ -484,9 +484,17 @@ ServerEvents.recipes((event) => {
 				amount: 2,
 			},
 			{
-				item: 'botania:life_essence',
-				amount: 2,
+				item: 'botania:terrasteel_nugget',
+				amount: 8,
 			},
+			{
+				item: 'techreborn:industrial_circuit',
+				amount: 16,
+			},
+			{
+				item: 'indrev:circuit_mk4',
+				amount: 16,
+			}
 		],
 		fluid_inputs: [
 			{
