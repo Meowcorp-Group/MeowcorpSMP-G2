@@ -109,6 +109,10 @@ file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/2022-10-01_17
 hash = "7c5bbab5d1666f731017b5ca2a0183e96b6771a5695604a4e12c3d452cdaf36f"
 
 [[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/discord-mark-blue.png"
+hash = "b5a86c611db8469e4ca9b89eef25f4e2af39d0d3128f9d1374c5e5e31b73b5df"
+
+[[files]]
 file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/smp-withicons-trim-25p.png"
 hash = "1904c5e3e14743b30054c4aadd4fc4fe473e347018f8d637da46402835308aae"
 
@@ -279,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania-snapshot.pw.toml"
-hash = "4b0f572eb0fe0370b89fc9a9dbaee5ff16d971f2effa02dc1ca9daddf4bc7bf2"
+hash = "0b65c5376d7cc996ab8d62773e6cf7a3c8cf73998855f838b42c2699292c2b66"
 metafile = true
 
 [[files]]
