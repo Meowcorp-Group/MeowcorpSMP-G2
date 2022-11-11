@@ -22,7 +22,15 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/gaming2.txt"
-hash = "90f9bfd0cb202aac5c8736fa7d141250cbf10bda145f935fef0debde2b0dbc45"
+hash = "762ac566e8d0680d92c39abe81747771990a0886c01681d847d249bdce6f90ea"
+
+[[files]]
+file = "config/fancymenu/icons/icon16x16.png"
+hash = "c23ed73ca0a031121fb44a5552e83fa77f272cfc99b29580ac559bb29a7b2ff1"
+
+[[files]]
+file = "config/fancymenu/icons/icon32x32.png"
+hash = "ca68e4580a336ed7fdf674aae911f69594109b56329c436c323cf8e281fa152b"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -47,6 +55,34 @@ hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
 [[files]]
 file = "config/fancymenu/menu_identifiers.db"
 hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/panoramas/smp-shaders/panorama/panorama_0.png"
+hash = "fcc74f2b3adc43cedb3c862704c171ee6f9744635f9aa3c01595fe505064bd64"
+
+[[files]]
+file = "config/fancymenu/panoramas/smp-shaders/panorama/panorama_1.png"
+hash = "ecd2f80f25e8a8c757951fe862446b60bbbcc7400f9d235a11c64358bee2503a"
+
+[[files]]
+file = "config/fancymenu/panoramas/smp-shaders/panorama/panorama_2.png"
+hash = "1aa08046ed7b02ab16f4f45456b8d931329b25da6b92a06996d14169c8299364"
+
+[[files]]
+file = "config/fancymenu/panoramas/smp-shaders/panorama/panorama_3.png"
+hash = "5ffc9a915e7855d57fd861ea38dad54843d66a75bb856aac91ac3782dc3538aa"
+
+[[files]]
+file = "config/fancymenu/panoramas/smp-shaders/panorama/panorama_4.png"
+hash = "d82771e1033866410ca94c497359062784dd432e5126be63866e1e625b57429b"
+
+[[files]]
+file = "config/fancymenu/panoramas/smp-shaders/panorama/panorama_5.png"
+hash = "cc554629847a368829ef1c146dfecc427fe47bc1f74c461d7a3b637916dfed80"
+
+[[files]]
+file = "config/fancymenu/panoramas/smp-shaders/properties.txt"
+hash = "8291b7fb324044ac1da89df1e65e02e4e7c5ad708399a355f7570b62409759a9"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
@@ -75,6 +111,10 @@ hash = "7c5bbab5d1666f731017b5ca2a0183e96b6771a5695604a4e12c3d452cdaf36f"
 [[files]]
 file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/smp-withicons-trim-25p.png"
 hash = "1904c5e3e14743b30054c4aadd4fc4fe473e347018f8d637da46402835308aae"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/texts/splashes.txt"
+hash = "59a56f448a0c8995c56e412a79ddcc9ca6609239a249def207544eb009592cbf"
 
 [[files]]
 file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/title.png"
@@ -289,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "bf99ea4c0791d122c48e8b9f637b885fe989bb04b864234d790b563c968c955e"
+hash = "90dec0bb053cd7eb7a5474af1b692917c0925bb938747a4e43215f1815e423e7"
 metafile = true
 
 [[files]]
@@ -394,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "93a2d0842c40b4ddb2c795c664fb33e2a276c5ae8e28dfdbdf11904b63531074"
+hash = "eaca8b5eda65ece5ee2c01d777b1ca6038379b5af65fab7a20331a36a9bc1515"
 metafile = true
 
 [[files]]
@@ -464,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e3aca0cdce3d910b14c74960e82b2099aa870ff552608ebf42ad567dfcd63cc9"
+hash = "04466a6b17510266c4faa1963f08e295ea89e2148e4f707315040deddbe28f6c"
 metafile = true
 
 [[files]]
@@ -514,12 +554,12 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "7c760da47a3133f22087dcdc48c127f8eb99dc572092f32e2196fa2bf070ec71"
+hash = "168a4984a78df7296edf01b61c06c4eb08d84cb8353de48500050b27c1e1a53e"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "980f103cca2a49a16d82c92fd1affd200c1c0a141d15851dc01f23a525ed8b9d"
+hash = "a1192eb0b95b453e904f13892f3ee2b9a866fefd399cbf8ec89b460f8e591a65"
 metafile = true
 
 [[files]]
