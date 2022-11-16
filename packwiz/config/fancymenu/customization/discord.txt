@@ -1,0 +1,149 @@
+type = menu
+
+customization-meta {
+  identifier = joindiscord
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  custom_menu_title = .
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = smp-shaders
+  action = setbackgroundpanorama
+}
+
+customization {
+  action = setscale
+  scale = 4
+}
+
+customization {
+  baseheight = 1080
+  action = autoscale
+  basewidth = 1920
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-centered
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = Join Meowcorp Discord
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 2
+  x = -70
+  width = 153
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = dbd13b55-f935-49b9-9462-a225986f98e31668323740245
+  y = 50
+  alignment = centered
+  height = 16
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = false
+  buttonaction = openlink
+  x = -59
+  width = 124
+  actionid = 16616da2-1021-4dc0-ad9d-eeb36c0930761668323979500
+  action = addbutton
+  y = -72
+  label = discord.gg/hP5u34m
+  value = https:discord.gg/hP5u34m
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 180
+  width = 124
+  actionid = 39826619-a43b-472c-b9ea-1820d0d29f0f1668324304736
+  action = addbutton
+  y = 113
+  label = discord.gg/rUjCcZhkk7
+  value = https://discord.gg/rUjCcZhkk7
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = Join Meowcorp Minecraft Discord
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -96
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 29ae6cb8-29ef-4e0f-b12b-1d9ea8d8bdd21668324345398
+  y = 9
+  alignment = centered
+  height = 15
+}
+
+customization {
+  orientation = mid-centered
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = Join Meowcorp Public Discord
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -96
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = a7977789-3736-4d8c-9e3b-5f23162579b91668324462743
+  y = -38
+  alignment = centered
+  height = 15
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = -61
+  width = 126
+  actionid = ab5ccefe-55ab-4662-b277-021ada2d67521668324489639
+  action = addbutton
+  y = 23
+  label = Private Server
+  value = 
+  height = 20
+}
+
+customization {
+  orientation = bottom-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = closegui
+  x = -28
+  width = 59
+  actionid = cfc94bc6-8a02-4a8c-8dc2-084e4931a1401668325172500
+  action = addbutton
+  y = -59
+  label = Go Back
+  value = null
+  height = 20
+}
+

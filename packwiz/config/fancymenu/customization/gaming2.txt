@@ -9,13 +9,143 @@ customization-meta {
 }
 
 customization {
-  path = openloader/2022-10-01_17.19.37.png
-  action = texturizebackground
+  name = smp-shaders
+  action = setbackgroundpanorama
+}
+
+customization {
+  action = setscale
+  scale = 4
+}
+
+customization {
+  baseheight = 1080
+  action = autoscale
+  basewidth = 1920
 }
 
 customization {
   keepaspectratio = false
   action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = 1
+  action = movebutton
+  y = -14
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 99
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-centered
+  x = -78
+  action = movebutton
+  y = 52
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 74
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 99
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = 1
+  action = movebutton
+  y = 74
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 99
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=870980%
+  orientation = bottom-right
+  x = -130
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 52
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -14
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 99
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 30
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  width = 99
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-centered
+  x = 1
+  action = movebutton
+  y = 52
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  width = 99
+  action = resizebutton
+  height = 20
 }
 
 customization {
@@ -25,18 +155,18 @@ customization {
   width = 165
   action = deep_customization_element:title_screen_branding
   actionid = f474bfd1-a123-4590-aef3-25fc62bedcdc1667650874342
-  y = 361
+  y = 263
   height = 10
 }
 
 customization {
   orientation = top-left
-  hidden = false
-  x = 429
+  hidden = true
+  x = 358
   width = 13
   action = deep_customization_element:title_screen_realms_notification
   actionid = 1d72e693-01cf-43ea-9f12-dc5b5afd1efd1667650874350
-  y = 193
+  y = 167
   height = 13
 }
 
@@ -65,43 +195,111 @@ customization {
 }
 
 customization {
-  path = openloader/title.png
+  path = config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/smp-withicons-trim-25p.png
   orientation = top-centered
-  x = -135
-  width = 270
+  x = -110
+  width = 220
   action = addtexture
-  actionid = 470c707c-47f1-4f42-af65-4bb67c4ce1291667650901127
-  y = 0
-  height = 120
-}
-
-customization {
-  orientation = top-right
-  basecolor = #ffff00
-  shadow = true
-  rotation = -15.0
-  scale = 1.0
-  refresh = false
-  bouncing = true
-  vanilla-like = false
-  x = -263
-  actionid = cc3767e5-427f-4af0-a36c-472d244869261667651785286
-  action = addsplash
-  y = 85
-  text = game
+  actionid = cf6fe7c0-4103-439d-95cd-7b3bb1c98ee91667655419090
+  y = 18
+  height = 73
 }
 
 customization {
   showname = true
   orientation = mid-left
   crouching = false
-  x = 117
+  x = 66
   slim = false
   actionid = 5d85faa4-1c06-424f-987f-7227a8271fd01667651899828
   action = addentity
-  y = 53
+  y = 45
   scale = 50
   playername = %playername%
   parrot = false
+}
+
+customization {
+  orientation = element
+  basecolor = #ffff00
+  shadow = true
+  splashfilepath = config\openloader\resources\meowcorpsmp\assets\meowcorpsmp\texts\splashes.txt
+  rotation = -15.0
+  scale = 1.0
+  refresh = false
+  bouncing = true
+  vanilla-like = false
+  orientation_element = cf6fe7c0-4103-439d-95cd-7b3bb1c98ee91667655419090
+  x = 172
+  actionid = dec5415d-307e-4c43-adf3-5d7ada7938651667656201232
+  action = addsplash
+  y = 60
+}
+
+customization {
+  orientation = mid-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 184
+  width = 55
+  actionid = 09dc74b9-39a7-4a7b-b697-0ec477ed95ad1667692422469
+  action = addbutton
+  y = 52
+  label = Free VP
+  value = https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opencustomgui
+  x = 140
+  width = 99
+  actionid = 4e40a376-7dad-4ecf-87bc-4f4f848987ce1668323428131
+  action = addbutton
+  y = 145
+  label = Discord
+  value = joindiscord
+  height = 20
+}
+
+customization {
+  path = config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/discord-mark-white.png
+  orientation = top-left
+  x = 146
+  width = 13
+  action = addtexture
+  actionid = 557fd416-4b7a-4a30-a426-3a43b2898e041668328411434
+  y = 150
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opencustomgui
+  x = 241
+  width = 99
+  actionid = c0cfee1d-c360-415f-b7ce-f2e68735877b1668399469311
+  action = addbutton
+  y = 145
+  label = Our Websites
+  value = ourwebsite
+  height = 20
+}
+
+customization {
+  path = config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/websiteicon.png
+  orientation = top-left
+  x = 241
+  width = 17
+  action = addtexture
+  actionid = 4f08b606-8003-4154-8380-1cd19c5a19891668408201050
+  y = 146
+  height = 17
 }
 

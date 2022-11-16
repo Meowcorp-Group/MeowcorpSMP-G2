@@ -17,12 +17,36 @@ file = "config/fancymenu/config.txt"
 hash = "c9dc7716249ad88ef9869c6f3e5b144ae19423e96fd2f0e79900e63606ae7fb2"
 
 [[files]]
+file = "config/fancymenu/customguis/joindiscord.txt"
+hash = "2957e4a5d7ec4d2916d30117c81d1ac977240107bbcc7acf84e03d76dfb2c553"
+
+[[files]]
+file = "config/fancymenu/customguis/ourwebsite.txt"
+hash = "b08232f8b860bdaaaa22efe78e23524e4a336bd53ce40db9f454bffab7865290"
+
+[[files]]
 file = "config/fancymenu/customizablemenus.txt"
 hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
+file = "config/fancymenu/customization/discord.txt"
+hash = "de448b5ee86528640a3693c38c8131f126ffc94785d68b3b3f08a8af1c3c1488"
+
+[[files]]
 file = "config/fancymenu/customization/gaming2.txt"
-hash = "90f9bfd0cb202aac5c8736fa7d141250cbf10bda145f935fef0debde2b0dbc45"
+hash = "d6740d652709f95145c233e67b417018616824853c3669a801b925c8aec38a35"
+
+[[files]]
+file = "config/fancymenu/customization/website.txt"
+hash = "feaccdca760ce06ca039da62e4edb8f1605029030b8c1f080ee23af7d639a978"
+
+[[files]]
+file = "config/fancymenu/icons/icon16x16.png"
+hash = "c23ed73ca0a031121fb44a5552e83fa77f272cfc99b29580ac559bb29a7b2ff1"
+
+[[files]]
+file = "config/fancymenu/icons/icon32x32.png"
+hash = "ca68e4580a336ed7fdf674aae911f69594109b56329c436c323cf8e281fa152b"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -49,6 +73,34 @@ file = "config/fancymenu/menu_identifiers.db"
 hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
+file = "config/fancymenu/panoramas/smp-shaders/panorama/panorama_0.png"
+hash = "fcc74f2b3adc43cedb3c862704c171ee6f9744635f9aa3c01595fe505064bd64"
+
+[[files]]
+file = "config/fancymenu/panoramas/smp-shaders/panorama/panorama_1.png"
+hash = "ecd2f80f25e8a8c757951fe862446b60bbbcc7400f9d235a11c64358bee2503a"
+
+[[files]]
+file = "config/fancymenu/panoramas/smp-shaders/panorama/panorama_2.png"
+hash = "1aa08046ed7b02ab16f4f45456b8d931329b25da6b92a06996d14169c8299364"
+
+[[files]]
+file = "config/fancymenu/panoramas/smp-shaders/panorama/panorama_3.png"
+hash = "5ffc9a915e7855d57fd861ea38dad54843d66a75bb856aac91ac3782dc3538aa"
+
+[[files]]
+file = "config/fancymenu/panoramas/smp-shaders/panorama/panorama_4.png"
+hash = "d82771e1033866410ca94c497359062784dd432e5126be63866e1e625b57429b"
+
+[[files]]
+file = "config/fancymenu/panoramas/smp-shaders/panorama/panorama_5.png"
+hash = "cc554629847a368829ef1c146dfecc427fe47bc1f74c461d7a3b637916dfed80"
+
+[[files]]
+file = "config/fancymenu/panoramas/smp-shaders/properties.txt"
+hash = "8291b7fb324044ac1da89df1e65e02e4e7c5ad708399a355f7570b62409759a9"
+
+[[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
@@ -73,12 +125,32 @@ file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/2022-10-01_17
 hash = "7c5bbab5d1666f731017b5ca2a0183e96b6771a5695604a4e12c3d452cdaf36f"
 
 [[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/discord-mark-blue.png"
+hash = "b5a86c611db8469e4ca9b89eef25f4e2af39d0d3128f9d1374c5e5e31b73b5df"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/discord-mark-white.png"
+hash = "4da16242387bb6897521bcb0182fa435c9ecbcf2af6a005acb7c6d24b665105a"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/folder.png"
+hash = "e3a378c5b6b47e3038864e338bcc079e5ed9b24b44a9bf670ca829593c73ba81"
+
+[[files]]
 file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/smp-withicons-trim-25p.png"
-hash = "1904c5e3e14743b30054c4aadd4fc4fe473e347018f8d637da46402835308aae"
+hash = "c0cf63bd0292d312b55c0da61142d2c95822eb71420a4f5896de4f36d9ebee72"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/texts/splashes.txt"
+hash = "59a56f448a0c8995c56e412a79ddcc9ca6609239a249def207544eb009592cbf"
 
 [[files]]
 file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/title.png"
 hash = "e3c901b749128d3eacb41de64b7a692ad6843a4fccfa34782f88525dd122b525"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/websiteicon.png"
+hash = "211b755cd07d47effc6575719f588bcb9e25292d280330ecfeb8fa9760f1c883"
 
 [[files]]
 file = "config/puzzle.json"

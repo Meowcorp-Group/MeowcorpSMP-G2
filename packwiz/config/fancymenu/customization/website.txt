@@ -1,0 +1,137 @@
+type = menu
+
+customization-meta {
+  identifier = ourwebsite
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = smp-shaders
+  action = setbackgroundpanorama
+}
+
+customization {
+  action = setscale
+  scale = 4
+}
+
+customization {
+  baseheight = 1080
+  action = autoscale
+  basewidth = 1920
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 134
+  width = 100
+  actionid = 328d9df1-f6d9-457c-895c-11ae338e42af1668400259137
+  action = addbutton
+  y = 111
+  label = Meowcorp
+  value = https://meowcorp.net
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 10
+  width = 100
+  actionid = b9cd7639-002e-460b-881d-54707f7dd1931668400310361
+  action = addbutton
+  y = -26
+  label = MeowcorpSMP
+  value = https://meowcorp.net/smp
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 134
+  width = 100
+  actionid = 8f51a8eb-90df-4f07-9a31-f8cce7e85c591668400389642
+  action = addbutton
+  y = 142
+  label = GitHub
+  value = https://github.com/Meowcorp-Group/MeowcorpSMP-G2
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 251
+  width = 100
+  actionid = 198bfaf1-5bd3-4d8a-ad2b-fdc9223c87d61668400410618
+  action = addbutton
+  y = 142
+  label = Wiki
+  value = https://github.com/MeowcorpSMP-G2/wiki
+  height = 20
+}
+
+customization {
+  orientation = bottom-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = closegui
+  x = -22
+  width = 55
+  actionid = 445da5ef-8888-4692-9134-7ea52d5db2751668400441619
+  action = addbutton
+  y = -82
+  label = Go Back
+  value = 
+  height = 20
+}
+
+customization {
+  orientation = top-centered
+  enable_scrolling = false
+  shadow = true
+  scale = 2.0
+  source = %n% Our Websites
+  text_border = 1
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -75
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 1675b407-cc2c-43f5-a0d0-24233c8f49291668400816872
+  y = 59
+  alignment = centered
+  base_color = #FFFF00
+  height = 35
+}
+
+customization {
+  path = config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/websiteicon.png
+  orientation = top-left
+  x = 154
+  width = 42
+  action = addtexture
+  actionid = 29d56b23-c84b-41d0-ad11-7ca69ce7f0731668408386675
+  y = 64
+  height = 42
+}
+
