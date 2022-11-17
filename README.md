@@ -38,7 +38,7 @@ If you need to create new folders, create it in the packwiz directory and symlin
 | Mac/Linux | `ln -s ../packwiz/fileOrFolderName .` |
 | Windows File | `mklink fileName ..\packwiz\fileName` |
 | Windows Folder | `mklink /D folderName ..\packwiz\folderName` |
-> Note: Developer mode has to be enabled to create symlinks. See above for details.
+> Note: On Windows, Developer mode has to be enabled to create symlinks. See above for details.
 
 ### Adding mods
 If you want to add a CurseForge or Modrinth mod, please use packwiz. Examples:

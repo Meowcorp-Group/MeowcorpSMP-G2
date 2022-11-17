@@ -34,11 +34,15 @@ hash = "de448b5ee86528640a3693c38c8131f126ffc94785d68b3b3f08a8af1c3c1488"
 
 [[files]]
 file = "config/fancymenu/customization/gaming2.txt"
+<<<<<<< HEAD
 hash = "d6740d652709f95145c233e67b417018616824853c3669a801b925c8aec38a35"
 
 [[files]]
 file = "config/fancymenu/customization/website.txt"
 hash = "feaccdca760ce06ca039da62e4edb8f1605029030b8c1f080ee23af7d639a978"
+=======
+hash = "762ac566e8d0680d92c39abe81747771990a0886c01681d847d249bdce6f90ea"
+>>>>>>> 89e3cd6e1c3a0f75529a0b2402106a532da83d12
 
 [[files]]
 file = "config/fancymenu/icons/icon16x16.png"
@@ -129,6 +133,7 @@ file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/discord-mark-
 hash = "b5a86c611db8469e4ca9b89eef25f4e2af39d0d3128f9d1374c5e5e31b73b5df"
 
 [[files]]
+<<<<<<< HEAD
 file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/discord-mark-white.png"
 hash = "4da16242387bb6897521bcb0182fa435c9ecbcf2af6a005acb7c6d24b665105a"
 
@@ -137,8 +142,14 @@ file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/folder.png"
 hash = "e3a378c5b6b47e3038864e338bcc079e5ed9b24b44a9bf670ca829593c73ba81"
 
 [[files]]
+=======
+>>>>>>> 89e3cd6e1c3a0f75529a0b2402106a532da83d12
 file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/smp-withicons-trim-25p.png"
 hash = "c0cf63bd0292d312b55c0da61142d2c95822eb71420a4f5896de4f36d9ebee72"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/texts/splashes.txt"
+hash = "59a56f448a0c8995c56e412a79ddcc9ca6609239a249def207544eb009592cbf"
 
 [[files]]
 file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/texts/splashes.txt"
@@ -311,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania-snapshot.pw.toml"
-hash = "4b0f572eb0fe0370b89fc9a9dbaee5ff16d971f2effa02dc1ca9daddf4bc7bf2"
+hash = "0b65c5376d7cc996ab8d62773e6cf7a3c8cf73998855f838b42c2699292c2b66"
 metafile = true
 
 [[files]]
@@ -361,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "bf99ea4c0791d122c48e8b9f637b885fe989bb04b864234d790b563c968c955e"
+hash = "90dec0bb053cd7eb7a5474af1b692917c0925bb938747a4e43215f1815e423e7"
 metafile = true
 
 [[files]]
@@ -466,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "93a2d0842c40b4ddb2c795c664fb33e2a276c5ae8e28dfdbdf11904b63531074"
+hash = "eaca8b5eda65ece5ee2c01d777b1ca6038379b5af65fab7a20331a36a9bc1515"
 metafile = true
 
 [[files]]
@@ -536,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e3aca0cdce3d910b14c74960e82b2099aa870ff552608ebf42ad567dfcd63cc9"
+hash = "04466a6b17510266c4faa1963f08e295ea89e2148e4f707315040deddbe28f6c"
 metafile = true
 
 [[files]]
@@ -586,12 +597,12 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "7c760da47a3133f22087dcdc48c127f8eb99dc572092f32e2196fa2bf070ec71"
+hash = "168a4984a78df7296edf01b61c06c4eb08d84cb8353de48500050b27c1e1a53e"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "980f103cca2a49a16d82c92fd1affd200c1c0a141d15851dc01f23a525ed8b9d"
+hash = "a1192eb0b95b453e904f13892f3ee2b9a866fefd399cbf8ec89b460f8e591a65"
 metafile = true
 
 [[files]]
