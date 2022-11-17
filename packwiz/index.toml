@@ -14,7 +14,7 @@ hash = "9b2f51bc848b8c5b6f6d5c20fabbd0f148d423819cb456bc05713b3467ff0a75"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "c9dc7716249ad88ef9869c6f3e5b144ae19423e96fd2f0e79900e63606ae7fb2"
+hash = "95a5615b68b7d5dfd48d371d308541ea1160d2aab8a79067258ff0369def8bdb"
 
 [[files]]
 file = "config/fancymenu/customguis/joindiscord.txt"
@@ -34,7 +34,7 @@ hash = "de448b5ee86528640a3693c38c8131f126ffc94785d68b3b3f08a8af1c3c1488"
 
 [[files]]
 file = "config/fancymenu/customization/gaming2.txt"
-hash = "3913ccd1946139b3bed6a1092ed685b31a753b83c6f2772762636d57d8fb17fd"
+hash = "bad44fb3fcf022d4d0f776e49d95d4919ef70ed96647ca2999dab45a8e285e2c"
 
 [[files]]
 file = "config/fancymenu/customization/website.txt"
