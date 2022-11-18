@@ -1,0 +1,9 @@
+name = "Create Fabric"
+filename = "create-fabric-1.19.2-0.5.0f-772.jar"
+side = "both"
+
+[download]
+url = "https://firebasestorage.googleapis.com/v0/b/meowcorp-packs.appspot.com/o/meowcorpsmp-extramods%2Fcreate-fabric-1.19.2-0.5.0f-772.jar?alt=media&token=1392cfbc-3398-4b8b-8332-d376d9a80c55"
+
+hash-format = "sha256"
+hash = "c32123e933f3d40f9864b19a1f23b78b434e41e91395cd8c65bf5c4f90ab1f59"
