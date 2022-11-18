@@ -30,7 +30,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/discord.txt"
-hash = "d1a177c9fe7b8197c98b96b54e48d5659f9baff81f8aad7cee27672c110c1088"
+hash = "fdb179dd46af80b0f6842f416fc3abbaf4106cd09d50a1fb75d38f6aa9554c06"
 
 [[files]]
 file = "config/fancymenu/customization/easteregg01.txt"
@@ -38,11 +38,11 @@ hash = "33b26ee9a0891ae6a31d7f24366e2e5dc4647ae30b1a0666ba67958d13147be5"
 
 [[files]]
 file = "config/fancymenu/customization/gaming2.txt"
-hash = "48e8a2b461da1c59dc8b08a46663d3b4e1be7cac2d89d2501399c5e7c3f5a8a1"
+hash = "b3db248a64d90c52b750bb63b1059003dd979ca186f54d8c979b7644b904d421"
 
 [[files]]
 file = "config/fancymenu/customization/website.txt"
-hash = "63c7b75588034d44fa0bf0e7e79c588f87f6b19a26bfdc2ef5354649941d2c1e"
+hash = "528e0ccfca1c8f9e04aa3ac49031593a3cd7696fde8a0e51c573c6cefc09032b"
 
 [[files]]
 file = "config/fancymenu/icons/icon16x16.png"
