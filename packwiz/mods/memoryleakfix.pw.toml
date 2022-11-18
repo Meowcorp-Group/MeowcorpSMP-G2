@@ -1,5 +1,5 @@
 name = "MemoryLeakFix"
-filename = "memoryleakfix-1.19-0.7.0.jar"
+filename = "memoryleakfix-1.19.1-0.7.0.jar"
 side = "both"
 
 [download]
