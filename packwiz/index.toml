@@ -18,7 +18,7 @@ hash = "95a5615b68b7d5dfd48d371d308541ea1160d2aab8a79067258ff0369def8bdb"
 
 [[files]]
 file = "config/fancymenu/customguis/joindiscord.txt"
-hash = "2957e4a5d7ec4d2916d30117c81d1ac977240107bbcc7acf84e03d76dfb2c553"
+hash = "4b039e33e280fb84e27fdb9a6697a7f1e4af4c73ce68e5ac6122cc335c937eda"
 
 [[files]]
 file = "config/fancymenu/customguis/ourwebsite.txt"
@@ -30,15 +30,19 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/discord.txt"
-hash = "de448b5ee86528640a3693c38c8131f126ffc94785d68b3b3f08a8af1c3c1488"
+hash = "d1a177c9fe7b8197c98b96b54e48d5659f9baff81f8aad7cee27672c110c1088"
+
+[[files]]
+file = "config/fancymenu/customization/easteregg01.txt"
+hash = "33b26ee9a0891ae6a31d7f24366e2e5dc4647ae30b1a0666ba67958d13147be5"
 
 [[files]]
 file = "config/fancymenu/customization/gaming2.txt"
-hash = "bad44fb3fcf022d4d0f776e49d95d4919ef70ed96647ca2999dab45a8e285e2c"
+hash = "48e8a2b461da1c59dc8b08a46663d3b4e1be7cac2d89d2501399c5e7c3f5a8a1"
 
 [[files]]
 file = "config/fancymenu/customization/website.txt"
-hash = "feaccdca760ce06ca039da62e4edb8f1605029030b8c1f080ee23af7d639a978"
+hash = "63c7b75588034d44fa0bf0e7e79c588f87f6b19a26bfdc2ef5354649941d2c1e"
 
 [[files]]
 file = "config/fancymenu/icons/icon16x16.png"
@@ -354,8 +358,9 @@ hash = "c28d737b72469888790e82be2278b748f99759f68d601f0ae9ed27c342546d5d"
 metafile = true
 
 [[files]]
-file = "mods/createfabric.toml"
+file = "mods/createfabric.pw.toml"
 hash = "f779eaef70b849554167dfd441f3133aa2d6bc5ddf908e0d2ebbf15be7070614"
+metafile = true
 
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"

@@ -10,11 +10,6 @@ customization-meta {
 }
 
 customization {
-  name = smp-shaders
-  action = setbackgroundpanorama
-}
-
-customization {
   action = setscale
   scale = 4
 }
@@ -54,13 +49,13 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = false
   buttonaction = openlink
-  x = -59
+  x = -56
   width = 124
   actionid = 16616da2-1021-4dc0-ad9d-eeb36c0930761668323979500
   action = addbutton
   y = -72
-  label = discord.gg/hP5u34m
-  value = https:discord.gg/hP5u34m
+  label = discord.gg/h5Pu34m
+  value = https:discord.gg/h5Pu34m
   height = 20
 }
 
@@ -69,7 +64,7 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = openlink
-  x = 180
+  x = 183
   width = 124
   actionid = 39826619-a43b-472c-b9ea-1820d0d29f0f1668324304736
   action = addbutton
@@ -89,11 +84,11 @@ customization {
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = -96
+  x = -95
   width = 200
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 29ae6cb8-29ef-4e0f-b12b-1d9ea8d8bdd21668324345398
-  y = 9
+  y = 12
   alignment = centered
   height = 15
 }
@@ -108,7 +103,7 @@ customization {
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = -96
+  x = -94
   width = 200
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = a7977789-3736-4d8c-9e3b-5f23162579b91668324462743
@@ -122,11 +117,11 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = openlink
-  x = -61
+  x = -58
   width = 126
   actionid = ab5ccefe-55ab-4662-b277-021ada2d67521668324489639
   action = addbutton
-  y = 23
+  y = 26
   label = Private Server
   value = 
   height = 20
@@ -137,7 +132,7 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = closegui
-  x = -28
+  x = -24
   width = 59
   actionid = cfc94bc6-8a02-4a8c-8dc2-084e4931a1401668325172500
   action = addbutton

@@ -9,11 +9,6 @@ customization-meta {
 }
 
 customization {
-  name = smp-shaders
-  action = setbackgroundpanorama
-}
-
-customization {
   action = setscale
   scale = 4
 }
@@ -40,7 +35,7 @@ customization {
   action = addbutton
   y = 111
   label = Meowcorp
-  value = https://meowcorp.net
+  value = https://www.meowcorp.net
   height = 20
 }
 
@@ -49,13 +44,13 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = openlink
-  x = 10
+  x = 11
   width = 100
   actionid = b9cd7639-002e-460b-881d-54707f7dd1931668400310361
   action = addbutton
   y = -26
   label = MeowcorpSMP
-  value = https://meowcorp.net/smp
+  value = https://www.meowcorp.net/smp
   height = 20
 }
 
@@ -85,7 +80,7 @@ customization {
   action = addbutton
   y = 142
   label = Wiki
-  value = https://github.com/MeowcorpSMP-G2/wiki
+  value = https://github.com/Meowcorp-Group/MeowcorpSMP-G2/wiki
   height = 20
 }
 
