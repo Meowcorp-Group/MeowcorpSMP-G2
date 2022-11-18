@@ -9,11 +9,6 @@ customization-meta {
 }
 
 customization {
-  name = smp-shaders
-  action = setbackgroundpanorama
-}
-
-customization {
   action = setscale
   scale = 4
 }
@@ -237,15 +232,15 @@ customization {
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = openlink
-  x = 184
+  x = -56
   width = 55
   actionid = 09dc74b9-39a7-4a7b-b697-0ec477ed95ad1667692422469
   action = addbutton
-  y = 189
+  y = 52
   label = Free VP
   value = https://www.youtube.com/watch?v=dQw4w9WgXcQ
   height = 20
@@ -287,7 +282,7 @@ customization {
   actionid = c0cfee1d-c360-415f-b7ce-f2e68735877b1668399469311
   action = addbutton
   y = 145
-  label = Our Websites
+  label = .    Our Websites
   value = ourwebsite
   height = 20
 }
@@ -295,11 +290,11 @@ customization {
 customization {
   path = config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/websiteicon.png
   orientation = top-left
-  x = 241
-  width = 17
+  x = 243
+  width = 18
   action = addtexture
   actionid = 4f08b606-8003-4154-8380-1cd19c5a19891668408201050
   y = 146
-  height = 17
+  height = 18
 }
 
