@@ -3,6 +3,22 @@
 
 private server modpack
 
+## Branching
+The `develop` branch is for development.
+The `production` branch is for stable releases.
+
+To change which branch your instance uses, change the pre launch command:
+
+`production` branch:
+```
+"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/Meowcorp-Group/MeowcorpSMP-G2/production/packwiz/pack.toml
+```
+`develop` branch:
+```
+"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/Meowcorp-Group/MeowcorpSMP-G2/develop/packwiz/pack.toml
+```
+The default branch on release instances is `production`.
+
 ## Credits
 Thanks to Team AOF for the unification scripts. Our team is too small to create one ourselves, especially with a tight deadline.
 
