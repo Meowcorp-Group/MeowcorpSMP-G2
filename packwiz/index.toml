@@ -245,7 +245,7 @@ file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
-file = "kubejs/client_scripts/unification/materials.js"
+file = "kubejs/client_scripts/unification/hidematerials.js"
 hash = "54c052cba3c3346e587a29673677fae7ddc200f3ae5bd33adbbf97af8ad71179"
 
 [[files]]
