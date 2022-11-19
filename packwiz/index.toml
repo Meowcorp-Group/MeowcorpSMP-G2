@@ -14,7 +14,7 @@ hash = "9b2f51bc848b8c5b6f6d5c20fabbd0f148d423819cb456bc05713b3467ff0a75"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "95a5615b68b7d5dfd48d371d308541ea1160d2aab8a79067258ff0369def8bdb"
+hash = "fb974c43bf9e7c45eb6446e48bdef3a310daf8758a238bfb63f63781a05cc34e"
 
 [[files]]
 file = "config/fancymenu/customguis/joindiscord.txt"
@@ -30,7 +30,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/discord.txt"
-hash = "d1a177c9fe7b8197c98b96b54e48d5659f9baff81f8aad7cee27672c110c1088"
+hash = "fdb179dd46af80b0f6842f416fc3abbaf4106cd09d50a1fb75d38f6aa9554c06"
 
 [[files]]
 file = "config/fancymenu/customization/easteregg01.txt"
@@ -38,11 +38,11 @@ hash = "33b26ee9a0891ae6a31d7f24366e2e5dc4647ae30b1a0666ba67958d13147be5"
 
 [[files]]
 file = "config/fancymenu/customization/gaming2.txt"
-hash = "48e8a2b461da1c59dc8b08a46663d3b4e1be7cac2d89d2501399c5e7c3f5a8a1"
+hash = "780b1fe6a330e765016b3fb4b482b3622e16093934485b0dac4777b388e7da3d"
 
 [[files]]
 file = "config/fancymenu/customization/website.txt"
-hash = "63c7b75588034d44fa0bf0e7e79c588f87f6b19a26bfdc2ef5354649941d2c1e"
+hash = "528e0ccfca1c8f9e04aa3ac49031593a3cd7696fde8a0e51c573c6cefc09032b"
 
 [[files]]
 file = "config/fancymenu/icons/icon16x16.png"
@@ -141,16 +141,56 @@ file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/folder.png"
 hash = "e3a378c5b6b47e3038864e338bcc079e5ed9b24b44a9bf670ca829593c73ba81"
 
 [[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_essential.png"
+hash = "41ec0153196f238ba6a6c18ee60811de8ca57e442b78bde2f481bd44488c5df6"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_essential_hover.png"
+hash = "28d0ff81b1442b96d63f75e11dc8f92677240e6d3a4364cbad2af517cd213c8d"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_pictures.png"
+hash = "7b71691327b44dc0af5df5a8ad94b936c2e2b8be218883a943932907afbe2737"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_pictures_hover.png"
+hash = "8acff08bda176b278cb90bd4d008a9cff999f7e081afcf6bc068d757a7a2665f"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_settings.png"
+hash = "2cbe95d76d957ed8c473abfc8efe077f6d38431d68fb1e152b846b3fdc93a1e1"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_settings_hover.png"
+hash = "c476865def958654d87ab91609b71d79e90740a13896d974dd9a55998ea191c2"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_social.png"
+hash = "302fbbccbef169fe3ac7d9236f9bbf84bd273d5729bcb005cbc7e51caa8d9f2d"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_social_hover.png"
+hash = "ac5984dff05c040c6cd4520ca084492814a18e39ecc4a8eb1acd52ab63b350e3"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_wardrobe.png"
+hash = "de94b0b330dceedce39979148966753193db565c16fd949fc39b92e08fe1d87f"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_wardrobe_hover.png"
+hash = "b2b7e228db5726f0a9fb1539ee0a581d2da01ebc00bb305a005d7db727d302b3"
+
+[[files]]
 file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/smp-withicons-trim-25p.png"
 hash = "c0cf63bd0292d312b55c0da61142d2c95822eb71420a4f5896de4f36d9ebee72"
 
 [[files]]
 file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/texts/splashes.txt"
-hash = "59a56f448a0c8995c56e412a79ddcc9ca6609239a249def207544eb009592cbf"
+hash = "db5fcd866fdc69d51be0bc6a9cbb100077321f8f2b66ad6f4736dd0401d68b20"
 
 [[files]]
 file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/texts/splashes.txt"
-hash = "59a56f448a0c8995c56e412a79ddcc9ca6609239a249def207544eb009592cbf"
+hash = "db5fcd866fdc69d51be0bc6a9cbb100077321f8f2b66ad6f4736dd0401d68b20"
 
 [[files]]
 file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/title.png"
@@ -245,8 +285,8 @@ file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
-file = "kubejs/client_scripts/hide.js"
-hash = "77d482e07e63ca8dd7050259a268929507c50aab1040df286f3184762c360115"
+file = "kubejs/client_scripts/unification/hidematerials.js"
+hash = "54c052cba3c3346e587a29673677fae7ddc200f3ae5bd33adbbf97af8ad71179"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -258,7 +298,7 @@ hash = "1fa2e580d1c815add6381c70ca89ab955c5e3ff218a7662067578a8551ad163c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "9ba148eff423f318b42fb5d7d7e097e60744bbe0238cb8edbcf4cb5532759a45"
+hash = "0aa09803d3a93eda0dd2eb444d0a0f7639aec727b82020ebd2f1bf1690399bab"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
@@ -266,7 +306,7 @@ hash = "da3992aedeaf0cfeaf115e00440dc3dfd10b2e4e6c98ce7d1a918209943aefa8"
 
 [[files]]
 file = "kubejs/server_scripts/unification/materials.js"
-hash = "015e6608fbec85cc5a280ec6d4266916bef469a1f6150446b29b6bf7109f58dd"
+hash = "915b8b038b569104f862e55641e443e70b5f768e745f1e3bbd3fc676a5a470b9"
 
 [[files]]
 file = "kubejs/startup_scripts/registry.js"
@@ -304,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "bd44363ed309b231bc0ef7bb199c020325bd29637b4a02382b9e1ae91d8ff544"
+hash = "d9023cc86074ad3e3fec8a7a5ec8ad456fcac04ebd1342ff803d0551fa7d8e56"
 metafile = true
 
 [[files]]
@@ -394,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "b8ea6091c79c1905cba6c53e911758acdc6a25bf0a5434ed6f8e9ee3b937809e"
+hash = "86a147069ae3630d213819900c7cf835378b11b362dcc5e3ac217275b533aad2"
 metafile = true
 
 [[files]]
@@ -409,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "234cd2ef3c32121ce1219c62afdbe7273fe79f95252c322ec3a28411f42c721d"
+hash = "bb8660a03707dd2e0f3a44cebe34d73d06cf68c45353de35caa0d917c5c8fc59"
 metafile = true
 
 [[files]]
@@ -419,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "33151ae64304b2b7fdb3d4243cf7d6a0dd6d17a700318080b5b3f2ea8e6fa326"
+hash = "5e0fb026c7bfa446e3398b6297ff4a7223f8b423a829a8543d78174b83063edf"
 metafile = true
 
 [[files]]
@@ -434,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "96fa716c06ed8eddcc1cfa0ec40ac0e0d8bf6e5a114531cd64f6e653b412c566"
+hash = "38190354283d3b17461c77cb2ecbf87d92d60dce95a517956b411de908586656"
 metafile = true
 
 [[files]]
@@ -464,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "11d763ea6be38a270d4f23a4fc4abd799caa034780264e64a4d8807e2d2fe4f0"
+hash = "21335969c13c818972df48e0e3ec2728782af71610eba470850388459d1a43ab"
 metafile = true
 
 [[files]]
@@ -479,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "eaca8b5eda65ece5ee2c01d777b1ca6038379b5af65fab7a20331a36a9bc1515"
+hash = "b2fc9217a9a7271000fc0fd76012fbe4435220b8d6e76186ee1f0ae34494b2c2"
 metafile = true
 
 [[files]]
@@ -509,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "2090fb1f46b294250d558b9e74b0f8b81b54b37e397f97aec3f5325a96358653"
+hash = "54a6d2da8a5cfa5550751c1e215b0d3738ff8c933e6a1025232082137d9feb27"
 metafile = true
 
 [[files]]
@@ -524,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "98b6983ca2bd063b9f4f980bcf14ade7c25a5cefe36ffacb3ac8bc557147dd4e"
+hash = "98c7673415d944cc32eefd92418a33b5071dd56082449a1f8d32b952ad42beda"
 metafile = true
 
 [[files]]
@@ -544,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "f8e54f3e87b69e392bd1bb4a41a4aa2f3fb60334773ab84da04a45b46f1d8ff6"
+hash = "37699cb73f14ec7cc0e29da04ea9e872223638ce6f625ecddbe559599cff2396"
 metafile = true
 
 [[files]]
@@ -559,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "28cdb9f4ff9e651a907bba4fd5ec8ea93d54880e2ed4fb690a07c00d1e1a1a9e"
+hash = "f1c5339de1b7ffa1d2e8b8e0c4d08802de33dc47dd9cd19c1b997f959e5c308c"
 metafile = true
 
 [[files]]
@@ -599,12 +639,12 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "168a4984a78df7296edf01b61c06c4eb08d84cb8353de48500050b27c1e1a53e"
+hash = "b89b80eb0d3278cfa9ecb4aba3ae23b7efc92707d87a98ffbccd700a631fc720"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "a1192eb0b95b453e904f13892f3ee2b9a866fefd399cbf8ec89b460f8e591a65"
+hash = "b1c480e06288979f13fe1e06bed91ddce28df42b01ee39a6ed90de5ea9fa06d8"
 metafile = true
 
 [[files]]
@@ -614,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "4e95ea4a8dc9d36bf7bdc2cbbe75caaf756d9a99d7561ad2cfbfea8d845696ab"
+hash = "e48980b4859b5e7bdef23175814612fb970e80b7bf5f104d9b0936b074e0d77a"
 metafile = true
 
 [[files]]
@@ -639,12 +679,12 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "c1aad6f27577f96e64bdb88a04377e018ff9c92327cf9ad30a263d988e9596f3"
+hash = "9bd7b495dd20c7da836494a27bd06bf58baa611a29a76b795145ab239e0638f1"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "ba783cc25180622da07b89aa9a42630ff6e938b4ebcbace0ea95b7d0008e620e"
+hash = "fe29fcc69744fa90f4fd35890cc44033d1b5bca0e0d45cb40c89250eabad6ab3"
 metafile = true
 
 [[files]]

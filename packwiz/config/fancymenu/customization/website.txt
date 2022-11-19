@@ -9,6 +9,11 @@ customization-meta {
 }
 
 customization {
+  name = smp-shaders
+  action = setbackgroundpanorama
+}
+
+customization {
   action = setscale
   scale = 4
 }
