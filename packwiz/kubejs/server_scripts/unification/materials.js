@@ -178,14 +178,16 @@ ServerEvents.tags('item', event => {
         });
     });
 })
-
 ServerEvents.recipes(event => {
     // Replace inputs and outputs with unified items.
     for (let id in itemIdToUnified) {
-		let unified = itemIdToUnified[id];
-		event.replaceInput({}, id, unified);
-		event.replaceOutput({}, id, unified);
-	}
+        let unified = itemIdToUnified[id];
+
+		let idModid = id.split(":")[0];
+		let unifiedModid = unified.split(":")[0];
+        event.replaceInput({mod: idModid, mod: unifiedModid}, id, unified);
+        event.replaceOutput({}, id, unified);
+    }
     // Force inputs to use the tag.
     unifiedTagList.forEach(tag => {
         event.replaceInput({}, tag, tag);
@@ -291,7 +293,7 @@ ServerEvents.recipes(event => {
 });
 
 function generateReiScript(itemIdToUnified) {
-    script = `  
+    let script = `  
 //////////////////////////////////////////////////////////////////////////
 // AOF 5 REI Unification Script.                                        //
 //////////////////////////////////////////////////////////////////////////
@@ -304,8 +306,8 @@ JEIEvents.hideItems((event) => {
 	DELETED_ITEMS.forEach(id => event.hide(id));
 });
     `;
-    console.info("Generated REI unification script.");
-    console.info(script);
+    console.log("Generated REI unification script.");
+    console.log(script);
 };
 
 ServerEvents.specialRecipeSerializers(event => {

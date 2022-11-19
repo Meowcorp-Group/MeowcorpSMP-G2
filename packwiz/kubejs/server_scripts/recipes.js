@@ -855,7 +855,7 @@ ServerEvents.recipes((event) => {
 				amount: 2,
 			},
 			{
-				item: 'indrev:netherite_axe',
+				item: 'minecraft:netherite_axe',
 				amount: 1,
 			},
 			{

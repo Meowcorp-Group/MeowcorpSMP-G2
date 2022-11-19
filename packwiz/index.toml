@@ -245,8 +245,8 @@ file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
-file = "kubejs/client_scripts/hide.js"
-hash = "77d482e07e63ca8dd7050259a268929507c50aab1040df286f3184762c360115"
+file = "kubejs/client_scripts/unification/materials.js"
+hash = "54c052cba3c3346e587a29673677fae7ddc200f3ae5bd33adbbf97af8ad71179"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -258,7 +258,7 @@ hash = "1fa2e580d1c815add6381c70ca89ab955c5e3ff218a7662067578a8551ad163c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "9ba148eff423f318b42fb5d7d7e097e60744bbe0238cb8edbcf4cb5532759a45"
+hash = "0aa09803d3a93eda0dd2eb444d0a0f7639aec727b82020ebd2f1bf1690399bab"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
@@ -266,7 +266,7 @@ hash = "da3992aedeaf0cfeaf115e00440dc3dfd10b2e4e6c98ce7d1a918209943aefa8"
 
 [[files]]
 file = "kubejs/server_scripts/unification/materials.js"
-hash = "015e6608fbec85cc5a280ec6d4266916bef469a1f6150446b29b6bf7109f58dd"
+hash = "915b8b038b569104f862e55641e443e70b5f768e745f1e3bbd3fc676a5a470b9"
 
 [[files]]
 file = "kubejs/startup_scripts/registry.js"
@@ -464,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "d64211ef1a40714240baa35af29ae9e52d4267ab444f334e6bc745fe6af4625c"
+hash = "21335969c13c818972df48e0e3ec2728782af71610eba470850388459d1a43ab"
 metafile = true
 
 [[files]]
