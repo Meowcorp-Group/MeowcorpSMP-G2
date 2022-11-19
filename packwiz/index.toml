@@ -141,16 +141,56 @@ file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/folder.png"
 hash = "e3a378c5b6b47e3038864e338bcc079e5ed9b24b44a9bf670ca829593c73ba81"
 
 [[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_essential.png"
+hash = "41ec0153196f238ba6a6c18ee60811de8ca57e442b78bde2f481bd44488c5df6"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_essential_hover.png"
+hash = "28d0ff81b1442b96d63f75e11dc8f92677240e6d3a4364cbad2af517cd213c8d"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_pictures.png"
+hash = "7b71691327b44dc0af5df5a8ad94b936c2e2b8be218883a943932907afbe2737"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_pictures_hover.png"
+hash = "8acff08bda176b278cb90bd4d008a9cff999f7e081afcf6bc068d757a7a2665f"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_settings.png"
+hash = "2cbe95d76d957ed8c473abfc8efe077f6d38431d68fb1e152b846b3fdc93a1e1"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_settings_hover.png"
+hash = "c476865def958654d87ab91609b71d79e90740a13896d974dd9a55998ea191c2"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_social.png"
+hash = "302fbbccbef169fe3ac7d9236f9bbf84bd273d5729bcb005cbc7e51caa8d9f2d"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_social_hover.png"
+hash = "ac5984dff05c040c6cd4520ca084492814a18e39ecc4a8eb1acd52ab63b350e3"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_wardrobe.png"
+hash = "de94b0b330dceedce39979148966753193db565c16fd949fc39b92e08fe1d87f"
+
+[[files]]
+file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_wardrobe_hover.png"
+hash = "b2b7e228db5726f0a9fb1539ee0a581d2da01ebc00bb305a005d7db727d302b3"
+
+[[files]]
 file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/smp-withicons-trim-25p.png"
 hash = "c0cf63bd0292d312b55c0da61142d2c95822eb71420a4f5896de4f36d9ebee72"
 
 [[files]]
 file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/texts/splashes.txt"
-hash = "59a56f448a0c8995c56e412a79ddcc9ca6609239a249def207544eb009592cbf"
+hash = "db5fcd866fdc69d51be0bc6a9cbb100077321f8f2b66ad6f4736dd0401d68b20"
 
 [[files]]
 file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/texts/splashes.txt"
-hash = "59a56f448a0c8995c56e412a79ddcc9ca6609239a249def207544eb009592cbf"
+hash = "db5fcd866fdc69d51be0bc6a9cbb100077321f8f2b66ad6f4736dd0401d68b20"
 
 [[files]]
 file = "config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/title.png"
