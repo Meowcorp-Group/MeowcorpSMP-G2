@@ -638,6 +638,11 @@ hash = "3fd72c1dc35ee7b8361861b6c13bd6eca5ef93afe89e55970bacdf8a2c57759e"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "fad523c7d3d63ba211e1970cb9701acd3d808b8c608ef8ffd412234783a92f01"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "9bd7b495dd20c7da836494a27bd06bf58baa611a29a76b795145ab239e0638f1"
 metafile = true
