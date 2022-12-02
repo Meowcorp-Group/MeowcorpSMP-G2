@@ -674,7 +674,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "932ec1df27e1a8559007ffdec5f02a1b93c0e0f0baeac3869fbfd6a606a32fa5"
+hash = "fc829d9bfa6e9c399324e64cc5feb01f01630fc0971c7286ac08b5575dcf89b2"
 metafile = true
 
 [[files]]
@@ -683,18 +683,23 @@ hash = "0103115337ebe895bb4802a4de51d9ea8f130112581b9cdf28ed3abee59d50de"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
+metafile = true
+
+[[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "bee3d7866e141b2bb54fed634029e0fa36c46b518dec6a2b7a5b63d1da6ae998"
+hash = "814b7eba555ba7ae027ca4bb1cd2b2a9b153b95fca5d0246c6d7b791b489c937"
 metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "4d5f84481c08f43d7dd35bae05f815a5b1fa39dc7220a62d6226b229f7062569"
+hash = "48aefe7fedf925380793a244646e6449cf3f5aebeeb651b09ab86d6638e8b0c1"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "14382dc7503db6e6e02eff91f0935b3aa8b37466fa6d2e949f3c66b8c611f5df"
+hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
@@ -704,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "b1c480e06288979f13fe1e06bed91ddce28df42b01ee39a6ed90de5ea9fa06d8"
+hash = "b80d2c3e7f014940b9eb8c1db7f854d5d361f1a3b6b36ce5e6496c9b8d1b11fb"
 metafile = true
 
 [[files]]
@@ -713,8 +718,13 @@ hash = "eb68f07474889d53f9b81902ad7aca2979604aa6d5102327574b687b1e1c1424"
 metafile = true
 
 [[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "e48980b4859b5e7bdef23175814612fb970e80b7bf5f104d9b0936b074e0d77a"
+hash = "09a2246cb32a1b13e94e264d53429e8fdf5bc1d6444bc4112f9f28b971f9dc54"
 metafile = true
 
 [[files]]
@@ -724,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
 
 [[files]]
@@ -734,12 +744,12 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "3fd72c1dc35ee7b8361861b6c13bd6eca5ef93afe89e55970bacdf8a2c57759e"
+hash = "b3acdba79cfef7e53cfd4df8dd6e7cbbe4eeae75972bf65fa2a6aaef034f4b8e"
 metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
-hash = "fad523c7d3d63ba211e1970cb9701acd3d808b8c608ef8ffd412234783a92f01"
+hash = "5ba58212371c4dd21cc9d570de76d69c86b182ab751f1a9c0a6aa6282d2e54ae"
 metafile = true
 
 [[files]]
@@ -754,12 +764,12 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "003dee7fef878abc298c3c6589b7b21e8922def090c9cf8259ae8c6aacc0946f"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "f3b5042d41d7ee0c7b9487228e77b809828a4b898beba3d811f8b6dece35ef41"
+hash = "fd46de6c3c5d14189e12daa71b81e697a248fbeac9b1c0b2d71bb8f61a84605b"
 metafile = true
 
 [[files]]
