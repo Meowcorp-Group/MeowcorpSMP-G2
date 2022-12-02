@@ -8,23 +8,23 @@ No,Mod,Identifier,Platform,Notes
 7,bad packets,badpackets,Modrinth,""
 8,Bettter Mount HUD,better-mount-hud,Modrinth,""
 9,Borderless Mining,borderless-mining,Modrinth,""
-10,Botania Fabric SNAPSHOT,botania-snapshot,Developer's Maven,Beta builds
+10,Botania Fabric SNAPSHOT,botania-snapshot,Developer's Maven,Beta builds. Not available in main platforms yet.
 11,Capes,capes,Modrinth,""
-12,Carpet,carpet,CurseForge,""
+12,Carpet,carpet,CurseForge,https://github.com/gnembon/fabric-carpet/issues/1055
 13,CC: Restitched,cc-restitched,Modrinth,""
 14,Custom Entity Models,cem,Modrinth,""
 15,CIT Resewn,cit-resewn,Modrinth,""
 16,Cloth Config API,cloth-config,Modrinth,""
 17,Colormatic,colormatic,Modrinth,❌ Disabled
 18,Continuity,continuity,Modrinth,""
-19,Controlling,Controlling,CurseForge,""
+19,Controlling,Controlling,CurseForge,https://github.com/jaredlll08/Controlling/issues/104
 20,Create Fabric,create-fabric,Modrinth,""
 21,Cull Less Leaves,cull-less-leaves,Modrinth,""
 22,Disable Custom Worlds Advice,dcwa,Modrinth,""
 23,Debugify,debugify,Modrinth,""
 24,Dynamic FPS,dynamic-fps,Modrinth,""
 25,Enhanced Block Entities,ebe,Modrinth,""
-26,Emojiful,emojiful,CurseForge,""
+26,Emojiful,emojiful,CurseForge,Not requested yet.
 27,EntityCulling,entityculling,Modrinth,""
 28,Entity Texture Features,entitytexturefeatures,Modrinth,""
 29,ESSENTIAL Mod,essential,Modrinth,""
@@ -33,11 +33,11 @@ No,Mod,Identifier,Platform,Notes
 32,Fabric Tailor,fabrictailor,Modrinth,""
 33,Fabrishot,fabrishot,Modrinth,""
 34,FancyMenu,fancymenu,Modrinth,""
-35,Farsight [Fabric],farsight-fabric,CurseForge,Developer not aware of monetization yet
+35,Farsight [Fabric],farsight-fabric,CurseForge,https://github.com/someaddons/farsight/issues/30
 36,FerriteCore,ferrite-core,Modrinth,""
 37,Indium,indium,Modrinth,""
-38,Industrial Revolution,industrial-revolution,CurseForge,""
-39,Ingredient Extension API,ingredient-extension-api,CurseForge,""
+38,Industrial Revolution,industrial-revolution,CurseForge,Not requested yet.
+39,Ingredient Extension API,ingredient-extension-api,CurseForge,Not requested yet.
 40,Iris Shaders,iris,Modrinth,""
 41,Item Model Fix,item-model-fix,Modrinth,""
 42,Konkrete,konkrete,Modrinth,""
@@ -58,8 +58,8 @@ No,Mod,Identifier,Platform,Notes
 57,Mod Menu,modmenu,Modrinth,""
 58,MoreChatHistory,morechathistory,Modrinth,""
 59,No Chat Reports,no-chat-reports,Modrinth,""
-60,No Fade,no-fade,CurseForge,Outdated version on Modrinth
-61,Open Loader,open-loader,CurseForge,""
+60,No Fade,no-fade,CurseForge,https://github.com/UltimateBoomer/mc-no-fade/issues/6
+61,Open Loader,open-loader,CurseForge,Not requested yet.
 62,OptiGUI,optigui,Modrinth,""
 63,Patchouli,patchouli,Modrinth,""
 64,Plasmo Voice,plasmo-voice,Modrinth,""
@@ -71,7 +71,7 @@ No,Mod,Identifier,Platform,Notes
 70,Sodium Extra,sodium-extra,Modrinth,""
 71,Sodium,sodium,Modrinth,""
 72,Starlight (Fabric),starlight,Modrinth,""
-73,Tech Reborn,techreborn,CurseForge,""
+73,Tech Reborn,techreborn,CurseForge,https://github.com/TechReborn/TechReborn/issues/2679
 74,Trinkets,trinkets,Modrinth,""
 75,Universal Graves,universal-graves,Modrinth,""
 76,WTHIT,wthit,Modrinth,""
