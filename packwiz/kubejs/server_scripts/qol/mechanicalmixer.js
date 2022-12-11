@@ -315,6 +315,45 @@ ServerEvents.recipes((event) => {
     type: "create:mixing",
     ingredients: [
       {
+        item: `${modern}:uranium_238_tiny_dust`
+      },
+      {
+        item: `${modern}:uranium_238_tiny_dust`
+      },
+      {
+        item: `${modern}:uranium_238_tiny_dust`
+      },
+      {
+        item: `${modern}:uranium_238_tiny_dust`
+      },
+      {
+        item: `${modern}:uranium_238_tiny_dust`
+      },
+      {
+        item: `${modern}:uranium_238_tiny_dust`
+      },
+      {
+        item: `${modern}:uranium_238_tiny_dust`
+      },
+      {
+        item: `${modern}:uranium_238_tiny_dust`
+      },
+      {
+        item: `${modern}:uranium_235_tiny_dust`,
+      },
+    ],
+    results: [
+      {
+        count: 9,
+        item: `${modern}:le_uranium_tiny_dust`,
+      },
+    ],
+  });
+
+  event.custom({
+    type: "create:mixing",
+    ingredients: [
+      {
         item: `${modern}:yttrium_dust`,
       },
       {
@@ -354,31 +393,31 @@ ServerEvents.recipes((event) => {
     type: "create:mixing",
     ingredients: [
       {
-        item: `${modern}:tiny_yttrium_dust`,
+        item: `${modern}:yttrium_tiny_dust`,
       },
       {
-        item: `${modern}:tiny_yttrium_dust`,
+        item: `${modern}:yttrium_tiny_dust`,
       },
       {
-        item: `${modern}:tiny_yttrium_dust`,
+        item: `${modern}:yttrium_tiny_dust`,
       },
       {
-        item: `${modern}:tiny_annealed_copper_dust`,
+        item: `${modern}:annealed_copper_tiny_dust`,
       },
       {
-        item: `${modern}:tiny_annealed_copper_dust`,
+        item: `${modern}:annealed_copper_tiny_dust`,
       },
       {
-        item: `${modern}:tiny_annealed_copper_dust`,
+        item: `${modern}:annealed_copper_tiny_dust`,
       },
       {
-        item: `${modern}:tiny_neodynium_dust`
+        item: `${modern}:neodynium_tiny_dust`
       },
       {
-        item: `${modern}:tiny_neodynium_dust`
+        item: `${modern}:neodynium_tiny_dust`
       },
       {
-        item: `${modern}:tiny_iridium_dust`
+        item: `${modern}:iridium_tiny_dust`
       },
     ],
     results: [
@@ -432,37 +471,37 @@ ServerEvents.recipes((event) => {
     type: "create:mixing",
     ingredients: [
       {
-        item: `${modern}:tiny_chromium_dust`,
+        item: `${modern}:chromium_tiny_dust`,
       },
       {
-        item: `${modern}:tiny_iron_dust`,
+        item: `${modern}:iron_tiny_dust`,
       },
       {
-        item: `${modern}:tiny_iron_dust`,
+        item: `${modern}:iron_tiny_dust`,
       },
       {
-        item: `${modern}:tiny_iron_dust`,
+        item: `${modern}:iron_tiny_dust`,
       },
       {
-        item: `${modern}:tiny_iron_dust`,
+        item: `${modern}:iron_tiny_dust`,
       },
       {
-        item: `${modern}:tiny_iron_dust`,
+        item: `${modern}:iron_tiny_dust`,
       },
       {
-        item: `${modern}:tiny_iron_dust`,
+        item: `${modern}:iron_tiny_dust`,
       },
       {
-        item: `${modern}:tiny_nickel_dust`,
+        item: `${modern}:nickel_tiny_dust`,
       },
       {
-        item: `${modern}:tiny_manganese_dust`
+        item: `${modern}:manganese_tiny_dust`
       },
     ],
     results: [
       {
         count: 9,
-        item: `${modern}:tiny_stainless_steel_dust`,
+        item: `${modern}:stainless_steel_tiny_dust`,
       },
     ],
   });
@@ -498,7 +537,7 @@ ServerEvents.recipes((event) => {
     results: [
       {
         count: 2,
-        item: `${modern}:soldering_alloy_dust`,
+        item: `${modern}:soldering_alloy_tiny_dust`,
       },
     ],
   });
@@ -522,4 +561,28 @@ ServerEvents.recipes((event) => {
       },
     ],
   });
+
+  event.custom({
+    type: "create:mixing",
+    ingredients: [
+      {
+        count: 1,
+        tag: "c:lead_tiny_dusts",
+      },
+      {
+        count: 1,
+        item: "modern_industrialization:antimony_tiny_dust",
+      },
+    ],
+    results: [
+      {
+        count: 2,
+        item: "modern_industrialization:battery_alloy_tiny_dust",
+      },
+    ],
+  });
+
 });
+
+
+
