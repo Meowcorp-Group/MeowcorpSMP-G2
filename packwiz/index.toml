@@ -297,8 +297,12 @@ file = "kubejs/config/common.properties"
 hash = "1fa2e580d1c815add6381c70ca89ab955c5e3ff218a7662067578a8551ad163c"
 
 [[files]]
-file = "kubejs/server_scripts/mechanicalpress.js"
-hash = "f68d93ea9036d7c7ad477786860cf2deaf4e5cb57bd62619bcb567b426e96268"
+file = "kubejs/server_scripts/qol/grinder.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/server_scripts/qol/mechanicalmixer.js"
+hash = "1dc6e2dc9e7eeab2e67fe821687a76d9420e4ac7f2d24364acad082d530ee51c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
