@@ -366,8 +366,8 @@ hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
 metafile = true
 
 [[files]]
-file = "mods/botania-snapshot.pw.toml"
-hash = "0b65c5376d7cc996ab8d62773e6cf7a3c8cf73998855f838b42c2699292c2b66"
+file = "mods/botania.pw.toml"
+hash = "6e2a7ae250c6997f6d6d23a772a267107a3d7fbd7137d13c62e7121ec06e3519"
 metafile = true
 
 [[files]]
