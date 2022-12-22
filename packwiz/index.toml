@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "ccafa1559f7296be0743d0971e5c81042a35d71e89c99df0c4ed1ee371f1664a"
+hash = "79953d7df91b0d2605c1c897019f7ddc072c55735441a3cce93800c73bf2e0f6"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "08ac0b6bdf14a0460a1cbd73eee1ecac0494b60a717eb8cbc3e9f97b9a23b2bf"
+hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
 metafile = true
 
 [[files]]
@@ -482,12 +482,12 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "118fa902aa504df11c0c979f2791aef674293c8657c04910e34c1fea079e44a3"
+hash = "8a9c2f2977879187bff7d6fbdff4526ee16cd4d0088b73add691a6695bc29ee6"
 metafile = true
 
 [[files]]
 file = "mods/farsight-fabric.pw.toml"
-hash = "571c28f3e4ecb7cc99834df642e9a09f1307a8eb5ef76e5f97c332334c96bd9e"
+hash = "d7b51db6f69be6f6ea175d7004980cc764abfd58161124a5bf064e4c26b839a5"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/ingredient-extension-api.pw.toml"
-hash = "6caa25ec7a4a3c35b4f9a0963056db42ccd524aa6e69954ac8fc52f5fd48b886"
+hash = "49ae038ac73483db0da9d34422656829397c5285cae5f82f1c86cab6cc93aef5"
 metafile = true
 
 [[files]]
@@ -522,12 +522,12 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "04148baa422aee2cb03529bb0c236db65e1bf93968a8624b228630708b25aea0"
+hash = "564839c03425a367fc1503ca946f74277580bcdf4174d429d3d40750f3cb46bf"
 metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "f2c62e957a2971125e82aa455acb77a06ad74ddb9a1f2abc9e94962f0546316f"
+hash = "6b80966697d9f003c335b85a6fcc7e13eaec58571bd0c1282a1536dd8cf174a5"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "ccc371cf89ba309cb26d30856b7aaee2378236f1a214ff61451f0eccb83bdd1f"
+hash = "fcec3755049b9f8eaf6b9d2e063745ae2f4806981ad5def32354ee3dd54a4697"
 metafile = true
 
 [[files]]
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
+hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
 metafile = true
 
 [[files]]
@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "f46c3653350886c083d776e6d529c6e97a6b8aaf7f297a89f8d226917fb08c39"
+hash = "dd116c4ba5097e5888baeb144b0a757f0d9ade2a8cf98c90395ea26bb38318db"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "09a2246cb32a1b13e94e264d53429e8fdf5bc1d6444bc4112f9f28b971f9dc54"
+hash = "13a974dccf1da0cc52326355ebea5004a6a5d1dd2098d157b418045c04a747c9"
 metafile = true
 
 [[files]]
@@ -677,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "mods/techreborn.pw.toml"
-hash = "f78ab8ef99f227e8e0278a4b1c235518e27c0eda3c35359127cd615d34b01b9e"
+hash = "7d4ce0df929ce3534b5b35222a00ee370eb578a7c2acf976a59d6c3614087335"
 metafile = true
 
 [[files]]
@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "fd46de6c3c5d14189e12daa71b81e697a248fbeac9b1c0b2d71bb8f61a84605b"
+hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
 
 [[files]]
