@@ -5,6 +5,10 @@ file = "config/citresewn.json"
 hash = "555dd94a667a25a99ccc1e5e813767e34673c06524c914519150ca1786e60938"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "ae61f55ec5e16b255bdb5a53ca7860fde66946f231361c50bbcdb74a00d007b7"
+
+[[files]]
 file = "config/debugify.json"
 hash = "7a184f81de62ca8e3b99416f7c9b393be752aab6b700132cbf0672f5b7e17eaa"
 
