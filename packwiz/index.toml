@@ -18,7 +18,7 @@ hash = "9b2f51bc848b8c5b6f6d5c20fabbd0f148d423819cb456bc05713b3467ff0a75"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "fb974c43bf9e7c45eb6446e48bdef3a310daf8758a238bfb63f63781a05cc34e"
+hash = "54ab8780e2c5c5ff627327c2b5403df27292c40ad57175201a489531bfe6f473"
 
 [[files]]
 file = "config/fancymenu/customguis/joindiscord.txt"
@@ -30,7 +30,7 @@ hash = "b08232f8b860bdaaaa22efe78e23524e4a336bd53ce40db9f454bffab7865290"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+hash = "cbd93e8f34f681b071aadadb0059b80be1e224b1d4bfd0ebe17ecf7ea22c6aed"
 
 [[files]]
 file = "config/fancymenu/customization/discord.txt"
@@ -42,7 +42,7 @@ hash = "33b26ee9a0891ae6a31d7f24366e2e5dc4647ae30b1a0666ba67958d13147be5"
 
 [[files]]
 file = "config/fancymenu/customization/gaming2.txt"
-hash = "780b1fe6a330e765016b3fb4b482b3622e16093934485b0dac4777b388e7da3d"
+hash = "b2875cb9d170d8aa1d8049ced069d10a111a6323499eb7f3c0d1403ef1f2aeb6"
 
 [[files]]
 file = "config/fancymenu/customization/website.txt"
@@ -62,7 +62,7 @@ hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
 
 [[files]]
 file = "config/fancymenu/locals/en_us.local"
-hash = "c658ee05d87b33c341bdc4a88a89a601d6387885f806ae10c96ab0700adf571f"
+hash = "6e5f6a7fce57921106335d54801ca78557bfb7db45bb10122240ec9fb6503b34"
 
 [[files]]
 file = "config/fancymenu/locals/pl_pl.local"
@@ -323,6 +323,10 @@ hash = "915b8b038b569104f862e55641e443e70b5f768e745f1e3bbd3fc676a5a470b9"
 [[files]]
 file = "kubejs/startup_scripts/registry.js"
 hash = "53acc8c84dbee09011e55dfe966d9b537ef448862f1f0101d4ef3311c1cf7c1d"
+
+[[files]]
+file = "modpackinfo.json"
+hash = "b66cc9f1d28275277119334581a9b149215cf05302e9d7d02f2aa2320705ffb8"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -737,3 +741,7 @@ metafile = true
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
 hash = "1014bede16dd935438003e691158abaa0d9e323b599d045115243616f9100ea2"
+
+[[files]]
+file = "updatetool"
+hash = "4a883356a1fd93df369f68495fe6933a9b7ca59e75fab820599e57a06b25c7dd"
