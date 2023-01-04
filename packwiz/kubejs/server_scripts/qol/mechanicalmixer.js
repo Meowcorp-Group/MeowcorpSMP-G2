@@ -122,8 +122,8 @@ ServerEvents.recipes((event) => {
     ],
     results: [
       {
-        count: n,
-        item: `${modern}:`,
+        count: 9,
+        item: `${modern}:he_uranium_dust`,
       },
     ],
   });
