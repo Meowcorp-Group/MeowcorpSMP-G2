@@ -3,7 +3,7 @@ ServerEvents.recipes((event) => {
     event.custom(
         {
         type: "modern_industrialization:macerator",
-        duration: 200,
+        duration: 100,
         eu: 2,
         item_inputs: [
           {
@@ -27,7 +27,7 @@ ServerEvents.recipes((event) => {
       event.custom(
         {
         type: "modern_industrialization:macerator",
-        duration: 100,
+        duration: 200,
         eu: 2,
         item_inputs: [
           {
