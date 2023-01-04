@@ -301,12 +301,12 @@ file = "kubejs/config/common.properties"
 hash = "1fa2e580d1c815add6381c70ca89ab955c5e3ff218a7662067578a8551ad163c"
 
 [[files]]
-file = "kubejs/server_scripts/qol/grinder.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "kubejs/server_scripts/qol/forgehammer.js"
+hash = "e089ca43dc7a9975f7836f603b066650fb13568626725e394ea57c8c596c4a35"
 
 [[files]]
 file = "kubejs/server_scripts/qol/mechanicalmixer.js"
-hash = "c6717ef295e59480a6fcf908712982689f2eb765882b635a817b216f05b2614a"
+hash = "fa5366f9d9589324efacbbbe370bcf40932117817c5500129827c62d38b79310"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
