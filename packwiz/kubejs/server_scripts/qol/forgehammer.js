@@ -8,7 +8,7 @@ ServerEvents.recipes((event) => {
         item_inputs: [
           {
             amount: 3,
-            tag: "c:raw_zinc_ores"
+            item: "create:raw_zinc"
           }
         ],
         item_outputs: [
@@ -19,4 +19,4 @@ ServerEvents.recipes((event) => {
         ]
       });
 
-});
+})

@@ -302,11 +302,11 @@ hash = "1fa2e580d1c815add6381c70ca89ab955c5e3ff218a7662067578a8551ad163c"
 
 [[files]]
 file = "kubejs/server_scripts/qol/forgehammer.js"
-hash = "54bf29f22b11b494e97f4ee39d63ee55dec14c434dea2fd24de080e539e30581"
+hash = "b365c17619918e7ca64457ffbb4ac1592c1e4e51e02b1bd245e01523d18a8ec2"
 
 [[files]]
 file = "kubejs/server_scripts/qol/macerator.js"
-hash = "8e9a80ae351439bad04b00473a85b38928de4e300e2f6e057f2cfa1fc501db3b"
+hash = "a03977b1e78039bbe2018868875f2e9afd6fdee7ddec6351f6240d47b12bfcdb"
 
 [[files]]
 file = "kubejs/server_scripts/qol/mechanicalmixer.js"
