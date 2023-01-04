@@ -14,11 +14,11 @@ ServerEvents.recipes((event) => {
         item_outputs: [
           {
             amount: 1,
-            item: "create:crushed_raw_zinc"
+            item: "create:crushed_zinc_ore"
           },
           {
             amount: 1,
-            item: "create:crushed_raw_zinc",
+            item: "create:crushed_zinc_ore",
             probability: 0.5,
           },
         ]

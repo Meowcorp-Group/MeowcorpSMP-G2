@@ -306,7 +306,7 @@ hash = "b365c17619918e7ca64457ffbb4ac1592c1e4e51e02b1bd245e01523d18a8ec2"
 
 [[files]]
 file = "kubejs/server_scripts/qol/macerator.js"
-hash = "05c6532468e8e2876ab0e000bd5e35fa31ab47f208356a35d715c2ea67875e4a"
+hash = "507aa95787b51fbf6c85a19650531739937949d16053d9754c5f71087fa71ce0"
 
 [[files]]
 file = "kubejs/server_scripts/qol/mechanicalmixer.js"
