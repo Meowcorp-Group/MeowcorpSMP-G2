@@ -227,7 +227,7 @@ ServerEvents.recipes((event) => {
     ],
     results: [
       {
-        count: n,
+        count: 3,
         item: `${modern}:kanthal_dust`,
       },
     ],

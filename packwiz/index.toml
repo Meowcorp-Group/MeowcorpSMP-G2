@@ -310,7 +310,7 @@ hash = "a03977b1e78039bbe2018868875f2e9afd6fdee7ddec6351f6240d47b12bfcdb"
 
 [[files]]
 file = "kubejs/server_scripts/qol/mechanicalmixer.js"
-hash = "fa5366f9d9589324efacbbbe370bcf40932117817c5500129827c62d38b79310"
+hash = "388ae5145df4e2784470495cafaba8d5ff4e0a2ca76758b4538a81ace3a297eb"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
