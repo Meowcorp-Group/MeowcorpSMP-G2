@@ -306,7 +306,7 @@ hash = "b365c17619918e7ca64457ffbb4ac1592c1e4e51e02b1bd245e01523d18a8ec2"
 
 [[files]]
 file = "kubejs/server_scripts/qol/macerator.js"
-hash = "0cab52b185207c3770a56a5f859910d96bb95b94ee46c430905ae9128f8c7813"
+hash = "05c6532468e8e2876ab0e000bd5e35fa31ab47f208356a35d715c2ea67875e4a"
 
 [[files]]
 file = "kubejs/server_scripts/qol/mechanicalmixer.js"
@@ -314,7 +314,7 @@ hash = "388ae5145df4e2784470495cafaba8d5ff4e0a2ca76758b4538a81ace3a297eb"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "0aa09803d3a93eda0dd2eb444d0a0f7639aec727b82020ebd2f1bf1690399bab"
+hash = "4122f3b60666ef6ca14252cf21f29e4a6ed0856de2a77da13c160531c7251047"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"

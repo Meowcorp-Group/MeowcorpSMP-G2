@@ -906,6 +906,7 @@ ServerEvents.recipes((event) => {
 			}
 		]
 	});
+
 	// Remove recipes here
 
 	event.remove({output: 'modern_industrialization:redstone_tiny_dust' });

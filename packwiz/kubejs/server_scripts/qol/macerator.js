@@ -7,15 +7,20 @@ ServerEvents.recipes((event) => {
         eu: 2,
         item_inputs: [
           {
-            amount: 3,
+            amount: 1,
             item: "create:raw_zinc"
-          }
+          },
         ],
         item_outputs: [
           {
-            amount: 4,
-            item: "techreborn:zinc_dust"
-          }
+            amount: 1,
+            item: "create:crushed_raw_zinc"
+          },
+          {
+            amount: 1,
+            item: "create:crushed_raw_zinc",
+            probability: 0.5,
+          },
         ]
       });
 
