@@ -19,4 +19,4 @@ ServerEvents.recipes((event) => {
         ]
       });
 
-})
+});
