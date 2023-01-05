@@ -558,6 +558,11 @@ hash = "e6895b572857d6381b9c5c8d153eb6606b3cd2755feec53ff3905d025656a124"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "c7a67dc08984b26587cfd475bc3a01663563a8f2984838a17ff01c8c58621d7b"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "564839c03425a367fc1503ca946f74277580bcdf4174d429d3d40750f3cb46bf"
 metafile = true
@@ -660,6 +665,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "fc829d9bfa6e9c399324e64cc5feb01f01630fc0971c7286ac08b5575dcf89b2"
+metafile = true
+
+[[files]]
+file = "mods/paradise-lost.pw.toml"
+hash = "1877b51604f697c5199f1de7b88031b59c1ea14345d1ec132ffc074c7224c3a6"
 metafile = true
 
 [[files]]
