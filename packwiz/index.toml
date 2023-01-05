@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
+hash = "b7606dafc1939560ab63f3fadeb90e4ebbac1c25e57fb946e66bef05bee92460"
 metafile = true
 
 [[files]]
@@ -494,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "de8978857fa72b8367e2b3c91a4ed0066e98cfb3d14a7dd95016e91b17e3d99b"
+hash = "951df1ff00defe73ce654001ecfe792c43562eaac449787e87711651f4d3ece7"
 metafile = true
 
 [[files]]
@@ -528,6 +528,26 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-fabric.pw.toml"
+hash = "ce0952423cdf1da9b23f805e5654a8b2b1c838fdfde45a981092b01925ac7dc5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "8734e4d8118d6723447c0cf958c906da59caa8899bf06b0efabc9c80c1ff331b"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "306ee24cdf6a03f0b843aeef13c6eb59a25e09ebe1f0c93b1a95e1df54cd0cff"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-fabric.pw.toml"
+hash = "4113feaab7b1ea0542f7cb8408fdf0e0ff78bc9bc922190a7d0f8e6020eaa24c"
+metafile = true
+
+[[files]]
 file = "mods/image2map.pw.toml"
 hash = "0b59d24e17268a011904e90d56a5b6fd3d3079479c07a61b344ecfec1c06df95"
 metafile = true
@@ -555,11 +575,6 @@ metafile = true
 [[files]]
 file = "mods/item-model-fix.pw.toml"
 hash = "e6895b572857d6381b9c5c8d153eb6606b3cd2755feec53ff3905d025656a124"
-metafile = true
-
-[[files]]
-file = "mods/journeymap.pw.toml"
-hash = "c7a67dc08984b26587cfd475bc3a01663563a8f2984838a17ff01c8c58621d7b"
 metafile = true
 
 [[files]]
