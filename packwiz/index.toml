@@ -289,7 +289,7 @@ file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
-file = "kubejs/client_scripts/unification/hidematerials.js"
+file = "kubejs/client_scripts/unification/hidematerials.jspending"
 hash = "54c052cba3c3346e587a29673677fae7ddc200f3ae5bd33adbbf97af8ad71179"
 
 [[files]]
@@ -310,7 +310,7 @@ hash = "5d9322f67a05e75aba49641fbce01feaba0ea204ab7430f24e2596d3e94ef461"
 
 [[files]]
 file = "kubejs/server_scripts/qol/mechanicalmixer.js"
-hash = "388ae5145df4e2784470495cafaba8d5ff4e0a2ca76758b4538a81ace3a297eb"
+hash = "f7276e25b114a82fc90a637830710ea2e0051539aec2adb49d1bad30702988ee"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
