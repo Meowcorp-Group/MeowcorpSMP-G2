@@ -733,6 +733,11 @@ hash = "5ba58212371c4dd21cc9d570de76d69c86b182ab751f1a9c0a6aa6282d2e54ae"
 metafile = true
 
 [[files]]
+file = "mods/wthit-plugins.pw.toml"
+hash = "63e7c439fccdafeb42e3c2a6204b2293b177da0903c4ea6af877ca629085c5c2"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "5031396a7cf279acf8b4c14183a1d8dbbfc287d3e82b3c6926544a8b4cd43c0c"
 metafile = true
@@ -745,6 +750,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true
+
+[[files]]
+file = "mods/your-reputation.pw.toml"
+hash = "c561a147729d9eb76f875bd10fa3b3086332520282656571fa5918c62c88bb22"
 metafile = true
 
 [[files]]
