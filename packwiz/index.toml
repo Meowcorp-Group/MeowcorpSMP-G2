@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3fd27e1dd487a9cbbaaf6064bc2bae1e17bc0b063699c18339639d199236d02e"
+hash = "de8978857fa72b8367e2b3c91a4ed0066e98cfb3d14a7dd95016e91b17e3d99b"
 metafile = true
 
 [[files]]
@@ -674,7 +674,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "bf0cdf9ccfd1682ada220fea9bdcbf93b79fe96649c90e1e586f7bdbfae73e1a"
+hash = "dd116c4ba5097e5888baeb144b0a757f0d9ade2a8cf98c90395ea26bb38318db"
 metafile = true
 
 [[files]]
