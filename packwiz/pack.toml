@@ -1,12 +1,12 @@
 name = "MeowcorpSMP G2"
 author = "Meowcorp Group"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e75f66722bf555f5bd3f4b9ee3a06ae685d42900983cd9faf88c37a21c08770a"
+hash = "df94c2c6bc0b52ccba2d186e1a0caeaafc16b6d9b1d1c1ab52e772c5998fc10d"
 
 [versions]
 fabric = "0.14.10"
