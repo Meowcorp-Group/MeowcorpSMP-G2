@@ -1,13 +1,13 @@
 name = "Your Reputation"
-filename = "your-reputation-0.2.0+jade.1.19.jar"
+filename = "your-reputation-0.2.0+wthit.1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MrLyhFlg/versions/wxo9fNLU/your-reputation-0.2.0%2Bjade.1.19.jar"
+url = "https://cdn.modrinth.com/data/MrLyhFlg/versions/Vhyt3wWp/your-reputation-0.2.0%2Bwthit.1.19.jar"
 hash-format = "sha1"
-hash = "9192c17b243e2d820bf56ced2420f83cfafb4563"
+hash = "5f07e06709dc5018cdafcd663b04234436daca66"
 
 [update]
 [update.modrinth]
 mod-id = "MrLyhFlg"
-version = "wxo9fNLU"
+version = "Vhyt3wWp"

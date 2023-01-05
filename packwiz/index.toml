@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "951df1ff00defe73ce654001ecfe792c43562eaac449787e87711651f4d3ece7"
+hash = "3fd27e1dd487a9cbbaaf6064bc2bae1e17bc0b063699c18339639d199236d02e"
 metafile = true
 
 [[files]]
@@ -824,7 +824,7 @@ metafile = true
 
 [[files]]
 file = "mods/your-reputation.pw.toml"
-hash = "8379255314bce0cdf2d2e179c0e6c30c9c175fab5c25d003497b7621da6b5298"
+hash = "c561a147729d9eb76f875bd10fa3b3086332520282656571fa5918c62c88bb22"
 metafile = true
 
 [[files]]
