@@ -5,6 +5,10 @@ file = "config/citresewn.json"
 hash = "555dd94a667a25a99ccc1e5e813767e34673c06524c914519150ca1786e60938"
 
 [[files]]
+file = "config/craftpresence.json"
+hash = "6e5df5541c71c48d88a940ca795b59aab8feb4fcc5da3f885e977fa9a058d1de"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "ae61f55ec5e16b255bdb5a53ca7860fde66946f231361c50bbcdb74a00d007b7"
 
@@ -279,6 +283,10 @@ hash = "fef0e4e6966dc5da05b0f343bd7e8341a6a1f6788886d8657d7ee1a2dfa1e0e3"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "fac2b7b20eaa1b22340ff7afca7daf12e800cc9c520f632f9a0c1b4730211d2c"
+
+[[files]]
+file = "essential/config.toml"
+hash = "de0da22b8af1c4f7615cbb6826c87df6671364e9edb5698772068c14922dd714"
 
 [[files]]
 file = "kubejs/README.txt"
