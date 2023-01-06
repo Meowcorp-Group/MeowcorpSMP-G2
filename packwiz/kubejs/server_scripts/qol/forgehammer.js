@@ -1,4 +1,6 @@
 ServerEvents.recipes((event) => {
+	// TODO: migrate to new RecipeManager format
+	const recipe = new RecipeManager(event);
     
     event.custom(
         {
