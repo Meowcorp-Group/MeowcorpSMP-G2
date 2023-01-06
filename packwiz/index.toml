@@ -6,7 +6,7 @@ hash = "555dd94a667a25a99ccc1e5e813767e34673c06524c914519150ca1786e60938"
 
 [[files]]
 file = "config/craftpresence.json"
-hash = "6e5df5541c71c48d88a940ca795b59aab8feb4fcc5da3f885e977fa9a058d1de"
+hash = "530339e192f12f874795aff37269adcc1fef33d9e480c041d3820f1c2d281481"
 
 [[files]]
 file = "config/create-client.toml"
