@@ -6,6 +6,6 @@ The classic meowcorp experience, but now with your favorite mods from everything
 
 # **Features**
 
-## Expand your automation
+## Expand automation tech mods
 
-Expand your automation with the best tech mods from fabric, ranging from Create to even making your own factory with Modern Industrialization
+Expand your automation with the best tech mods from fabric, ranging from Create to even making your own factory with Modern Industrialization. We've got everything to make your automation more efficient and more lively!
