@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "b7606dafc1939560ab63f3fadeb90e4ebbac1c25e57fb946e66bef05bee92460"
+hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
 metafile = true
 
 [[files]]
@@ -426,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
@@ -521,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3fd27e1dd487a9cbbaaf6064bc2bae1e17bc0b063699c18339639d199236d02e"
+hash = "de8978857fa72b8367e2b3c91a4ed0066e98cfb3d14a7dd95016e91b17e3d99b"
 metafile = true
 
 [[files]]
@@ -576,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "384a78b98bfbb6c81918c9faec31e1d74053d451bb519b6428655d12c0e3dffc"
+hash = "0717883870a50b4ae1cbbbc0b65de9106dfc49295a5eef8dbe3d5719db963f0b"
 metafile = true
 
 [[files]]
@@ -691,7 +691,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "bf0cdf9ccfd1682ada220fea9bdcbf93b79fe96649c90e1e586f7bdbfae73e1a"
+hash = "dd116c4ba5097e5888baeb144b0a757f0d9ade2a8cf98c90395ea26bb38318db"
 metafile = true
 
 [[files]]
@@ -732,11 +732,6 @@ metafile = true
 [[files]]
 file = "mods/paradise-lost.pw.toml"
 hash = "1877b51604f697c5199f1de7b88031b59c1ea14345d1ec132ffc074c7224c3a6"
-metafile = true
-
-[[files]]
-file = "mods/patchouli-fabric.pw.toml"
-hash = "0103115337ebe895bb4802a4de51d9ea8f130112581b9cdf28ed3abee59d50de"
 metafile = true
 
 [[files]]
