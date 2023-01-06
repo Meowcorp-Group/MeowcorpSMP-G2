@@ -13,6 +13,10 @@ file = "config/debugify.json"
 hash = "7a184f81de62ca8e3b99416f7c9b393be752aab6b700132cbf0672f5b7e17eaa"
 
 [[files]]
+file = "config/emi.css"
+hash = "8784379cff3c4a6c3f7a3478082e67ed83ef33047d218f34a034437df312b190"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "9b2f51bc848b8c5b6f6d5c20fabbd0f148d423819cb456bc05713b3467ff0a75"
 
@@ -314,11 +318,19 @@ hash = "5e451c7c79bd6fc2a5ef28126a297466f93c990ff797ac8277eaa3a107eff06a"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "4122f3b60666ef6ca14252cf21f29e4a6ed0856de2a77da13c160531c7251047"
+hash = "41cfd9598f27c344d0d96dae865d124146027c9a7ac8f7b957f1abb1d725a852"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
 hash = "da3992aedeaf0cfeaf115e00440dc3dfd10b2e4e6c98ce7d1a918209943aefa8"
+
+[[files]]
+file = "kubejs/server_scripts/tiab.js"
+hash = "5cbf9022ebff2dda88c5ae0192dae7eaa0bc17d31a7756cce473b523bf1310d2"
+
+[[files]]
+file = "kubejs/server_scripts/unbreakability.js"
+hash = "ff3537b7cc2885f1ee8c2e840c2ab2b66c5375bb377b4a4acbe3a94dbe3ae370"
 
 [[files]]
 file = "kubejs/server_scripts/unification/materials.js"
@@ -425,6 +437,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "c28d737b72469888790e82be2278b748f99759f68d601f0ae9ed27c342546d5d"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "09244be066036f64a87c943f16f880505851f7a272a74f8b480abc4ffd29ce0f"
 metafile = true
 
 [[files]]

@@ -487,14 +487,6 @@ ServerEvents.recipes((event) => {
 				item: 'botania:terrasteel_nugget',
 				amount: 8,
 			},
-			{
-				item: 'techreborn:industrial_circuit',
-				amount: 16,
-			},
-			{
-				item: 'indrev:circuit_mk4',
-				amount: 16,
-			}
 		],
 		fluid_inputs: [
 			{
@@ -906,10 +898,6 @@ ServerEvents.recipes((event) => {
 			}
 		]
 	});
-
-	// Remove recipes here
-
-	event.remove({output: 'modern_industrialization:redstone_tiny_dust' });
 
 	// Add recipes here
 
