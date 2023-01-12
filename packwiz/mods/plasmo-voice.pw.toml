@@ -3,11 +3,11 @@ filename = "plasmovoice-fabric-1.19.1-1.2.19.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/1bZhdhsH/versions/fabric-1.19.1-1.2.19/plasmovoice-fabric-1.19.1-1.2.19.jar"
 hash-format = "sha1"
 hash = "97bdd09cee79099eab41916a5c7b67f2c59225f8"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3903845
-project-id = 467028
+[update.modrinth]
+mod-id = "1bZhdhsH"
+version = "3UIMooYI"

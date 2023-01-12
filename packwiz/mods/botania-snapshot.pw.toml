@@ -1,9 +1,0 @@
-name = "Botania Fabric SNAPSHOT"
-filename = "Botania-1.19.2-436-FABRIC-20221008.221817-62.jar"
-side = "both"
-
-[download]
-url = "https://maven.blamejared.com/vazkii/botania/Botania/1.19.2-436-FABRIC-SNAPSHOT/Botania-1.19.2-436-FABRIC-20221111.045210-108.jar"
-
-hash-format = "sha256"
-hash = "19d3f3bb9bbf5eb1effcc0035c7644853f8abba0d6bb5167ac00c15c78661549"

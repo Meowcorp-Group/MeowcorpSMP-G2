@@ -3,11 +3,11 @@ filename = "wthit-fabric-5.13.4.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/VbTnrP6u/wthit-fabric-5.13.4.jar"
 hash-format = "sha1"
 hash = "7c5914680e67769b9cc3d1b303de14a6acdc4a6e"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4090702
-project-id = 440979
+[update.modrinth]
+mod-id = "6AQIaxuO"
+version = "VbTnrP6u"

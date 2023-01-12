@@ -30,6 +30,22 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  orientation = bottom-right
+  x = -198
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=287382%
+  orientation = mid-centered
+  x = -66
+  action = movebutton
+  y = 74
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = mid-centered
   x = 0
@@ -45,21 +61,6 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  orientation = mid-centered
-  x = 0
-  action = movebutton
-  y = 8
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  width = 108
-  action = resizebutton
-  height = 20
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   orientation = mid-centered
   x = -88
@@ -68,9 +69,65 @@ customization {
 }
 
 customization {
-  identifier = %id=376310%
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = mid-centered
-  x = -66
+  x = -110
+  action = movebutton
+  y = 8
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 108
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = 0
+  action = movebutton
+  y = 52
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 108
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=870980%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=870980%
+  orientation = bottom-right
+  x = -102
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=870980%
+  width = 100
+  action = resizebutton
+  height = 10
+}
+
+customization {
+  identifier = %id=870980%
+  action = setbuttonlabel
+  value = MeowcorpSMP G2 0.1
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-centered
+  x = -110
   action = movebutton
   y = 74
 }
@@ -111,41 +168,18 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   orientation = mid-centered
-  x = -110
+  x = 0
   action = movebutton
   y = 8
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   width = 108
   action = resizebutton
   height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  orientation = mid-centered
-  x = 0
-  action = movebutton
-  y = 52
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  width = 108
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  orientation = mid-centered
-  x = -110
-  action = movebutton
-  y = 74
 }
 
 customization {
@@ -421,16 +455,97 @@ customization {
 
 customization {
   orientation = mid-centered
-  loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = openfile
+  backgroundhovered = config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_folder_light_hover.png
+  label = 
+  loopbackgroundanimations = true
   x = 88
   width = 20
   actionid = 800218c3-c4fc-400a-9870-9b6371d404b61668853738248
   action = addbutton
   y = 74
-  label = IconIcon
+  backgroundnormal = config/openloader/resources/meowcorpsmp/assets/meowcorpsmp/gui/ess_folder_light.png
   value = .
   height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 22
+  width = 20
+  actionid = 4aff9981-b162-4581-bf48-423466470c781671786794354
+  action = addbutton
+  y = 74
+  label = 
+  value = 
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 0
+  width = 20
+  actionid = b9b691d2-e426-43e8-97cd-7909d10c8b481671786799048
+  action = addbutton
+  y = 74
+  label = 
+  value = 
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 44
+  width = 20
+  actionid = fc8d208c-a3ee-41d5-b2d0-94a98e9f4a2d1671786822286
+  action = addbutton
+  y = 74
+  label = 
+  value = 
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 66
+  width = 20
+  actionid = f03e7409-e06d-49a7-a17d-304339e2fd591671786835463
+  action = addbutton
+  y = 74
+  label = 
+  value = 
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = MeowcorpSMP G2 v1.0.0-pre2
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 2
+  width = 152
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = ce7bff91-850f-491d-8b03-8d6d61dcfde71671787094355
+  y = 249
+  alignment = left
+  height = 12
 }
 

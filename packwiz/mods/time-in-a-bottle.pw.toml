@@ -1,0 +1,13 @@
+name = "Time in a Bottle"
+filename = "time-in-a-bottle-1.6.2+mc1.19-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dQCBl2Ht/versions/1.6.2%2B1.19/time-in-a-bottle-1.6.2%2Bmc1.19-fabric.jar"
+hash-format = "sha1"
+hash = "78a2bba0af67735087b83f7cbbae59a001154a47"
+
+[update]
+[update.modrinth]
+mod-id = "dQCBl2Ht"
+version = "Nb08LRYs"
