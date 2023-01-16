@@ -1,6 +1,6 @@
 ServerEvents.recipes((event) => {
 
-    event.remove({'piercingpaxels:upgrade_unbreakable'});
+    event.remove({output: 'piercingpaxels:upgrade_unbreakable'});
     
     event.shaped('piecringpaxels:upgrade_unbreakable', 
     ['QNQ', 

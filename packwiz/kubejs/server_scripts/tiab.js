@@ -1,6 +1,6 @@
 ServerEvents.recipes((event) => {
 
-event.remove({'timeinabottle:time_in_a_bottle'})
+event.remove({output: 'timeinabottle:time_in_a_bottle'})
 
 event.shaped('timeinabottle:time_in_a_bottle', 
 ['GGG', 
