@@ -314,11 +314,11 @@ hash = "1fa2e580d1c815add6381c70ca89ab955c5e3ff218a7662067578a8551ad163c"
 
 [[files]]
 file = "kubejs/server_scripts/qol/forgehammer.js"
-hash = "643cd7f7df3b5a4b8e2f5689a4f769a20ba000544809b323d378087d24f75137"
+hash = "3bbead0cf5dc1e2243080dd7965ae4aab4c350e03698d68515aa2064cf6cb566"
 
 [[files]]
 file = "kubejs/server_scripts/qol/macerator.js"
-hash = "c5b75f88a20352eef9d4cbf89320732f8af63546231322b821f2c96c261ca1b1"
+hash = "015c2d7457dd2e48c087675a5bbde06e9ea2416ec1972a661816959481f57b5d"
 
 [[files]]
 file = "kubejs/server_scripts/qol/mechanicalmixer.js"
@@ -326,19 +326,19 @@ hash = "9c72f666a70f33d36bec22a4e25d4147e3f10758542643fe2db127cfde115a99"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "41cfd9598f27c344d0d96dae865d124146027c9a7ac8f7b957f1abb1d725a852"
+hash = "55edbabe6869655756977964edf30978ba8960292ad1917ed9e6901da40c8a77"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "da3992aedeaf0cfeaf115e00440dc3dfd10b2e4e6c98ce7d1a918209943aefa8"
+hash = "235e4057462fa618cdf7e4e5ea462e9de29030d718a383fe84ecda496c632381"
 
 [[files]]
 file = "kubejs/server_scripts/tiab.js"
-hash = "5cbf9022ebff2dda88c5ae0192dae7eaa0bc17d31a7756cce473b523bf1310d2"
+hash = "bf299ff4f535709c6f0b31480a316f21eac8ea09dea94befb0c51abe94bc4a39"
 
 [[files]]
 file = "kubejs/server_scripts/unbreakability.js"
-hash = "ff3537b7cc2885f1ee8c2e840c2ab2b66c5375bb377b4a4acbe3a94dbe3ae370"
+hash = "e6c339f4f1f3d322ac9f83f9e1ffb3acab0ce6a18c9ec62603fb87a687a3ee4e"
 
 [[files]]
 file = "kubejs/server_scripts/unification/materials.js"
@@ -350,7 +350,7 @@ hash = "d0eb391ec402b35750bd9a4fc876ede2acf27c32ea5f0e25f2aa17f1ca01a035"
 
 [[files]]
 file = "kubejs/server_scripts/utils/RecipeManager.js"
-hash = "d8d5c5ff6fdec659d39c15a26343cd0ec007ae5430df0a25e7cb517e85bf0808"
+hash = "d9ca239a2440a27c0cb9701c81a535f2d92a707712dcb3a1c8818fa155211f9e"
 
 [[files]]
 file = "kubejs/server_scripts/utils/TagManager.js"

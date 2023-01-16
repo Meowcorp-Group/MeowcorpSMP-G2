@@ -6,13 +6,13 @@ ServerEvents.recipes((event) => {
 	// Replace IO here
 
 	// Change recipes here
-    
+
 	// MI Quantum Armor Set
 
-	event.remove({output: 'modern_industrialization:quantum_helmet' });
-    event.remove({output: 'modern_industrialization:quantum_chestplate' });
-    event.remove({output: 'modern_industrialization:quantum_leggings'});
-	event.remove({output: 'modern_industrialization:quantum_boots' });
+	event.remove({ output: 'modern_industrialization:quantum_helmet' });
+	event.remove({ output: 'modern_industrialization:quantum_chestplate' });
+	event.remove({ output: 'modern_industrialization:quantum_leggings' });
+	event.remove({ output: 'modern_industrialization:quantum_boots' });
 	event.custom({
 		type: 'modern_industrialization:assembler',
 		eu: 32,
@@ -45,14 +45,14 @@ ServerEvents.recipes((event) => {
 			{
 				item: 'modern_industrialization:singularity',
 				amount: 4,
-			}
+			},
 		],
 		item_outputs: [
 			{
 				item: 'modern_industrialization:quantum_helmet',
 				amount: 1,
-		    }
-		]
+			},
+		],
 	});
 
 	event.custom({
@@ -87,14 +87,14 @@ ServerEvents.recipes((event) => {
 			{
 				item: 'modern_industrialization:singularity',
 				amount: 7,
-			}
+			},
 		],
 		item_outputs: [
 			{
 				item: 'modern_industrialization:quantum_chestplate',
 				amount: 1,
-		    }
-		]
+			},
+		],
 	});
 
 	event.custom({
@@ -129,14 +129,14 @@ ServerEvents.recipes((event) => {
 			{
 				item: 'modern_industrialization:singularity',
 				amount: 6,
-			}
+			},
 		],
 		item_outputs: [
 			{
 				item: 'modern_industrialization:quantum_leggings',
 				amount: 1,
-		    }
-		]
+			},
+		],
 	});
 
 	event.custom({
@@ -171,19 +171,19 @@ ServerEvents.recipes((event) => {
 			{
 				item: 'modern_industrialization:singularity',
 				amount: 4,
-			}
+			},
 		],
 		item_outputs: [
 			{
 				item: 'modern_industrialization:quantum_boots',
 				amount: 1,
-		    }
-		]
+			},
+		],
 	});
 
 	// Quantum Sword
-    
-	event.remove({output: 'modern_industrialization:quantum_sword'})
+
+	event.remove({ output: 'modern_industrialization:quantum_sword' });
 	event.custom({
 		type: 'modern_industrialization:assembler',
 		eu: 32,
@@ -220,17 +220,17 @@ ServerEvents.recipes((event) => {
 			{
 				item: 'modern_industrialization:singularity',
 				amount: 16,
-			}
+			},
 		],
 		item_outputs: [
 			{
 				item: 'modern_industrialization:quantum_sword',
 				amount: 1,
-		    }
-		]
+			},
+		],
 	});
 
-    // Quantum Upgrade
+	// Quantum Upgrade
 
 	event.remove({ output: 'modern_industrialization:quantum_upgrade' });
 	event.custom({
@@ -278,7 +278,7 @@ ServerEvents.recipes((event) => {
 
 	// Quantum Processor
 
-	event.remove({output: 'modern_industrialization:quantum_circuit'});
+	event.remove({ output: 'modern_industrialization:quantum_circuit' });
 	event.custom({
 		type: 'modern_industrialization:assembler',
 		eu: 32,
@@ -308,7 +308,7 @@ ServerEvents.recipes((event) => {
 				item: 'indrev:circuit_mk4',
 				amount: 16,
 			},
-            {
+			{
 				item: 'techreborn:industrial_circuit',
 				amount: 16,
 			},
@@ -322,7 +322,7 @@ ServerEvents.recipes((event) => {
 	});
 
 	// Tech Reborn Industrial Circuit
-	event.remove({output: 'techreborn:industrial_circuit'});
+	event.remove({ output: 'techreborn:industrial_circuit' });
 	event.custom({
 		type: 'modern_industrialization:assembler',
 		eu: 16,
@@ -345,14 +345,16 @@ ServerEvents.recipes((event) => {
 			{
 				item: 'techreborn:industrial_circuit',
 				amount: 1,
-			}
-		]
+			},
+		],
 	});
-	
+
 	// Processing Boards
 
 	// Electronic Circuit Board
-	event.remove({output: 'modern_industrialization:electronic_circuit_board'});
+	event.remove({
+		output: 'modern_industrialization:electronic_circuit_board',
+	});
 	event.custom({
 		type: 'modern_industrialization:assembler',
 		eu: 8,
@@ -379,11 +381,11 @@ ServerEvents.recipes((event) => {
 			{
 				item: 'modern_industrialization:electronic_circuit_board',
 				amount: 1,
-			}
+			},
 		],
 	});
-    
-    event.remove({output: 'modern_industrialization:digital_circuit_board'});
+
+	event.remove({ output: 'modern_industrialization:digital_circuit_board' });
 	event.custom({
 		type: 'modern_industrialization:assembler',
 		eu: 16,
@@ -410,17 +412,17 @@ ServerEvents.recipes((event) => {
 			{
 				fluid: 'modern_industrialization:polyethylene',
 				amount: 750,
-			}
+			},
 		],
 		item_outputs: [
 			{
 				item: 'modern_industrialization:digital_circuit_board',
 				amount: 1,
-			}
+			},
 		],
 	});
 
-	event.remove({output: 'modern_industrialization:processing_unit_board'});
+	event.remove({ output: 'modern_industrialization:processing_unit_board' });
 	event.custom({
 		type: 'modern_industrialization:assembler',
 		eu: 32,
@@ -445,23 +447,23 @@ ServerEvents.recipes((event) => {
 			{
 				item: 'botania:terrasteel_nugget',
 				amount: 4,
-			}
+			},
 		],
-		fluid_inputs:[
+		fluid_inputs: [
 			{
 				fluid: 'modern_industrialization:polyvinyl_chloride',
 				amount: 1500,
-			}
+			},
 		],
 		item_outputs: [
 			{
 				item: 'modern_industrialization:processing_unit_board',
 				amount: 1,
-			}
+			},
 		],
 	});
-    
-	event.remove({output: 'modern_industrialization:quantum_circuit_board'});
+
+	event.remove({ output: 'modern_industrialization:quantum_circuit_board' });
 	event.custom({
 		type: 'modern_industrialization:assembler',
 		eu: 64,
@@ -492,22 +494,22 @@ ServerEvents.recipes((event) => {
 			{
 				fluid: 'modern_industrialization:helium_3',
 				amount: 50,
-			}
+			},
 		],
 		item_outputs: [
 			{
 				item: 'modern_industrialization:quantum_circuit_board',
 				amount: 1,
-			}
+			},
 		],
 	});
 
 	// Tech Reborn Quantum Suit
 
-	event.remove({output: 'techreborn:quantum_helmet'});
-	event.remove({output: 'techreborn:quantum_chestplate'});
-	event.remove({output: 'techreborn:quantum_leggings'});
-	event.remove({output: 'techreborn:quantum_boots'});
+	event.remove({ output: 'techreborn:quantum_helmet' });
+	event.remove({ output: 'techreborn:quantum_chestplate' });
+	event.remove({ output: 'techreborn:quantum_leggings' });
+	event.remove({ output: 'techreborn:quantum_boots' });
 	event.custom({
 		type: 'modern_industrialization:assembler',
 		eu: 24,
@@ -528,14 +530,14 @@ ServerEvents.recipes((event) => {
 			{
 				item: 'techreborn:superconductor',
 				amount: 2,
-			}
+			},
 		],
 		item_outputs: [
 			{
 				item: 'techreborn:quantum_helmet',
 				amount: 1,
-			}
-		]
+			},
+		],
 	});
 
 	event.custom({
@@ -548,7 +550,7 @@ ServerEvents.recipes((event) => {
 				amount: 4,
 			},
 			{
-                item: 'modern_industrialization:gravichestplate',
+				item: 'modern_industrialization:gravichestplate',
 				amount: 1,
 			},
 			{
@@ -566,14 +568,14 @@ ServerEvents.recipes((event) => {
 			{
 				item: 'techreborn:iridium_neutron_reflector',
 				amount: 1,
-			}
+			},
 		],
 		item_outputs: [
 			{
 				item: 'techreborn:quantum_chestplate',
 				amount: 1,
-			}
-		]
+			},
+		],
 	});
 
 	event.custom({
@@ -596,14 +598,14 @@ ServerEvents.recipes((event) => {
 			{
 				item: 'techreborn:superconductor',
 				amount: 2,
-			}
+			},
 		],
 		item_outputs: [
 			{
 				item: 'techreborn:quantum_leggings',
 				amount: 1,
-			}
-		]
+			},
+		],
 	});
 
 	event.custom({
@@ -611,8 +613,8 @@ ServerEvents.recipes((event) => {
 		eu: 24,
 		duration: 800,
 		item_inputs: [
-			{ 
-                item: 'techreborn:tungstensteel_plate',
+			{
+				item: 'techreborn:tungstensteel_plate',
 				amount: 2,
 			},
 			{
@@ -626,33 +628,33 @@ ServerEvents.recipes((event) => {
 			{
 				item: 'techreborn:superconductor',
 				amount: 2,
-			}
+			},
 		],
 		item_outputs: [
 			{
 				item: 'techreborn:quantum_boots',
 				amount: 1,
-			}
-		]
+			},
+		],
 	});
 
 	// Lapotron Crystal
-	event.remove({output: 'techreborn:lapotron_crystal'});
-	event.shaped('techreborn:lapotron_crystal', ['LIL','LEL','MIM'], {
+	event.remove({ output: 'techreborn:lapotron_crystal' });
+	event.shaped('techreborn:lapotron_crystal', ['LIL', 'LEL', 'MIM'], {
 		L: 'techreborn:lazurite_plate',
 		E: 'techreborn:energy_crystal',
 		I: 'techreborn:industrial_circuit',
 		M: 'botania:mana_diamond',
 	});
 
-	// Indrev Modular Suit 
+	// Indrev Modular Suit
 
-	event.remove({output: 'indrev:modular_armor_helmet'});
+	event.remove({ output: 'indrev:modular_armor_helmet' });
 	event.custom({
 		type: 'modern_industrialization:assembler',
 		eu: 24,
 		duration: 800,
-		item_inputs:[
+		item_inputs: [
 			{
 				item: 'minecraft:netherite_ingot',
 				amount: 4,
@@ -686,16 +688,16 @@ ServerEvents.recipes((event) => {
 			{
 				item: 'indrev:modular_armor_helmet',
 				amount: 1,
-			}
+			},
 		],
 	});
 
-	event.remove({output: 'indrev:modular_armor_chest'});
+	event.remove({ output: 'indrev:modular_armor_chest' });
 	event.custom({
 		type: 'modern_industrialization:assembler',
 		eu: 24,
 		duration: 800,
-		item_inputs:[
+		item_inputs: [
 			{
 				item: 'minecraft:netherite_ingot',
 				amount: 8,
@@ -729,16 +731,16 @@ ServerEvents.recipes((event) => {
 			{
 				item: 'indrev:modular_armor_chest',
 				amount: 1,
-			}
+			},
 		],
 	});
 
-	event.remove({output: 'indrev:modular_armor_legs'});
+	event.remove({ output: 'indrev:modular_armor_legs' });
 	event.custom({
 		type: 'modern_industrialization:assembler',
 		eu: 24,
 		duration: 800,
-		item_inputs:[
+		item_inputs: [
 			{
 				item: 'minecraft:netherite_ingot',
 				amount: 7,
@@ -772,16 +774,16 @@ ServerEvents.recipes((event) => {
 			{
 				item: 'indrev:modular_armor_legs',
 				amount: 1,
-			}
+			},
 		],
 	});
 
-	event.remove({output: 'indrev:modular_armor_boots'});
+	event.remove({ output: 'indrev:modular_armor_boots' });
 	event.custom({
 		type: 'modern_industrialization:assembler',
 		eu: 24,
 		duration: 800,
-		item_inputs:[
+		item_inputs: [
 			{
 				item: 'minecraft:netherite_ingot',
 				amount: 4,
@@ -815,23 +817,23 @@ ServerEvents.recipes((event) => {
 			{
 				item: 'indrev:modular_armor_boots',
 				amount: 1,
-			}
+			},
 		],
 	});
 
-    // Gamer Axe
-	event.remove({output: 'indrev:gamer_axe'});
+	// Gamer Axe
+	event.remove({ output: 'indrev:gamer_axe' });
 	event.custom({
 		type: 'modern_industrialization:assembler',
 		eu: 24,
 		duration: 800,
-		item_inputs:[
+		item_inputs: [
 			{
 				item: 'minecraft:netherite_ingot',
 				amount: 4,
 			},
 			{
-                item: 'modern_industrialization:steel_plate',
+				item: 'modern_industrialization:steel_plate',
 				amount: 6,
 			},
 			{
@@ -859,13 +861,13 @@ ServerEvents.recipes((event) => {
 			{
 				item: 'indrev:gamer_axe',
 				amount: 1,
-			}
+			},
 		],
 	});
 
 	// Tech Reborn Tools
 
-	event.remove({output: 'techreborn:nanosaber'})
+	event.remove({ output: 'techreborn:nanosaber' });
 	event.custom({
 		type: 'modern_industrialization:assembler',
 		eu: 24,
@@ -890,13 +892,13 @@ ServerEvents.recipes((event) => {
 			{
 				item: 'techreborn:industrial_circuit',
 				amount: 2,
-			}
+			},
 		],
 		item_outputs: [
 			{
-				item: 'techreborn:nanosaber'
-			}
-		]
+				item: 'techreborn:nanosaber',
+			},
+		],
 	});
 
 	// Add recipes here
@@ -906,5 +908,3 @@ ServerEvents.recipes((event) => {
 		F: 'minecraft:fire_charge',
 	});
 });
-
-
