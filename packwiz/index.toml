@@ -725,11 +725,6 @@ hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
 metafile = true
 
 [[files]]
-file = "mods/morechathistory.pw.toml"
-hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
-metafile = true
-
-[[files]]
 file = "mods/mythic-mounts.pw.toml"
 hash = "e3d0fc3e7a839976ea80b3249885e11ef8873d585753a721325939e0bc8b718e"
 metafile = true
