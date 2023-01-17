@@ -871,7 +871,7 @@ metafile = true
 
 [[files]]
 file = "mods/your-reputation.pw.toml"
-hash = "8379255314bce0cdf2d2e179c0e6c30c9c175fab5c25d003497b7621da6b5298"
+hash = "c561a147729d9eb76f875bd10fa3b3086332520282656571fa5918c62c88bb22"
 metafile = true
 
 [[files]]
