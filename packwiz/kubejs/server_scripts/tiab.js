@@ -5,7 +5,7 @@ ServerEvents.recipes((event) => {
 		G: 'minecraft:gold_ingot',
 		C: 'minecraft:clock',
 		D: 'botania:mana_diamond',
-		M: 'botania:rune_of_mana',
+		M: 'botania:rune_mana',
 		B: 'minecraft:bottle',
 	});
 });
