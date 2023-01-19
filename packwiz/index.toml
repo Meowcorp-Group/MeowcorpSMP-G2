@@ -301,10 +301,6 @@ file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
-file = "kubejs/client_scripts/unification/hidematerials.jspending"
-hash = "54c052cba3c3346e587a29673677fae7ddc200f3ae5bd33adbbf97af8ad71179"
-
-[[files]]
 file = "kubejs/config/client.properties"
 hash = "7d8d5c9883de4f36553bc360ee7dbb9bc9690e9971bf7b0b7b56b2995e2d4ea2"
 
@@ -339,10 +335,6 @@ hash = "bf299ff4f535709c6f0b31480a316f21eac8ea09dea94befb0c51abe94bc4a39"
 [[files]]
 file = "kubejs/server_scripts/unbreakability.js"
 hash = "e6c339f4f1f3d322ac9f83f9e1ffb3acab0ce6a18c9ec62603fb87a687a3ee4e"
-
-[[files]]
-file = "kubejs/server_scripts/unification/materials.js"
-hash = "915b8b038b569104f862e55641e443e70b5f768e745f1e3bbd3fc676a5a470b9"
 
 [[files]]
 file = "kubejs/server_scripts/utils/Aliases.js"
