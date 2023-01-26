@@ -330,11 +330,11 @@ hash = "235e4057462fa618cdf7e4e5ea462e9de29030d718a383fe84ecda496c632381"
 
 [[files]]
 file = "kubejs/server_scripts/tiab.js"
-hash = "bf299ff4f535709c6f0b31480a316f21eac8ea09dea94befb0c51abe94bc4a39"
+hash = "d0d43e3aa63272c12abf9f7164a77d33e265c5aa7fe6eced62965fe85e1d161e"
 
 [[files]]
 file = "kubejs/server_scripts/unbreakability.js"
-hash = "e6c339f4f1f3d322ac9f83f9e1ffb3acab0ce6a18c9ec62603fb87a687a3ee4e"
+hash = "1205a1bd447d939660c3977ecdaf19d8aa5d2fa9e504511c2e728ada3f69a1cd"
 
 [[files]]
 file = "kubejs/server_scripts/utils/Aliases.js"
