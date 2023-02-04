@@ -329,6 +329,10 @@ file = "kubejs/server_scripts/recipes/shaped.js"
 hash = "944dfe6729a76c79db556dc064df6bc012a5a67d4cf6e45cc287d1fddc6499fc"
 
 [[files]]
+file = "kubejs/server_scripts/tags/materials.js"
+hash = "058a9d015621431397e3e9af767b768993afc5e89f1a02c75497c845470b4647"
+
+[[files]]
 file = "kubejs/server_scripts/tags/tags.js"
 hash = "235e4057462fa618cdf7e4e5ea462e9de29030d718a383fe84ecda496c632381"
 
@@ -399,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "6e2a7ae250c6997f6d6d23a772a267107a3d7fbd7137d13c62e7121ec06e3519"
+hash = "744abba2566fd402bf2eeda7ad6e6b8921deda07f691b58718da2b9761c78cb4"
 metafile = true
 
 [[files]]
@@ -454,12 +458,12 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "a66b926a25674c757a65b5451ed5d36c139a2bd7c1f523533b8fe2a9e893fb31"
+hash = "a9a4460704e86de7f41faaec88cc1881b285cbcb815c1033f7d14844a2cef425"
 metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "b6d88ec0e940243d228316c8b3a186c4bb5024e8dba627c88bdc29f93bf7e31b"
+hash = "7834481f76838453cdcc6c3a9eca9cd46e3199c0ff1788720d707507c8a03a75"
 metafile = true
 
 [[files]]
@@ -489,12 +493,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "acbe2b86cf452fd742fe76d32b6473f1da2f3e8f2d36d43a6f96fc32b369327e"
+hash = "d335568e8a10a9f1b14f828870474d99798f8e33b687ba1e765e7827f744fadc"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "6b6203af7dc03a920fb09c81f79340d9d6d1bc9a9f9c3682db49e3b085d54549"
+hash = "c9b76faa13062eea32d52fac5e90ee7869700b487e53cf0307142dbaea5fb989"
 metafile = true
 
 [[files]]
@@ -529,17 +533,17 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "a7a2896eca69d913e8543ee903b10784b2684b7a8fce5cb99ec7d44bf796c8a5"
+hash = "c7272893ee81268343099cc7fc80d4043bed47f14fd6a07e9e19ce37685dc8ca"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8c9f6599af1f4fd75e124bc63fdf7d7bb978841cba6edbe5a0a2bd77a4fc0624"
+hash = "cdc7eee1590bd54a3011dd030d3567e2e417d7ef1af23d124190823370670e87"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
+hash = "0fe83c99b29c952f464c7bfba9cc86cc4f834bef7834821433fe23ce3dd230e6"
 metafile = true
 
 [[files]]
@@ -569,7 +573,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-fabric.pw.toml"
-hash = "ce0952423cdf1da9b23f805e5654a8b2b1c838fdfde45a981092b01925ac7dc5"
+hash = "d30726cc7c3f7e819c38764c73351807fcb56bc14de011fdeabe298069b53255"
 metafile = true
 
 [[files]]
@@ -579,7 +583,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-teams-fabric.pw.toml"
-hash = "306ee24cdf6a03f0b843aeef13c6eb59a25e09ebe1f0c93b1a95e1df54cd0cff"
+hash = "7b4a6673987fc6becfc09a3e01ccce288113cfaefbbf1ad6f3bfa796c75d501a"
 metafile = true
 
 [[files]]
@@ -619,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
+hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
 metafile = true
 
 [[files]]
@@ -639,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "6e06fcacd3d3b08a6623fb497876ea3028260379c64539fb8c82c251429e5f5d"
+hash = "707f084564b8548690f44fc42d81854f84ca874bbbace121600fb67b0a979a4e"
 metafile = true
 
 [[files]]
@@ -739,7 +743,7 @@ metafile = true
 
 [[files]]
 file = "mods/paradise-lost.pw.toml"
-hash = "1877b51604f697c5199f1de7b88031b59c1ea14345d1ec132ffc074c7224c3a6"
+hash = "a3e2b4163f57d1f711a5be765d0d1a4c7722bcd0f35a141c0f177d59e2ca17d6"
 metafile = true
 
 [[files]]
@@ -774,7 +778,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "c70f7d34c3653cc2dd737bd4603438f5a15048269f1029e3c35c0ac7db012df6"
+hash = "df7da6ff53801d267c420cf3487df8cc92de2db7bbc8c085747e51f2702c6bfb"
 metafile = true
 
 [[files]]
@@ -804,7 +808,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f32a81d66cdf147fb1a0a487f067bff74f8e101258cc551eaa232ef27ba5eea9"
+hash = "831ed4a4f16c32522312b7d33ea5b35e17b3896d555ec002aaa7463c6eb8a220"
 metafile = true
 
 [[files]]
@@ -819,7 +823,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-backpack-fabric.pw.toml"
-hash = "8ae3b1e45feb1458fd7d9f2a776e917e7a1795add14b8699c2ef5ab9b7602588"
+hash = "82ff7549723785a7885daae17fd754317b4fedfa8f69d81dce3fd714252cae30"
 metafile = true
 
 [[files]]
@@ -839,17 +843,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "5031396a7cf279acf8b4c14183a1d8dbbfc287d3e82b3c6926544a8b4cd43c0c"
+hash = "124b52dd8e11a45a31446cde30e64174bba2dfd4dfbd3d3c5c63986e81ee5ffe"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "afc5f3bf4cae41e848070a109287bc6607c2f46045fc452da5d43189358adcb6"
+hash = "17d831dc9a5939806f745aadeb8a0b11b0f1c7f587043e0d1aa77f40c76f73b9"
 metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "69369708233e70a88d14445ba54e7a227cfcaf6f13bd5c7cfd3cd09f6d4fab51"
+hash = "d50f1f988b35d7b788d945fece5e8605daac9c9b819a23f2ed3f87e9142f4a24"
 metafile = true
 
 [[files]]

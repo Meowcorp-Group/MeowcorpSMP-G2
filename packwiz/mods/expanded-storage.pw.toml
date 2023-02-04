@@ -1,13 +1,13 @@
 name = "Expanded Storage"
-filename = "expandedstorage-8.1.0-beta.3+1.19.2-fabric.jar"
+filename = "expandedstorage-8.1.0-beta.5+1.19.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/F56tBubk/versions/hNRjVKqf/expandedstorage-8.1.0-beta.3%2B1.19.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/F56tBubk/versions/AgQsVx0U/expandedstorage-8.1.0-beta.5%2B1.19.2-fabric.jar"
 hash-format = "sha1"
-hash = "816ec1f36ddc983961f9a83d9902e8132ac9b83b"
+hash = "575f951a95be6113d0ed422ce6218456778ea210"
 
 [update]
 [update.modrinth]
 mod-id = "F56tBubk"
-version = "hNRjVKqf"
+version = "AgQsVx0U"
