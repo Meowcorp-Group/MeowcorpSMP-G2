@@ -1,22 +1,7 @@
 ServerEvents.recipes((event) => {
 	// TODO: migrate to new RecipeManager format
 	const recipe = new RecipeManager(event);
+	// ex: MIForgeHammer(10, 100, ['4x indrev:steel_ingot', '128x minecraft:dirt', 'c:brass_ingots'], ['128x minecraft:stone', 'minecraft:stone', 'minecraft:stone']);
 
-	event.custom({
-		type: 'modern_industrialization:forge_hammer',
-		duration: 0,
-		eu: 30,
-		item_inputs: [
-			{
-				amount: 3,
-				item: 'create:raw_zinc',
-			},
-		],
-		item_outputs: [
-			{
-				amount: 4,
-				item: 'techreborn:zinc_dust',
-			},
-		],
-	});
+	recipe.MIForgeHammer(0, 30, ['3x create:raw_zinc'], ['4x techreborn:zinc_dust']);
 });

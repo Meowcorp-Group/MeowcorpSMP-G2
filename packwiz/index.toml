@@ -310,7 +310,7 @@ hash = "1fa2e580d1c815add6381c70ca89ab955c5e3ff218a7662067578a8551ad163c"
 
 [[files]]
 file = "kubejs/server_scripts/qol/forgehammer.js"
-hash = "3bbead0cf5dc1e2243080dd7965ae4aab4c350e03698d68515aa2064cf6cb566"
+hash = "107735bacdee893844d174597f3722c21bb073c7fd25509ac53925132215d4f2"
 
 [[files]]
 file = "kubejs/server_scripts/qol/macerator.js"
@@ -318,7 +318,7 @@ hash = "015c2d7457dd2e48c087675a5bbde06e9ea2416ec1972a661816959481f57b5d"
 
 [[files]]
 file = "kubejs/server_scripts/qol/mechanicalmixer.js"
-hash = "9c72f666a70f33d36bec22a4e25d4147e3f10758542643fe2db127cfde115a99"
+hash = "8555f9dcb4b9c7a2063cf2e1d211b641d8470f1909ab464dcb8312cd1afda8c9"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
@@ -342,7 +342,7 @@ hash = "d0eb391ec402b35750bd9a4fc876ede2acf27c32ea5f0e25f2aa17f1ca01a035"
 
 [[files]]
 file = "kubejs/server_scripts/utils/RecipeManager.js"
-hash = "d9ca239a2440a27c0cb9701c81a535f2d92a707712dcb3a1c8818fa155211f9e"
+hash = "491c9342f672a803159954878e003c6a3229d3217d85389954e583a690dd58b8"
 
 [[files]]
 file = "kubejs/server_scripts/utils/TagManager.js"
