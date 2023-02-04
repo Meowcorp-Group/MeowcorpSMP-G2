@@ -93,7 +93,7 @@ ServerEvents.recipes((event) => {
 		[
 			'3x modern_industrialization:yttrium_dust',
 			'3x modern_industrialization:annealed_copper_dust',
-			'2x modern_industrialization:neodynium_dust',
+			'2x modern_industrialization:neodymium_dust',
 			'modern_industrialization:iridium_dust',
 		],
 		['9x modern_industrialization:superconductor_dust']
@@ -104,7 +104,7 @@ ServerEvents.recipes((event) => {
 		[
 			'3x modern_industrialization:yttrium_tiny_dust',
 			'3x modern_industrialization:annealed_copper_tiny_dust',
-			'2x modern_industrialization:neodynium_tiny_dust',
+			'2x modern_industrialization:neodymium_tiny_dust',
 			'modern_industrialization:iridium_tiny_dust',
 		],
 		['9x modern_industrialization:tiny_superconductor_dust']

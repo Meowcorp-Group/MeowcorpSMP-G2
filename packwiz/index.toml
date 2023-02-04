@@ -309,32 +309,28 @@ file = "kubejs/config/common.properties"
 hash = "1fa2e580d1c815add6381c70ca89ab955c5e3ff218a7662067578a8551ad163c"
 
 [[files]]
-file = "kubejs/server_scripts/qol/forgehammer.js"
-hash = "107735bacdee893844d174597f3722c21bb073c7fd25509ac53925132215d4f2"
-
-[[files]]
-file = "kubejs/server_scripts/qol/macerator.js"
-hash = "015c2d7457dd2e48c087675a5bbde06e9ea2416ec1972a661816959481f57b5d"
-
-[[files]]
-file = "kubejs/server_scripts/qol/mechanicalmixer.js"
-hash = "8555f9dcb4b9c7a2063cf2e1d211b641d8470f1909ab464dcb8312cd1afda8c9"
-
-[[files]]
-file = "kubejs/server_scripts/recipes.js"
+file = "kubejs/server_scripts/recipes/assembler.js"
 hash = "55edbabe6869655756977964edf30978ba8960292ad1917ed9e6901da40c8a77"
 
 [[files]]
-file = "kubejs/server_scripts/tags.js"
+file = "kubejs/server_scripts/recipes/forgehammer.js"
+hash = "107735bacdee893844d174597f3722c21bb073c7fd25509ac53925132215d4f2"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/macerator.js"
+hash = "015c2d7457dd2e48c087675a5bbde06e9ea2416ec1972a661816959481f57b5d"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/mechanicalmixer.js"
+hash = "910efdbee17e3e28116312fc39595bbecc91cc5ccabf6778c2e0edc237d49227"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/shaped.js"
+hash = "944dfe6729a76c79db556dc064df6bc012a5a67d4cf6e45cc287d1fddc6499fc"
+
+[[files]]
+file = "kubejs/server_scripts/tags/tags.js"
 hash = "235e4057462fa618cdf7e4e5ea462e9de29030d718a383fe84ecda496c632381"
-
-[[files]]
-file = "kubejs/server_scripts/tiab.js"
-hash = "d0d43e3aa63272c12abf9f7164a77d33e265c5aa7fe6eced62965fe85e1d161e"
-
-[[files]]
-file = "kubejs/server_scripts/unbreakability.js"
-hash = "1205a1bd447d939660c3977ecdaf19d8aa5d2fa9e504511c2e728ada3f69a1cd"
 
 [[files]]
 file = "kubejs/server_scripts/utils/Aliases.js"
