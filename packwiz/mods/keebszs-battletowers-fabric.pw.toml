@@ -1,0 +1,13 @@
+name = "Keebsz's Battle Towers"
+filename = "keebszs_battle_towers-0.4.1-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3592a92093f1ed68c1a1a77362d0f9117b114774"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4276752
+project-id = 655693

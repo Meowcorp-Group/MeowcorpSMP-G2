@@ -1,13 +1,13 @@
-name = "Trinkets (Fabric)"
-filename = "trinkets-3.4.0.jar"
+name = "Trinkets"
+filename = "trinkets-3.4.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/5aaWibi9/versions/OLwsMJv4/trinkets-3.4.2.jar"
 hash-format = "sha1"
-hash = "4033ec814a8d4fb5900bfce826493731e623d6f0"
-mode = "metadata:curseforge"
+hash = "83deb9f7ab28737a5d27a57e49fe105e9053804c"
 
 [update]
-[update.curseforge]
-file-id = 3820928
-project-id = 341284
+[update.modrinth]
+mod-id = "5aaWibi9"
+version = "OLwsMJv4"
