@@ -507,6 +507,11 @@ hash = "7f2bac9db41f54dfc2f505602ea94e9fcd01454282f3d7f0075fb61ad2543e76"
 metafile = true
 
 [[files]]
+file = "mods/emiffect.pw.toml"
+hash = "85f91bd1ff7f77e9e5b5d81844c1ec62b3a3815954b1d4f6ac1ad86ae6032909"
+metafile = true
+
+[[files]]
 file = "mods/emitrades.pw.toml"
 hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
 metafile = true
@@ -534,6 +539,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-storage.pw.toml"
 hash = "c7272893ee81268343099cc7fc80d4043bed47f14fd6a07e9e19ce37685dc8ca"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "814b3955219c3f1e6b10636b34c5615e09125df7138cad391fce3db39974a340"
 metafile = true
 
 [[files]]
