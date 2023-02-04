@@ -46,11 +46,12 @@ ServerEvents.tags('item', event => {
     event.add("c:gold_plates", "create:golden_sheet")
 
     // Create Additions
-    event.add("c:zinc_plates", "createaddition:zinc_sheet")
-    event.add("c:diamond_dusts", "createaddition:diamond_grit")
-    event.add("c:iron_rods", "createaddition:iron_rod")
-    event.add("c:gold_rods", "createaddition:gold_rod")
-    event.add("c:copper_rods", "createaddition:copper_rod")
+	// DISABLED: create addition doesn't work yet on latest Create
+    // event.add("c:zinc_plates", "createaddition:zinc_sheet")
+    // event.add("c:diamond_dusts", "createaddition:diamond_grit")
+    // event.add("c:iron_rods", "createaddition:iron_rod")
+    // event.add("c:gold_rods", "createaddition:gold_rod")
+    // event.add("c:copper_rods", "createaddition:copper_rod")
 
     // Tech Reborn
     event.add("c:plates/brass", "techreborn:brass_plate")

@@ -330,7 +330,7 @@ hash = "944dfe6729a76c79db556dc064df6bc012a5a67d4cf6e45cc287d1fddc6499fc"
 
 [[files]]
 file = "kubejs/server_scripts/tags/materials.js"
-hash = "058a9d015621431397e3e9af767b768993afc5e89f1a02c75497c845470b4647"
+hash = "5932e58664d64aa08cd1e23e5277e3d82cca43512ddc102e18917b2a9477da00"
 
 [[files]]
 file = "kubejs/server_scripts/tags/tags.js"
