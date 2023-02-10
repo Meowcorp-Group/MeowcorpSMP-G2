@@ -353,10 +353,6 @@ file = "kubejs/startup_scripts/registry.js"
 hash = "53acc8c84dbee09011e55dfe966d9b537ef448862f1f0101d4ef3311c1cf7c1d"
 
 [[files]]
-file = "modpackinfo.json"
-hash = "b66cc9f1d28275277119334581a9b149215cf05302e9d7d02f2aa2320705ffb8"
-
-[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "813c9e3195948559d0daeb5a03ac0169645719c01a9604bebc61ae71d03525a0"
 metafile = true
@@ -383,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
+hash = "a714c0d9b19e623a1ed9e130c446174a7eda24a7146afeb4e2d82498f8c8ea5c"
 metafile = true
 
 [[files]]
@@ -463,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "7834481f76838453cdcc6c3a9eca9cd46e3199c0ff1788720d707507c8a03a75"
+hash = "8b6b35edb19ad88e9a04a295fa8d1d1dcccb44288ab2526371734625a95d1989"
 metafile = true
 
 [[files]]
@@ -588,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
-hash = "8734e4d8118d6723447c0cf958c906da59caa8899bf06b0efabc9c80c1ff331b"
+hash = "6ab3eb4d76bd46affe125b568d7fbb4ebd3d563bfe78c7696aa7ce52feb34a18"
 metafile = true
 
 [[files]]
@@ -833,7 +829,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-backpack-fabric.pw.toml"
-hash = "82ff7549723785a7885daae17fd754317b4fedfa8f69d81dce3fd714252cae30"
+hash = "1ef31378a0b15a515cbce4f1ef6a6f6f5204be89db50b346c1a44cca35c58fe2"
 metafile = true
 
 [[files]]
@@ -884,7 +880,3 @@ metafile = true
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
 hash = "1014bede16dd935438003e691158abaa0d9e323b599d045115243616f9100ea2"
-
-[[files]]
-file = "updatetool"
-hash = "4a883356a1fd93df369f68495fe6933a9b7ca59e75fab820599e57a06b25c7dd"
